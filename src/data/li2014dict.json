@@ -1,0 +1,8192 @@
+[
+  {
+    "id": "325-1",
+    "Basay": "a",
+    "Basay.IPA": "a",
+    "ZH_TW": "繫詞",
+    "ENG": "ligature"
+  },
+  {
+    "id": "325-2",
+    "Basay": "aikaku",
+    "Basay.IPA": "aikaku",
+    "ZH_TW": "悲傷",
+    "ENG": "sad"
+  },
+  {
+    "id": "325-3",
+    "Basay": "-aku",
+    "Basay.IPA": "-aku",
+    "ZH_TW": "我的",
+    "ENG": "my (GEN)"
+  },
+  {
+    "id": "325-4",
+    "Basay": "akuan!",
+    "Basay.IPA": "akuan!",
+    "ZH_TW": "不可以！",
+    "ENG": "Don't!"
+  },
+  {
+    "id": "325-5",
+    "Basay": "al",
+    "Basay.IPA": "al",
+    "ZH_TW": "看",
+    "ENG": "see"
+  },
+  {
+    "id": "325-6",
+    "Basay": "alan, alra, alran",
+    "Basay.IPA": "alan, aɭa, aɭan",
+    "ZH_TW": "捉，抓，拿",
+    "ENG": "catch, take"
+  },
+  {
+    "id": "325-7",
+    "Basay": "alasa",
+    "Basay.IPA": "alasa",
+    "ZH_TW": "漂浮",
+    "ENG": "drift"
+  },
+  {
+    "id": "325-8",
+    "Basay": "alraiqani (S)",
+    "Basay.IPA": "aɭaiqani (S)",
+    "ZH_TW": "搬",
+    "ENG": "move"
+  },
+  {
+    "id": "325-9",
+    "Basay": "amenen (S)",
+    "Basay.IPA": "amənən (S)",
+    "ZH_TW": "醒來",
+    "ENG": "wake up"
+  },
+  {
+    "id": "325-10",
+    "Basay": "anailran",
+    "Basay.IPA": "anaiɭan",
+    "ZH_TW": "做羽毛",
+    "ENG": "make feather"
+  },
+  {
+    "id": "326-1",
+    "Basay": "anaingan (M)",
+    "Basay.IPA": "aneŋan (M)",
+    "ZH_TW": "瘧疾",
+    "ENG": "malaria"
+  },
+  {
+    "id": "326-2",
+    "Basay": "anem (M)",
+    "Basay.IPA": "anəm (M)",
+    "ZH_TW": "心臟",
+    "ENG": "heart"
+  },
+  {
+    "id": "326-3",
+    "Basay": "apen, apun",
+    "Basay.IPA": "apən, apun",
+    "ZH_TW": "鹿",
+    "ENG": "deer"
+  },
+  {
+    "id": "326-4",
+    "Basay": "ani (S), anu",
+    "Basay.IPA": "ani (S), anu",
+    "ZH_TW": "然後",
+    "ENG": "then"
+  },
+  {
+    "id": "326-5",
+    "Basay": "angalri, angalai (S), angari, langaza",
+    "Basay.IPA": "aŋaɭi, aŋale (S), aŋari, laŋaza",
+    "ZH_TW": "富裕的，有錢的",
+    "ENG": "wealthy, rich"
+  },
+  {
+    "id": "326-6",
+    "Basay": "apakuzan",
+    "Basay.IPA": "apakuzan",
+    "ZH_TW": "做翅膀",
+    "ENG": "make wings"
+  },
+  {
+    "id": "326-7",
+    "Basay": "apanmu",
+    "Basay.IPA": "apanmu",
+    "ZH_TW": "幫忙",
+    "ENG": "help"
+  },
+  {
+    "id": "326-8",
+    "Basay": "apait (M)",
+    "Basay.IPA": "apet (M)",
+    "ZH_TW": "筷子",
+    "ENG": "chopsticks"
+  },
+  {
+    "id": "326-9",
+    "Basay": "asi",
+    "Basay.IPA": "asi",
+    "ZH_TW": "不要",
+    "ENG": "don't"
+  },
+  {
+    "id": "326-10",
+    "Basay": "asmayan",
+    "Basay.IPA": "asmayan",
+    "ZH_TW": "做飯糰",
+    "ENG": "make rice balls"
+  },
+  {
+    "id": "326-11",
+    "Basay": "atuvanan (M)",
+    "Basay.IPA": "atuvanan (M)",
+    "ZH_TW": "獻祭(豬)",
+    "ENG": "sacrifice (pig)"
+  },
+  {
+    "id": "326-12",
+    "Basay": "au (S)",
+    "Basay.IPA": "au (S)",
+    "ZH_TW": "來",
+    "ENG": "come"
+  },
+  {
+    "id": "326-13",
+    "Basay": "auit na (M)",
+    "Basay.IPA": "auit na (M)",
+    "ZH_TW": "去",
+    "ENG": "go"
+  },
+  {
+    "id": "326-14",
+    "Basay": "aukalrina, aukalrinalrina, aukanina (S)",
+    "Basay.IPA": "aukaɭina, aukaɭinaɭina, aukanina (S)",
+    "ZH_TW": "趕快",
+    "ENG": "hurry"
+  },
+  {
+    "id": "326-15",
+    "Basay": "auni",
+    "Basay.IPA": "auni",
+    "ZH_TW": "離開",
+    "ENG": "depart, leave"
+  },
+  {
+    "id": "326-16",
+    "Basay": "avlas",
+    "Basay.IPA": "avlas",
+    "ZH_TW": "搗米",
+    "ENG": "pound rice"
+  },
+  {
+    "id": "326-17",
+    "Basay": "avu (M)",
+    "Basay.IPA": "avu (M)",
+    "ZH_TW": "灰",
+    "ENG": "ash"
+  },
+  {
+    "id": "326-18",
+    "Basay": "awi",
+    "Basay.IPA": "awi",
+    "ZH_TW": "去",
+    "ENG": "go"
+  },
+  {
+    "id": "326-19",
+    "Basay": "-ay",
+    "Basay.IPA": "-ay",
+    "ZH_TW": "未來",
+    "ENG": "future"
+  },
+  {
+    "id": "326-20",
+    "Basay": "ayam",
+    "Basay.IPA": "ayam",
+    "ZH_TW": "耕種",
+    "ENG": "cultivate"
+  },
+  {
+    "id": "326-21",
+    "Basay": "azasan, mazas",
+    "Basay.IPA": "azasan, mazas",
+    "ZH_TW": "帶",
+    "ENG": "bring"
+  },
+  {
+    "id": "326-22",
+    "Basay": "bakec (M)",
+    "Basay.IPA": "bakəts (M)",
+    "ZH_TW": "強壯的",
+    "ENG": "strong，tough"
+  },
+  {
+    "id": "326-23",
+    "Basay": "batis",
+    "Basay.IPA": "batis",
+    "ZH_TW": "砍",
+    "ENG": "cut"
+  },
+  {
+    "id": "326-24",
+    "Basay": "batu",
+    "Basay.IPA": "batu",
+    "ZH_TW": "石頭",
+    "ENG": "stone"
+  },
+  {
+    "id": "326-25",
+    "Basay": "bla, blra (S)",
+    "Basay.IPA": "bla, bɭa (S)",
+    "ZH_TW": "給",
+    "ENG": "give"
+  },
+  {
+    "id": "326-26",
+    "Basay": "blrabulra (S)",
+    "Basay.IPA": "bɭabuɭa (S)",
+    "ZH_TW": "給很多",
+    "ENG": "give a lot"
+  },
+  {
+    "id": "326-27",
+    "Basay": "bcawan, pila (M)",
+    "Basay.IPA": "btsawan, pila (M)",
+    "ZH_TW": "銀",
+    "ENG": "silver"
+  },
+  {
+    "id": "326-28",
+    "Basay": "bungbung (S)",
+    "Basay.IPA": "buŋbuŋ (S)",
+    "ZH_TW": "芒草",
+    "ENG": "miscanthus"
+  },
+  {
+    "id": "326-29",
+    "Basay": "bucan",
+    "Basay.IPA": "butsan",
+    "ZH_TW": "月",
+    "ENG": "month"
+  },
+  {
+    "id": "326-30",
+    "Basay": "bucai, vucai",
+    "Basay.IPA": "butse, vutse",
+    "ZH_TW": "溫水",
+    "ENG": "warm water"
+  },
+  {
+    "id": "326-31",
+    "Basay": "aicozo (M)",
+    "Basay.IPA": "etsozo (M)",
+    "ZH_TW": "推",
+    "ENG": "push"
+  },
+  {
+    "id": "327-1",
+    "Basay": "halus (M)",
+    "Basay.IPA": "halus (M)",
+    "ZH_TW": "叫",
+    "ENG": "call"
+  },
+  {
+    "id": "327-2",
+    "Basay": "-ia",
+    "Basay.IPA": "-ia",
+    "ZH_TW": "他的，她的，他們的",
+    "ENG": "his, her, their (GEN)"
+  },
+  {
+    "id": "327-3",
+    "Basay": "ilaqezan",
+    "Basay.IPA": "ilaqəzan",
+    "ZH_TW": "脖子",
+    "ENG": "neck"
+  },
+  {
+    "id": "327-4",
+    "Basay": "ilrapus",
+    "Basay.IPA": "iɭapus",
+    "ZH_TW": "丟掉",
+    "ENG": "discard"
+  },
+  {
+    "id": "327-5",
+    "Basay": "-imu",
+    "Basay.IPA": "-imu",
+    "ZH_TW": "你們的",
+    "ENG": "your (GEN)"
+  },
+  {
+    "id": "327-6",
+    "Basay": "imuanan",
+    "Basay.IPA": "imuanan",
+    "ZH_TW": "你們（斜格）",
+    "ENG": "you (OBL)"
+  },
+  {
+    "id": "327-7",
+    "Basay": "inu, inuna",
+    "Basay.IPA": "inu, inuna",
+    "ZH_TW": "何處",
+    "ENG": "where"
+  },
+  {
+    "id": "327-8",
+    "Basay": "ipzi (M), sul",
+    "Basay.IPA": "ipzi (M), sul",
+    "ZH_TW": "忍耐，忍受",
+    "ENG": "endure, put up with"
+  },
+  {
+    "id": "327-9",
+    "Basay": "isavutan",
+    "Basay.IPA": "isavutan",
+    "ZH_TW": "腰部",
+    "ENG": "waist"
+  },
+  {
+    "id": "327-10",
+    "Basay": "isai (S)",
+    "Basay.IPA": "ise (S)",
+    "ZH_TW": "甜酒",
+    "ENG": "sweet wine"
+  },
+  {
+    "id": "327-11",
+    "Basay": "ising (< Taiwanaisai)",
+    "Basay.IPA": "isiŋ (< Taiwanese)",
+    "ZH_TW": "醫生      .",
+    "ENG": "doctor"
+  },
+  {
+    "id": "327-12",
+    "Basay": "-isu",
+    "Basay.IPA": "-isu",
+    "ZH_TW": "你的",
+    "ENG": "your (SG, GEN)"
+  },
+  {
+    "id": "327-13",
+    "Basay": "isuanan",
+    "Basay.IPA": "isuanan",
+    "ZH_TW": "你（斜格）",
+    "ENG": "you (SG, OBL)"
+  },
+  {
+    "id": "327-14",
+    "Basay": "ita",
+    "Basay.IPA": "ita",
+    "ZH_TW": "在",
+    "ENG": "stay"
+  },
+  {
+    "id": "327-15",
+    "Basay": "-ita",
+    "Basay.IPA": "-ita",
+    "ZH_TW": "咱們的",
+    "ENG": "our (GEN)"
+  },
+  {
+    "id": "327-16",
+    "Basay": "ituman, tuman",
+    "Basay.IPA": "ituman, tuman",
+    "ZH_TW": "下面",
+    "ENG": "below, down"
+  },
+  {
+    "id": "327-17",
+    "Basay": "iu (< Taiwanaisai)",
+    "Basay.IPA": "iu (< Taiwanese)",
+    "ZH_TW": "藥",
+    "ENG": "medicine, drug"
+  },
+  {
+    "id": "327-18",
+    "Basay": "ivavang",
+    "Basay.IPA": "ivavaŋ",
+    "ZH_TW": "上面",
+    "ENG": "above"
+  },
+  {
+    "id": "327-19",
+    "Basay": "izaay",
+    "Basay.IPA": "izaay",
+    "ZH_TW": "到這裏",
+    "ENG": "get here               ."
+  },
+  {
+    "id": "327-20",
+    "Basay": "izawitian",
+    "Basay.IPA": "izawitian",
+    "ZH_TW": "掛",
+    "ENG": "hang"
+  },
+  {
+    "id": "327-21",
+    "Basay": "izip",
+    "Basay.IPA": "izip",
+    "ZH_TW": "身體",
+    "ENG": "body"
+  },
+  {
+    "id": "327-22",
+    "Basay": "jasingas (M)",
+    "Basay.IPA": "jasiŋas (M)",
+    "ZH_TW": "出門",
+    "ENG": "go out"
+  },
+  {
+    "id": "327-23",
+    "Basay": "kaay",
+    "Basay.IPA": "kaay",
+    "ZH_TW": "腳",
+    "ENG": "foot"
+  },
+  {
+    "id": "327-24",
+    "Basay": "kail",
+    "Basay.IPA": "kail",
+    "ZH_TW": "鹹魚",
+    "ENG": "salted fish"
+  },
+  {
+    "id": "327-25",
+    "Basay": "kaipan (M)",
+    "Basay.IPA": "kaipan (M)",
+    "ZH_TW": "床",
+    "ENG": "bed"
+  },
+  {
+    "id": "327-26",
+    "Basay": "kaka",
+    "Basay.IPA": "kaka",
+    "ZH_TW": "兄，姊",
+    "ENG": "elder sibling"
+  },
+  {
+    "id": "327-27",
+    "Basay": "kakitut",
+    "Basay.IPA": "kakitut",
+    "ZH_TW": "一點",
+    "ENG": "little"
+  },
+  {
+    "id": "327-28",
+    "Basay": "kaklray, kaklraika",
+    "Basay.IPA": "kakɭay, kakɭaika",
+    "ZH_TW": "早點，趕快",
+    "ENG": "early, hurry"
+  },
+  {
+    "id": "327-29",
+    "Basay": "kaku",
+    "Basay.IPA": "kaku",
+    "ZH_TW": "我",
+    "ENG": "I"
+  },
+  {
+    "id": "327-30",
+    "Basay": "kakuani",
+    "Basay.IPA": "kakuani",
+    "ZH_TW": "悲慘的",
+    "ENG": "misery, poor"
+  },
+  {
+    "id": "327-31",
+    "Basay": "kalra (S)",
+    "Basay.IPA": "kaɭa (S)",
+    "ZH_TW": "拿",
+    "ENG": "take"
+  },
+  {
+    "id": "328-1",
+    "Basay": "kalricung",
+    "Basay.IPA": "kaɭitsuŋ",
+    "ZH_TW": "（床）邊緣",
+    "ENG": "edge (of bed)"
+  },
+  {
+    "id": "328-2",
+    "Basay": "kalrnas",
+    "Basay.IPA": "kaɭnas",
+    "ZH_TW": "慢慢的",
+    "ENG": "slowly"
+  },
+  {
+    "id": "328-3",
+    "Basay": "kalru",
+    "Basay.IPA": "kaɭu",
+    "ZH_TW": "舀",
+    "ENG": "bail out"
+  },
+  {
+    "id": "328-4",
+    "Basay": "kalrusan (M)",
+    "Basay.IPA": "kaɭusan (M)",
+    "ZH_TW": "籃子",
+    "ENG": "basket"
+  },
+  {
+    "id": "328-5",
+    "Basay": "kaman",
+    "Basay.IPA": "kaman",
+    "ZH_TW": "不確定",
+    "ENG": "uncertain"
+  },
+  {
+    "id": "328-6",
+    "Basay": "kaman, kamman, qaman (S)",
+    "Basay.IPA": "kaman, kamman, qaman (S)",
+    "ZH_TW": "美麗的，漂亮的",
+    "ENG": "beautiful, pretty"
+  },
+  {
+    "id": "328-7",
+    "Basay": "kaman, mampak, maunu",
+    "Basay.IPA": "kaman, mampak, maunu",
+    "ZH_TW": "如何",
+    "ENG": "how"
+  },
+  {
+    "id": "328-8",
+    "Basay": "kamanuzian (M)",
+    "Basay.IPA": "kamanuzian (M)",
+    "ZH_TW": "乾旱",
+    "ENG": "drought, dry weather"
+  },
+  {
+    "id": "328-9",
+    "Basay": "kamai",
+    "Basay.IPA": "kame",
+    "ZH_TW": "回來",
+    "ENG": "come back"
+  },
+  {
+    "id": "328-10",
+    "Basay": "kamuang",
+    "Basay.IPA": "kamuaŋ",
+    "ZH_TW": "菜",
+    "ENG": "vegetable"
+  },
+  {
+    "id": "328-11",
+    "Basay": "kanan,qanan, qannan (S)",
+    "Basay.IPA": "kanan,qanan, qannan (S)",
+    "ZH_TW": "食物",
+    "ENG": "food"
+  },
+  {
+    "id": "328-12",
+    "Basay": "kanatta (M)",
+    "Basay.IPA": "kanatta (M)",
+    "ZH_TW": "梳子",
+    "ENG": "comb"
+  },
+  {
+    "id": "328-13",
+    "Basay": "kapinatasau (M)",
+    "Basay.IPA": "kapinatasau (M)",
+    "ZH_TW": "新年節日",
+    "ENG": "New Year's festival"
+  },
+  {
+    "id": "328-14",
+    "Basay": "kaping (M)",
+    "Basay.IPA": "kapiŋ (M)",
+    "ZH_TW": "海藻",
+    "ENG": "seaweed"
+  },
+  {
+    "id": "328-15",
+    "Basay": "kapuan",
+    "Basay.IPA": "kapuan",
+    "ZH_TW": "非常想",
+    "ENG": "desire to have"
+  },
+  {
+    "id": "328-16",
+    "Basay": "karpan (M)",
+    "Basay.IPA": "karpan (M)",
+    "ZH_TW": "籬笆",
+    "ENG": "hedge"
+  },
+  {
+    "id": "328-17",
+    "Basay": "kasalri",
+    "Basay.IPA": "kasaɭi",
+    "ZH_TW": "晚",
+    "ENG": "late"
+  },
+  {
+    "id": "328-18",
+    "Basay": "kasazaan (M)",
+    "Basay.IPA": "kasazaan (M)",
+    "ZH_TW": "橋樑",
+    "ENG": "bridge"
+  },
+  {
+    "id": "328-19",
+    "Basay": "kasikazl (M)",
+    "Basay.IPA": "kasikaɮ (M)",
+    "ZH_TW": "慚愧的",
+    "ENG": "ashamed"
+  },
+  {
+    "id": "328-20",
+    "Basay": "kaspat",
+    "Basay.IPA": "kaspat",
+    "ZH_TW": "四",
+    "ENG": "four"
+  },
+  {
+    "id": "328-21",
+    "Basay": "kasulriia",
+    "Basay.IPA": "kasuɭiia",
+    "ZH_TW": "僕人",
+    "ENG": "servant"
+  },
+  {
+    "id": "328-22",
+    "Basay": "katavan, qatavan",
+    "Basay.IPA": "katavan, qatavan",
+    "ZH_TW": "慶祝獵到人頭",
+    "ENG": "celebrate head-hunting"
+  },
+  {
+    "id": "328-23",
+    "Basay": "kati, katiwan, mamatiwi",
+    "Basay.IPA": "kati, katiwan, mamatiwi",
+    "ZH_TW": "去",
+    "ENG": "go"
+  },
+  {
+    "id": "328-24",
+    "Basay": "kacuna",
+    "Basay.IPA": "katsuna",
+    "ZH_TW": "三天",
+    "ENG": "three days"
+  },
+  {
+    "id": "328-25",
+    "Basay": "kautuni (S)",
+    "Basay.IPA": "kautuni (S)",
+    "ZH_TW": "進入",
+    "ENG": "enter"
+  },
+  {
+    "id": "328-26",
+    "Basay": "kaucuan",
+    "Basay.IPA": "kautsuan",
+    "ZH_TW": "（床）邊緣",
+    "ENG": "edge of bed"
+  },
+  {
+    "id": "328-27",
+    "Basay": "kavaci (S)",
+    "Basay.IPA": "kavatsi (S)",
+    "ZH_TW": "刮風",
+    "ENG": "windy"
+  },
+  {
+    "id": "328-28",
+    "Basay": "kavawa",
+    "Basay.IPA": "kavawa",
+    "ZH_TW": "搭船",
+    "ENG": "take a boat"
+  },
+  {
+    "id": "328-29",
+    "Basay": "kavilaan",
+    "Basay.IPA": "kavilaan",
+    "ZH_TW": "布，衣服",
+    "ENG": "cloth, clothes"
+  },
+  {
+    "id": "328-30",
+    "Basay": "kavseng",
+    "Basay.IPA": "kavsəŋ",
+    "ZH_TW": "硬",
+    "ENG": "stiff"
+  },
+  {
+    "id": "328-31",
+    "Basay": "kawas (M)",
+    "Basay.IPA": "kawas (M)",
+    "ZH_TW": "故事",
+    "ENG": "stoiy"
+  },
+  {
+    "id": "329-1",
+    "Basay": "kay",
+    "Basay.IPA": "kay",
+    "ZH_TW": "將",
+    "ENG": "future"
+  },
+  {
+    "id": "329-2",
+    "Basay": "kayanu",
+    "Basay.IPA": "kayanu",
+    "ZH_TW": "如果",
+    "ENG": "if"
+  },
+  {
+    "id": "329-3",
+    "Basay": "kaypan",
+    "Basay.IPA": "kaypan",
+    "ZH_TW": "床，寢室",
+    "ENG": "bed, bedroom"
+  },
+  {
+    "id": "329-4",
+    "Basay": "kazawan, klaw, kmalau (M), kzaw",
+    "Basay.IPA": "kazawan, klaw, kmalau (M), kzaw",
+    "ZH_TW": "挑",
+    "ENG": "carry on shoulder"
+  },
+  {
+    "id": "329-5",
+    "Basay": "kazayzaay",
+    "Basay.IPA": "kazayzaay",
+    "ZH_TW": "一直待在這裡",
+    "ENG": "stay here"
+  },
+  {
+    "id": "329-6",
+    "Basay": "kazkatal (M)",
+    "Basay.IPA": "kazkatal (M)",
+    "ZH_TW": "精力充沛的",
+    "ENG": "vigorous"
+  },
+  {
+    "id": "329-7",
+    "Basay": "kelmakmaz (M)",
+    "Basay.IPA": "kəlmakmaz (M)",
+    "ZH_TW": "眨眼",
+    "ENG": "wink"
+  },
+  {
+    "id": "329-8",
+    "Basay": "kialra, kilay",
+    "Basay.IPA": "kiaɭa, kilay",
+    "ZH_TW": "採，摘，砍（頭）",
+    "ENG": "pick, behead"
+  },
+  {
+    "id": "329-9",
+    "Basay": "kianman (M)",
+    "Basay.IPA": "kianman (M)",
+    "ZH_TW": "坐",
+    "ENG": "sit"
+  },
+  {
+    "id": "329-10",
+    "Basay": "kilrulric, mulrulric (M)",
+    "Basay.IPA": "kiɭuɭits, muɭuɭits (M)",
+    "ZH_TW": "小偷",
+    "ENG": "steal"
+  },
+  {
+    "id": "329-11",
+    "Basay": "kim, kimu",
+    "Basay.IPA": "kim, kimu",
+    "ZH_TW": "你們",
+    "ENG": "you (PL)"
+  },
+  {
+    "id": "329-12",
+    "Basay": "kinan",
+    "Basay.IPA": "kinan",
+    "ZH_TW": "何時",
+    "ENG": "when"
+  },
+  {
+    "id": "329-13",
+    "Basay": "kinausa (S)",
+    "Basay.IPA": "kinausa (S)",
+    "ZH_TW": "兩個人",
+    "ENG": "two (human)"
+  },
+  {
+    "id": "329-14",
+    "Basay": "kisaiz",
+    "Basay.IPA": "kisaiz",
+    "ZH_TW": "舉行治療儀式",
+    "ENG": "perform a healing ritual"
+  },
+  {
+    "id": "329-15",
+    "Basay": "kising (M)",
+    "Basay.IPA": "kisiŋ (M)",
+    "ZH_TW": "碗",
+    "ENG": "bowl"
+  },
+  {
+    "id": "329-16",
+    "Basay": "kisja (M)",
+    "Basay.IPA": "kisja (M)",
+    "ZH_TW": "乞丐",
+    "ENG": "beggar"
+  },
+  {
+    "id": "329-17",
+    "Basay": "kiskis (M), misikis",
+    "Basay.IPA": "kiskis (M), misikis",
+    "ZH_TW": "刮",
+    "ENG": "shave"
+  },
+  {
+    "id": "329-18",
+    "Basay": "kisu",
+    "Basay.IPA": "kisu",
+    "ZH_TW": "你",
+    "ENG": "you (SG)"
+  },
+  {
+    "id": "329-19",
+    "Basay": "kita",
+    "Basay.IPA": "kita",
+    "ZH_TW": "咱們",
+    "ENG": "we"
+  },
+  {
+    "id": "329-20",
+    "Basay": "kitut (M)",
+    "Basay.IPA": "kitut (M)",
+    "ZH_TW": "小魚",
+    "ENG": "small fish"
+  },
+  {
+    "id": "329-21",
+    "Basay": "kiulrulruy",
+    "Basay.IPA": "kiuɭuɭuy",
+    "ZH_TW": "老鷹的叫聲",
+    "ENG": "shriek of hawk"
+  },
+  {
+    "id": "329-22",
+    "Basay": "kivac",
+    "Basay.IPA": "kivats",
+    "ZH_TW": "洗",
+    "ENG": "wash"
+  },
+  {
+    "id": "329-23",
+    "Basay": "kizanum",
+    "Basay.IPA": "kizanum",
+    "ZH_TW": "取水",
+    "ENG": "fetch water"
+  },
+  {
+    "id": "329-24",
+    "Basay": "kizaya",
+    "Basay.IPA": "kizaya",
+    "ZH_TW": "花蓮",
+    "ENG": "Hualien"
+  },
+  {
+    "id": "329-25",
+    "Basay": "klatan, mqalat (M), tumozo",
+    "Basay.IPA": "klatan, mqalat (M), tumozo",
+    "ZH_TW": "咬",
+    "ENG": "bite"
+  },
+  {
+    "id": "329-26",
+    "Basay": "klraklrasan",
+    "Basay.IPA": "kɭakɭasan",
+    "ZH_TW": "呼叫",
+    "ENG": "shout"
+  },
+  {
+    "id": "329-27",
+    "Basay": "klraptaan",
+    "Basay.IPA": "kɭaptaan",
+    "ZH_TW": "十",
+    "ENG": "ten"
+  },
+  {
+    "id": "329-28",
+    "Basay": "klraus (M)",
+    "Basay.IPA": "kɭaus (M)",
+    "ZH_TW": "耳環",
+    "ENG": "earring"
+  },
+  {
+    "id": "329-29",
+    "Basay": "klravau (M)",
+    "Basay.IPA": "kɭavau (M)",
+    "ZH_TW": "牛",
+    "ENG": "cow"
+  },
+  {
+    "id": "329-30",
+    "Basay": "kmalusa",
+    "Basay.IPA": "kmalusa",
+    "ZH_TW": "採",
+    "ENG": "pick"
+  },
+  {
+    "id": "329-31",
+    "Basay": "kmalrici (M)",
+    "Basay.IPA": "kmaɭitsi (M)",
+    "ZH_TW": "磨稻穀",
+    "ENG": "mill rice, grind"
+  },
+  {
+    "id": "330-1",
+    "Basay": "kmacaw",
+    "Basay.IPA": "kmatsaw",
+    "ZH_TW": "娶",
+    "ENG": "marry"
+  },
+  {
+    "id": "330-2",
+    "Basay": "kmaukaul (M)",
+    "Basay.IPA": "kmaukaul (M)",
+    "ZH_TW": "招手",
+    "ENG": "beckon"
+  },
+  {
+    "id": "330-3",
+    "Basay": "kmilim",
+    "Basay.IPA": "kmilim",
+    "ZH_TW": "尋找",
+    "ENG": "search"
+  },
+  {
+    "id": "330-4",
+    "Basay": "kmulrikulr (M)",
+    "Basay.IPA": "kmuɭikuɭ (M)",
+    "ZH_TW": "追捕",
+    "ENG": "pursue"
+  },
+  {
+    "id": "330-5",
+    "Basay": "kmuskus (M)",
+    "Basay.IPA": "kmuskus (M)",
+    "ZH_TW": "抓，搔",
+    "ENG": "scratch"
+  },
+  {
+    "id": "330-6",
+    "Basay": "knalaqita, knalaqitta, qnazaqita",
+    "Basay.IPA": "knalaqita, knalaqitta, qnazaqita",
+    "ZH_TW": "眾人",
+    "ENG": "all people"
+  },
+  {
+    "id": "330-7",
+    "Basay": "knalrian",
+    "Basay.IPA": "knaɭian",
+    "ZH_TW": "還有",
+    "ENG": "plus"
+  },
+  {
+    "id": "330-8",
+    "Basay": "knaman (M)",
+    "Basay.IPA": "knaman (M)",
+    "ZH_TW": "也許",
+    "ENG": "if, perhaps"
+  },
+  {
+    "id": "330-9",
+    "Basay": "knapel, qavi (M)",
+    "Basay.IPA": "knapəl, qavi (M)",
+    "ZH_TW": "米槺",
+    "ENG": "rice bran"
+  },
+  {
+    "id": "330-10",
+    "Basay": "knarpay",
+    "Basay.IPA": "knarpay",
+    "ZH_TW": "流傳",
+    "ENG": "pass down"
+  },
+  {
+    "id": "330-11",
+    "Basay": "knasau (M)",
+    "Basay.IPA": "knasau (M)",
+    "ZH_TW": "海膽",
+    "ENG": "sea urchin"
+  },
+  {
+    "id": "330-12",
+    "Basay": "knacawan",
+    "Basay.IPA": "knatsawan",
+    "ZH_TW": "情婦",
+    "ENG": "mistress"
+  },
+  {
+    "id": "330-13",
+    "Basay": "knavalaung",
+    "Basay.IPA": "knavalauŋ",
+    "ZH_TW": "鄰居",
+    "ENG": "neighbor"
+  },
+  {
+    "id": "330-14",
+    "Basay": "kongsuan (M)",
+    "Basay.IPA": "koŋsuan (M)",
+    "ZH_TW": "漂亮的，美麗的",
+    "ENG": "beautiful"
+  },
+  {
+    "id": "330-15",
+    "Basay": "kpalriman (M)",
+    "Basay.IPA": "kpaɭiman (M)",
+    "ZH_TW": "捕獲",
+    "ENG": "arrest"
+  },
+  {
+    "id": "330-16",
+    "Basay": "kriavan",
+    "Basay.IPA": "kriavan",
+    "ZH_TW": "瑪瑙（大）",
+    "ENG": "agates (big)"
+  },
+  {
+    "id": "330-17",
+    "Basay": "kcawan",
+    "Basay.IPA": "ktsawan",
+    "ZH_TW": "東張西望，眺望",
+    "ENG": "look at a distance"
+  },
+  {
+    "id": "330-18",
+    "Basay": "kcicen (M)",
+    "Basay.IPA": "ktsitsən (M)",
+    "ZH_TW": "繩子",
+    "ENG": "rope"
+  },
+  {
+    "id": "330-19",
+    "Basay": "kuaku (M)",
+    "Basay.IPA": "kuaku (M)",
+    "ZH_TW": "煙斗",
+    "ENG": "smoking pipe"
+  },
+  {
+    "id": "330-20",
+    "Basay": "kuakuat",
+    "Basay.IPA": "kuakuat",
+    "ZH_TW": "無助的",
+    "ENG": "helpless"
+  },
+  {
+    "id": "330-21",
+    "Basay": "kuamanazay",
+    "Basay.IPA": "kuamanazay",
+    "ZH_TW": "像這樣",
+    "ENG": "in this way"
+  },
+  {
+    "id": "330-22",
+    "Basay": "kuanan",
+    "Basay.IPA": "kuanan",
+    "ZH_TW": "我",
+    "ENG": "me (OBL)"
+  },
+  {
+    "id": "330-23",
+    "Basay": "kuat",
+    "Basay.IPA": "kuat",
+    "ZH_TW": "没關係",
+    "ENG": "never mind"
+  },
+  {
+    "id": "330-24",
+    "Basay": "kuatan",
+    "Basay.IPA": "kuatan",
+    "ZH_TW": "怎麼辦",
+    "ENG": "what to do"
+  },
+  {
+    "id": "330-25",
+    "Basay": "kuka",
+    "Basay.IPA": "kuka",
+    "ZH_TW": "可以",
+    "ENG": "able"
+  },
+  {
+    "id": "330-26",
+    "Basay": "kukuva",
+    "Basay.IPA": "kukuva",
+    "ZH_TW": "田地",
+    "ENG": "fields"
+  },
+  {
+    "id": "330-27",
+    "Basay": "kulrava (M)",
+    "Basay.IPA": "kuɭava (M)",
+    "ZH_TW": "鴨子",
+    "ENG": "duck"
+  },
+  {
+    "id": "330-28",
+    "Basay": "kuman",
+    "Basay.IPA": "kuman",
+    "ZH_TW": "吃",
+    "ENG": "eat"
+  },
+  {
+    "id": "330-29",
+    "Basay": "kuman na (M)",
+    "Basay.IPA": "kuman na (M)",
+    "ZH_TW": "完成",
+    "ENG": "already"
+  },
+  {
+    "id": "330-30",
+    "Basay": "kumaci (M)",
+    "Basay.IPA": "kumatsi (M)",
+    "ZH_TW": "挖掘",
+    "ENG": "dig"
+  },
+  {
+    "id": "330-31",
+    "Basay": "kumua",
+    "Basay.IPA": "kumua",
+    "ZH_TW": "像",
+    "ENG": "resemble"
+  },
+  {
+    "id": "331-1",
+    "Basay": "kunamkaman (M)",
+    "Basay.IPA": "kunamkaman (M)",
+    "ZH_TW": "痘疤，麻子",
+    "ENG": "pockmark"
+  },
+  {
+    "id": "331-2",
+    "Basay": "kunaman, man",
+    "Basay.IPA": "kunaman, man",
+    "ZH_TW": "恢復",
+    "ENG": "recover, get well"
+  },
+  {
+    "id": "331-3",
+    "Basay": "kunanpana",
+    "Basay.IPA": "kunanpana",
+    "ZH_TW": "配偶",
+    "ENG": "spouse"
+  },
+  {
+    "id": "331-4",
+    "Basay": "kungkung (M)",
+    "Basay.IPA": "kuŋkuŋ (M)",
+    "ZH_TW": "杓子",
+    "ENG": "ladle"
+  },
+  {
+    "id": "331-5",
+    "Basay": "kupa, kupan, mupa, mupan, supupa, upan, uppa",
+    "Basay.IPA": "kupa, kupan, mupa, mupan, supupa, upan, uppa",
+    "ZH_TW": "不要",
+    "ENG": "not to want"
+  },
+  {
+    "id": "331-6",
+    "Basay": "kupir (M)",
+    "Basay.IPA": "kupir (M)",
+    "ZH_TW": "地瓜",
+    "ENG": "sweet potato"
+  },
+  {
+    "id": "331-7",
+    "Basay": "kupua (M)",
+    "Basay.IPA": "kupua (M)",
+    "ZH_TW": "棉被",
+    "ENG": "bed quilt"
+  },
+  {
+    "id": "331-8",
+    "Basay": "kuqa",
+    "Basay.IPA": "kuqa",
+    "ZH_TW": "可以",
+    "ENG": "can, may"
+  },
+  {
+    "id": "331-9",
+    "Basay": "kurikuzan",
+    "Basay.IPA": "kurikuzan",
+    "ZH_TW": "跟隨",
+    "ENG": "follow"
+  },
+  {
+    "id": "331-10",
+    "Basay": "kutu (M)",
+    "Basay.IPA": "kutu (M)",
+    "ZH_TW": "蝨子，雞蝨",
+    "ENG": "louse, bird louse"
+  },
+  {
+    "id": "331-11",
+    "Basay": "kuva",
+    "Basay.IPA": "kuva",
+    "ZH_TW": "田地、水田",
+    "ENG": "field, paddy field"
+  },
+  {
+    "id": "331-12",
+    "Basay": "kuvu (M)",
+    "Basay.IPA": "kuvu (M)",
+    "ZH_TW": "帽子",
+    "ENG": "hat"
+  },
+  {
+    "id": "331-13",
+    "Basay": "kvaraan (M)",
+    "Basay.IPA": "kvaraan (M)",
+    "ZH_TW": "噶瑪蘭",
+    "ENG": "Kavalan"
+  },
+  {
+    "id": "331-14",
+    "Basay": "laais (M)",
+    "Basay.IPA": "laes (M)",
+    "ZH_TW": "白芒",
+    "ENG": "cogon grass"
+  },
+  {
+    "id": "331-15",
+    "Basay": "laisa (M)",
+    "Basay.IPA": "laisa (M)",
+    "ZH_TW": "臉頰",
+    "ENG": "cheek"
+  },
+  {
+    "id": "331-16",
+    "Basay": "lajan (M)",
+    "Basay.IPA": "lajan (M)",
+    "ZH_TW": "鍋子",
+    "ENG": "pan"
+  },
+  {
+    "id": "331-17",
+    "Basay": "laktiw, naktiw",
+    "Basay.IPA": "laktiw, naktiw",
+    "ZH_TW": "離間",
+    "ENG": "leave"
+  },
+  {
+    "id": "331-18",
+    "Basay": "lalaw",
+    "Basay.IPA": "lalaw",
+    "ZH_TW": "彎刀",
+    "ENG": "machete"
+  },
+  {
+    "id": "331-19",
+    "Basay": "laliw, lalaliw",
+    "Basay.IPA": "laliw, lalaliw",
+    "ZH_TW": "逃跑",
+    "ENG": "escape, run away"
+  },
+  {
+    "id": "331-20",
+    "Basay": "lalqait, laqi, laqit, laqqe, laqqelaqi (S), lraqi",
+    "Basay.IPA": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi",
+    "ZH_TW": "人們、眾人",
+    "ENG": "people"
+  },
+  {
+    "id": "331-21",
+    "Basay": "lamait (M)",
+    "Basay.IPA": "lamet (M)",
+    "ZH_TW": "樹根",
+    "ENG": "root"
+  },
+  {
+    "id": "331-22",
+    "Basay": "lamuan",
+    "Basay.IPA": "lamuan",
+    "ZH_TW": "村民",
+    "ENG": "villager"
+  },
+  {
+    "id": "331-23",
+    "Basay": "lamulamu",
+    "Basay.IPA": "lamulamu",
+    "ZH_TW": "眾社",
+    "ENG": "villages"
+  },
+  {
+    "id": "331-24",
+    "Basay": "lan (S)",
+    "Basay.IPA": "lan (S)",
+    "ZH_TW": "天堂",
+    "ENG": "heaven"
+  },
+  {
+    "id": "331-25",
+    "Basay": "langas, lrungangas",
+    "Basay.IPA": "laŋas, ɭuŋaŋas",
+    "ZH_TW": "金",
+    "ENG": "gold"
+  },
+  {
+    "id": "331-26",
+    "Basay": "langaza",
+    "Basay.IPA": "laŋaza",
+    "ZH_TW": "富裕的",
+    "ENG": "rich, wealthy"
+  },
+  {
+    "id": "331-27",
+    "Basay": "lappaw",
+    "Basay.IPA": "lappaw",
+    "ZH_TW": "家",
+    "ENG": "house"
+  },
+  {
+    "id": "331-28",
+    "Basay": "lapung",
+    "Basay.IPA": "lapuŋ",
+    "ZH_TW": "茄冬樹",
+    "ENG": "toog tree"
+  },
+  {
+    "id": "331-29",
+    "Basay": "laqaita (M)",
+    "Basay.IPA": "laqaita (M)",
+    "ZH_TW": "人類",
+    "ENG": "human being"
+  },
+  {
+    "id": "332-1",
+    "Basay": "laqan (S)",
+    "Basay.IPA": "laqan (S)",
+    "ZH_TW": "得到",
+    "ENG": "get"
+  },
+  {
+    "id": "332-2",
+    "Basay": "laqsai (S)",
+    "Basay.IPA": "laqse (S)",
+    "ZH_TW": "別處",
+    "ENG": "other place"
+  },
+  {
+    "id": "332-3",
+    "Basay": "laqup (S)",
+    "Basay.IPA": "laqup (S)",
+    "ZH_TW": "缽",
+    "ENG": "earthen bowl"
+  },
+  {
+    "id": "332-4",
+    "Basay": "lasaiq, mlasaiq (M)",
+    "Basay.IPA": "laseq, mlaseq (M)",
+    "ZH_TW": "掃帚",
+    "ENG": "broom"
+  },
+  {
+    "id": "332-5",
+    "Basay": "lateng (M)",
+    "Basay.IPA": "latəŋ (M)",
+    "ZH_TW": "極小的破螭珠",
+    "ENG": "beads, glass ball"
+  },
+  {
+    "id": "332-6",
+    "Basay": "lavavang",
+    "Basay.IPA": "lavavaŋ",
+    "ZH_TW": "高處",
+    "ENG": "upland"
+  },
+  {
+    "id": "332-7",
+    "Basay": "lavai, lavai na (M)",
+    "Basay.IPA": "lave, lave na (M)",
+    "ZH_TW": "傍晚",
+    "ENG": "evening, get evening"
+  },
+  {
+    "id": "332-8",
+    "Basay": "lavailavai (M)",
+    "Basay.IPA": "lavelave (M)",
+    "ZH_TW": "整夜",
+    "ENG": "all night"
+  },
+  {
+    "id": "332-9",
+    "Basay": "lavi, laiania",
+    "Basay.IPA": "lavi, leani_a",
+    "ZH_TW": "晚上",
+    "ENG": "night"
+  },
+  {
+    "id": "332-10",
+    "Basay": "lawa (M), tuminun",
+    "Basay.IPA": "lawa (M), tuminun",
+    "ZH_TW": "布",
+    "ENG": "cloth"
+  },
+  {
+    "id": "332-11",
+    "Basay": "laibus",
+    "Basay.IPA": "lebus",
+    "ZH_TW": "草",
+    "ENG": "grass"
+  },
+  {
+    "id": "332-12",
+    "Basay": "lailai(M)",
+    "Basay.IPA": "lele(M)",
+    "ZH_TW": "銼刀",
+    "ENG": "file"
+  },
+  {
+    "id": "332-13",
+    "Basay": "lailaisaw",
+    "Basay.IPA": "lelesaw",
+    "ZH_TW": "樹林",
+    "ENG": "forest"
+  },
+  {
+    "id": "332-14",
+    "Basay": "laisamu tuma (M)",
+    "Basay.IPA": "lesamu tuma (M)",
+    "ZH_TW": "森林",
+    "ENG": "forest"
+  },
+  {
+    "id": "332-15",
+    "Basay": "laisaw",
+    "Basay.IPA": "lesaw",
+    "ZH_TW": "樹，木柴、木棍",
+    "ENG": "tree, wood, stick"
+  },
+  {
+    "id": "332-16",
+    "Basay": "levengan",
+    "Basay.IPA": "ləvəŋan",
+    "ZH_TW": "埋伏",
+    "ENG": "ambush"
+  },
+  {
+    "id": "332-17",
+    "Basay": "likan, mlikan, milikkan",
+    "Basay.IPA": "likan, mlikan, milikkan",
+    "ZH_TW": "煮飯",
+    "ENG": "cook rice"
+  },
+  {
+    "id": "332-18",
+    "Basay": "lilam (M)",
+    "Basay.IPA": "lilam (M)",
+    "ZH_TW": "舌頭",
+    "ENG": "tongue"
+  },
+  {
+    "id": "332-19",
+    "Basay": "lilem (M)",
+    "Basay.IPA": "liləm (M)",
+    "ZH_TW": "苦的，辣的",
+    "ENG": "bitter, hot"
+  },
+  {
+    "id": "332-20",
+    "Basay": "liwcuan",
+    "Basay.IPA": "liwtsuan",
+    "ZH_TW": "砍頭",
+    "ENG": "behead"
+  },
+  {
+    "id": "332-21",
+    "Basay": "lulu mata (M)",
+    "Basay.IPA": "lulu mata (M)",
+    "ZH_TW": "學生",
+    "ENG": "pupil"
+  },
+  {
+    "id": "332-22",
+    "Basay": "lusa (S), zusa",
+    "Basay.IPA": "lusa (S), zusa",
+    "ZH_TW": "二（個，隻）",
+    "ENG": "two (nonhuman)"
+  },
+  {
+    "id": "332-23",
+    "Basay": "luvus u pila (M)",
+    "Basay.IPA": "luvus u pila (M)",
+    "ZH_TW": "錢包",
+    "ENG": "purse"
+  },
+  {
+    "id": "332-24",
+    "Basay": "lvilvisan",
+    "Basay.IPA": "lvilvisan",
+    "ZH_TW": "拉",
+    "ENG": "drag"
+  },
+  {
+    "id": "332-25",
+    "Basay": "lraaq",
+    "Basay.IPA": "ɭaaq",
+    "ZH_TW": "酒",
+    "ENG": "wine"
+  },
+  {
+    "id": "332-26",
+    "Basay": "lrairuruna, rurun",
+    "Basay.IPA": "ɭairuruna, rurun",
+    "ZH_TW": "田埂",
+    "ENG": "path of rice field"
+  },
+  {
+    "id": "332-27",
+    "Basay": "lrajalr vawa (M),  yawalai",
+    "Basay.IPA": "ɭajaɭ vawa (M),  yawale",
+    "ZH_TW": "出船",
+    "ENG": "sail, put out to sea"
+  },
+  {
+    "id": "332-28",
+    "Basay": "lrakop (M)",
+    "Basay.IPA": "ɭakop (M)",
+    "ZH_TW": "碗，盆",
+    "ENG": "bowl, basin"
+  },
+  {
+    "id": "332-29",
+    "Basay": "lrakuku (M)",
+    "Basay.IPA": "ɭakuku (M)",
+    "ZH_TW": "點頭",
+    "ENG": "nodding of tlie head"
+  },
+  {
+    "id": "332-30",
+    "Basay": "lrak(w)zaan (M)",
+    "Basay.IPA": "ɭak(w)zaan (M)",
+    "ZH_TW": "脖子，喉嚨",
+    "ENG": "neck, throat"
+  },
+  {
+    "id": "332-31",
+    "Basay": "lralrai (M)",
+    "Basay.IPA": "ɭaɭai (M)",
+    "ZH_TW": "蟬",
+    "ENG": "cicada, earth worm"
+  },
+  {
+    "id": "333-1",
+    "Basay": "lralrauku",
+    "Basay.IPA": "ɭaɭauku",
+    "ZH_TW": "自求多福",
+    "ENG": "on your own"
+  },
+  {
+    "id": "333-2",
+    "Basay": "lrama",
+    "Basay.IPA": "ɭama",
+    "ZH_TW": "牡蠣，蛤",
+    "ENG": "oyster, clam"
+  },
+  {
+    "id": "333-3",
+    "Basay": "lramalrmalrin, lraman (S)",
+    "Basay.IPA": "ɭamaɭmaɭin, ɭaman (S)",
+    "ZH_TW": "流浪",
+    "ENG": "wander"
+  },
+  {
+    "id": "333-4",
+    "Basay": "lramai (M)",
+    "Basay.IPA": "ɭame (M)",
+    "ZH_TW": "稻草",
+    "ENG": "straw"
+  },
+  {
+    "id": "333-5",
+    "Basay": "lramsan (M)",
+    "Basay.IPA": "ɭamsan (M)",
+    "ZH_TW": "混合",
+    "ENG": "mix"
+  },
+  {
+    "id": "333-6",
+    "Basay": "lrapunu, pablra, pabulra (S)",
+    "Basay.IPA": "ɭapunu, pabɭa, pabuɭa (S)",
+    "ZH_TW": "乞討",
+    "ENG": "beg"
+  },
+  {
+    "id": "333-7",
+    "Basay": "lraslrasiq",
+    "Basay.IPA": "ɭasɭasiq",
+    "ZH_TW": "打掃",
+    "ENG": "sweep"
+  },
+  {
+    "id": "333-8",
+    "Basay": "lraiqol (M)",
+    "Basay.IPA": "ɭeqol (M)",
+    "ZH_TW": "尾巴",
+    "ENG": "tail"
+  },
+  {
+    "id": "333-9",
+    "Basay": "lrikilrikka",
+    "Basay.IPA": "ɭikiɭikka",
+    "ZH_TW": "細長且帶金色的瑪瑙",
+    "ENG": "agates (golden, long, thin)"
+  },
+  {
+    "id": "333-10",
+    "Basay": "lringai (M)",
+    "Basay.IPA": "ɭiŋai (M)",
+    "ZH_TW": "鰻魚",
+    "ENG": "eel"
+  },
+  {
+    "id": "333-11",
+    "Basay": "lrisusan (M)",
+    "Basay.IPA": "ɭisusan (M)",
+    "ZH_TW": "頭旋",
+    "ENG": "whirl of hair on the head"
+  },
+  {
+    "id": "333-12",
+    "Basay": "lroqolr (M)",
+    "Basay.IPA": "ɭoqoɭ (M)",
+    "ZH_TW": "測量",
+    "ENG": "measure, scale"
+  },
+  {
+    "id": "333-13",
+    "Basay": "zlakop (M)",
+    "Basay.IPA": "ɮakop (M)",
+    "ZH_TW": "大鍋，大汽鍋",
+    "ENG": "cauldron"
+  },
+  {
+    "id": "333-14",
+    "Basay": "zlazlani (M)",
+    "Basay.IPA": "ɮaɮani (M)",
+    "ZH_TW": "附近",
+    "ENG": "near"
+  },
+  {
+    "id": "333-15",
+    "Basay": "zlazlang (M)",
+    "Basay.IPA": "ɮaɮaŋ (M)",
+    "ZH_TW": "汗",
+    "ENG": "sweat"
+  },
+  {
+    "id": "333-16",
+    "Basay": "zlamal",
+    "Basay.IPA": "ɮamal",
+    "ZH_TW": "火",
+    "ENG": "fire"
+  },
+  {
+    "id": "333-17",
+    "Basay": "zlanum (M)",
+    "Basay.IPA": "ɮanum (M)",
+    "ZH_TW": "茶",
+    "ENG": "tea"
+  },
+  {
+    "id": "333-18",
+    "Basay": "zlapu (M)",
+    "Basay.IPA": "ɮapu (M)",
+    "ZH_TW": "鞋子",
+    "ENG": "shoes"
+  },
+  {
+    "id": "333-19",
+    "Basay": "zlaqunu (M)",
+    "Basay.IPA": "ɮaqunu (M)",
+    "ZH_TW": "烏龜",
+    "ENG": "turtle"
+  },
+  {
+    "id": "333-20",
+    "Basay": "zlengzleng (M)",
+    "Basay.IPA": "ɮəŋɮəŋ (M)",
+    "ZH_TW": "雷鳴，霹靂",
+    "ENG": "thunderclap"
+  },
+  {
+    "id": "333-21",
+    "Basay": "zlecuzletan, zlezzletan",
+    "Basay.IPA": "ɮətsuɮətan, ɮəzɮətan",
+    "ZH_TW": "壓住",
+    "ENG": "press down"
+  },
+  {
+    "id": "333-22",
+    "Basay": "zlian (M)",
+    "Basay.IPA": "ɮian (M)",
+    "ZH_TW": "今日",
+    "ENG": "today"
+  },
+  {
+    "id": "333-23",
+    "Basay": "zlilem (M)",
+    "Basay.IPA": "ɮiləm (M)",
+    "ZH_TW": "酸的",
+    "ENG": "sour"
+  },
+  {
+    "id": "333-24",
+    "Basay": "zlumakis (M)",
+    "Basay.IPA": "ɮumakis (M)",
+    "ZH_TW": "爬",
+    "ENG": "climb"
+  },
+  {
+    "id": "333-25",
+    "Basay": "zlumakis (M)",
+    "Basay.IPA": "ɮumakis (M)",
+    "ZH_TW": "抓，搔",
+    "ENG": "scratch (to)"
+  },
+  {
+    "id": "333-26",
+    "Basay": "zlumal (M)",
+    "Basay.IPA": "ɮumal (M)",
+    "ZH_TW": "看",
+    "ENG": "see"
+  },
+  {
+    "id": "333-27",
+    "Basay": "zlusapan",
+    "Basay.IPA": "ɮusapan",
+    "ZH_TW": "到海濱",
+    "ENG": "toward seasliore"
+  },
+  {
+    "id": "333-28",
+    "Basay": "maan",
+    "Basay.IPA": "maan",
+    "ZH_TW": "完成",
+    "ENG": "finish"
+  },
+  {
+    "id": "333-29",
+    "Basay": "maaqnu (S)",
+    "Basay.IPA": "maaqnu (S)",
+    "ZH_TW": "真的",
+    "ENG": "really"
+  },
+  {
+    "id": "333-30",
+    "Basay": "mai",
+    "Basay.IPA": "mai",
+    "ZH_TW": "在",
+    "ENG": "exist"
+  },
+  {
+    "id": "333-31",
+    "Basay": "maia (M)",
+    "Basay.IPA": "maia (M)",
+    "ZH_TW": "做",
+    "ENG": "make"
+  },
+  {
+    "id": "334-1",
+    "Basay": "mailrasai (S)",
+    "Basay.IPA": "maiɭase (S)",
+    "ZH_TW": "分手",
+    "ENG": "depart"
+  },
+  {
+    "id": "334-2",
+    "Basay": "maiqalivu",
+    "Basay.IPA": "maiqalivu",
+    "ZH_TW": "穿农服",
+    "ENG": "wear clothes"
+  },
+  {
+    "id": "334-3",
+    "Basay": "maiqvating",
+    "Basay.IPA": "maiqvatiŋ",
+    "ZH_TW": "生病",
+    "ENG": "sick"
+  },
+  {
+    "id": "334-4",
+    "Basay": "mais (S)",
+    "Basay.IPA": "mais (S)",
+    "ZH_TW": "怕",
+    "ENG": "fear"
+  },
+  {
+    "id": "334-5",
+    "Basay": "makawas, sikaw (S)",
+    "Basay.IPA": "makawas, sikaw (S)",
+    "ZH_TW": "說",
+    "ENG": "say"
+  },
+  {
+    "id": "334-6",
+    "Basay": "makay",
+    "Basay.IPA": "makay",
+    "ZH_TW": "回來",
+    "ENG": "return"
+  },
+  {
+    "id": "334-7",
+    "Basay": "maken (S)",
+    "Basay.IPA": "makən (S)",
+    "ZH_TW": "真的",
+    "ENG": "really"
+  },
+  {
+    "id": "334-8",
+    "Basay": "makeng (M)",
+    "Basay.IPA": "makəŋ (M)",
+    "ZH_TW": "誠實的，正直的",
+    "ENG": "honest, true"
+  },
+  {
+    "id": "334-9",
+    "Basay": "making (M)",
+    "Basay.IPA": "makiŋ (M)",
+    "ZH_TW": "打火石",
+    "ENG": "flint (for striking sparks)"
+  },
+  {
+    "id": "334-10",
+    "Basay": "maklri (M)",
+    "Basay.IPA": "makɭi (M)",
+    "ZH_TW": "彎曲",
+    "ENG": "bench curve"
+  },
+  {
+    "id": "334-11",
+    "Basay": "maklrisu (M)",
+    "Basay.IPA": "makɭisu (M)",
+    "ZH_TW": "周圍",
+    "ENG": "circumference"
+  },
+  {
+    "id": "334-12",
+    "Basay": "makteng",
+    "Basay.IPA": "maktəŋ",
+    "ZH_TW": "吃午餐",
+    "ENG": "eat lunch"
+  },
+  {
+    "id": "334-13",
+    "Basay": "makti (M)",
+    "Basay.IPA": "makti (M)",
+    "ZH_TW": "退潮",
+    "ENG": "low tide"
+  },
+  {
+    "id": "334-14",
+    "Basay": "makcacian",
+    "Basay.IPA": "maktsatsian",
+    "ZH_TW": "一整天",
+    "ENG": "day (whole)"
+  },
+  {
+    "id": "334-15",
+    "Basay": "maktuzian",
+    "Basay.IPA": "maktuzian",
+    "ZH_TW": "一整夜",
+    "ENG": "night (whole)"
+  },
+  {
+    "id": "334-16",
+    "Basay": "maku",
+    "Basay.IPA": "maku",
+    "ZH_TW": "我的",
+    "ENG": "my (GEN)"
+  },
+  {
+    "id": "334-17",
+    "Basay": "malaceng (M)",
+    "Basay.IPA": "malatsəŋ (M)",
+    "ZH_TW": "阻礙，打擾",
+    "ENG": "interrupt, hinder"
+  },
+  {
+    "id": "334-18",
+    "Basay": "malong (M)",
+    "Basay.IPA": "maloŋ (M)",
+    "ZH_TW": "長的，直的",
+    "ENG": "long, straight"
+  },
+  {
+    "id": "334-19",
+    "Basay": "malsawsaw",
+    "Basay.IPA": "malsawsaw",
+    "ZH_TW": "活著的",
+    "ENG": "alive"
+  },
+  {
+    "id": "334-20",
+    "Basay": "malra",
+    "Basay.IPA": "maɭa",
+    "ZH_TW": "捉，拿",
+    "ENG": "catch, take"
+  },
+  {
+    "id": "334-21",
+    "Basay": "malra (M)",
+    "Basay.IPA": "maɭa (M)",
+    "ZH_TW": "買",
+    "ENG": "buy"
+  },
+  {
+    "id": "334-22",
+    "Basay": "malralrau (M)",
+    "Basay.IPA": "maɭaɭau (M)",
+    "ZH_TW": "死亡",
+    "ENG": "die"
+  },
+  {
+    "id": "334-23",
+    "Basay": "malralrau (M)",
+    "Basay.IPA": "maɭaɭau (M)",
+    "ZH_TW": "跟隨，追蹤",
+    "ENG": "follow, run after"
+  },
+  {
+    "id": "334-24",
+    "Basay": "malray",
+    "Basay.IPA": "maɭay",
+    "ZH_TW": "捉，執意",
+    "ENG": "catch, insist"
+  },
+  {
+    "id": "334-25",
+    "Basay": "malrait (M)",
+    "Basay.IPA": "maɭet (M)",
+    "ZH_TW": "繫，栓，捆，紮",
+    "ENG": "tie (to)"
+  },
+  {
+    "id": "334-26",
+    "Basay": "malri, mamali, naqi",
+    "Basay.IPA": "maɭi, mamali, naqi",
+    "ZH_TW": "來",
+    "ENG": "come"
+  },
+  {
+    "id": "334-27",
+    "Basay": "malringi (M)",
+    "Basay.IPA": "maɭiŋi (M)",
+    "ZH_TW": "看守",
+    "ENG": "guard"
+  },
+  {
+    "id": "334-28",
+    "Basay": "malrosai (M)",
+    "Basay.IPA": "maɭose (M)",
+    "ZH_TW": "哭，眼淚",
+    "ENG": "cry, tears"
+  },
+  {
+    "id": "334-29",
+    "Basay": "malrualro (M)",
+    "Basay.IPA": "maɭuaɭo (M)",
+    "ZH_TW": "豬飼料",
+    "ENG": "feed for pig"
+  },
+  {
+    "id": "334-30",
+    "Basay": "mazlukas (M)",
+    "Basay.IPA": "maɮukas (M)",
+    "ZH_TW": "空閒的",
+    "ENG": "idle"
+  },
+  {
+    "id": "334-31",
+    "Basay": "mamaan",
+    "Basay.IPA": "mamaan",
+    "ZH_TW": "人",
+    "ENG": "person"
+  },
+  {
+    "id": "335-1",
+    "Basay": "mamatiwi",
+    "Basay.IPA": "mamatiwi",
+    "ZH_TW": "去",
+    "ENG": "go"
+  },
+  {
+    "id": "335-2",
+    "Basay": "mami",
+    "Basay.IPA": "mami",
+    "ZH_TW": "煮熟的",
+    "ENG": "cooked"
+  },
+  {
+    "id": "335-3",
+    "Basay": "mamis",
+    "Basay.IPA": "mamis",
+    "ZH_TW": "嘴饞",
+    "ENG": "greedy"
+  },
+  {
+    "id": "335-4",
+    "Basay": "mamcung (M)",
+    "Basay.IPA": "mamtsuŋ (M)",
+    "ZH_TW": "捲起",
+    "ENG": "roll up"
+  },
+  {
+    "id": "335-5",
+    "Basay": "mamurmur (M)",
+    "Basay.IPA": "mamurmur (M)",
+    "ZH_TW": "口吃",
+    "ENG": "stutter (to)"
+  },
+  {
+    "id": "335-6",
+    "Basay": "mani (M)",
+    "Basay.IPA": "mani (M)",
+    "ZH_TW": "強壯的",
+    "ENG": "strong"
+  },
+  {
+    "id": "335-7",
+    "Basay": "mani (S)",
+    "Basay.IPA": "mani (S)",
+    "ZH_TW": "好的",
+    "ENG": "good"
+  },
+  {
+    "id": "335-8",
+    "Basay": "maniana",
+    "Basay.IPA": "maniana",
+    "ZH_TW": "弟弟",
+    "ENG": "younger brother"
+  },
+  {
+    "id": "335-9",
+    "Basay": "manukka (M)",
+    "Basay.IPA": "manukka (M)",
+    "ZH_TW": "鳥",
+    "ENG": "bird"
+  },
+  {
+    "id": "335-10",
+    "Basay": "manuq (S), vatai (M)",
+    "Basay.IPA": "manuq (S), vate (M)",
+    "ZH_TW": "鷺",
+    "ENG": "egret"
+  },
+  {
+    "id": "335-11",
+    "Basay": "mangatu (M)",
+    "Basay.IPA": "maŋatu (M)",
+    "ZH_TW": "豐收",
+    "ENG": "harvest"
+  },
+  {
+    "id": "335-12",
+    "Basay": "mapeneng",
+    "Basay.IPA": "mapənəŋ",
+    "ZH_TW": "無聲，安靜",
+    "ENG": "quiet"
+  },
+  {
+    "id": "335-13",
+    "Basay": "mapolr, marpalras (M)",
+    "Basay.IPA": "mapoɭ, marpaɭas (M)",
+    "ZH_TW": "白粉",
+    "ENG": "white powder"
+  },
+  {
+    "id": "335-14",
+    "Basay": "mapolrong (M)",
+    "Basay.IPA": "mapoɭoŋ (M)",
+    "ZH_TW": "天花",
+    "ENG": "smallpox"
+  },
+  {
+    "id": "335-15",
+    "Basay": "maportos (M)",
+    "Basay.IPA": "maportos (M)",
+    "ZH_TW": "腫脹",
+    "ENG": "swelling, boil"
+  },
+  {
+    "id": "335-16",
+    "Basay": "mapuc",
+    "Basay.IPA": "maputs",
+    "ZH_TW": "全部",
+    "ENG": "all"
+  },
+  {
+    "id": "335-17",
+    "Basay": "mapuc (M)",
+    "Basay.IPA": "maputs (M)",
+    "ZH_TW": "渴望的",
+    "ENG": "eager"
+  },
+  {
+    "id": "335-18",
+    "Basay": "maqman (S)",
+    "Basay.IPA": "maqman (S)",
+    "ZH_TW": "吃",
+    "ENG": "eat"
+  },
+  {
+    "id": "335-19",
+    "Basay": "maqmwanay (S)",
+    "Basay.IPA": "maqmwanay (S)",
+    "ZH_TW": "真的",
+    "ENG": "really"
+  },
+  {
+    "id": "335-20",
+    "Basay": "maqozong (M)",
+    "Basay.IPA": "maqozoŋ (M)",
+    "ZH_TW": "駝背",
+    "ENG": "hunchback"
+  },
+  {
+    "id": "335-21",
+    "Basay": "maqsumanta (S)",
+    "Basay.IPA": "maqsumanta (S)",
+    "ZH_TW": "兄、姊",
+    "ENG": "elder sibling"
+  },
+  {
+    "id": "335-22",
+    "Basay": "maqtu",
+    "Basay.IPA": "maqtu",
+    "ZH_TW": "到達",
+    "ENG": "reach"
+  },
+  {
+    "id": "335-23",
+    "Basay": "maquno (S)",
+    "Basay.IPA": "maquno (S)",
+    "ZH_TW": "真的",
+    "ENG": "really"
+  },
+  {
+    "id": "335-24",
+    "Basay": "markaku (M)",
+    "Basay.IPA": "markaku (M)",
+    "ZH_TW": "彎曲的(河，道路)",
+    "ENG": "curly, (winding river/road)"
+  },
+  {
+    "id": "335-25",
+    "Basay": "marqaini (M)",
+    "Basay.IPA": "marqaini (M)",
+    "ZH_TW": "吵架",
+    "ENG": "quarrel"
+  },
+  {
+    "id": "335-26",
+    "Basay": "masang (M), qomnipa",
+    "Basay.IPA": "masaŋ (M), qomnipa",
+    "ZH_TW": "昔日",
+    "ENG": "old days"
+  },
+  {
+    "id": "335-27",
+    "Basay": "masawa",
+    "Basay.IPA": "masawa",
+    "ZH_TW": "作戰",
+    "ENG": "fight"
+  },
+  {
+    "id": "335-28",
+    "Basay": "masazmaken (S)",
+    "Basay.IPA": "masazmakən (S)",
+    "ZH_TW": "准許",
+    "ENG": "allow"
+  },
+  {
+    "id": "335-29",
+    "Basay": "masua (S)",
+    "Basay.IPA": "masua (S)",
+    "ZH_TW": "起來",
+    "ENG": "get up"
+  },
+  {
+    "id": "335-30",
+    "Basay": "mata",
+    "Basay.IPA": "mata",
+    "ZH_TW": "眼晴",
+    "ENG": "eye"
+  },
+  {
+    "id": "335-31",
+    "Basay": "mata u zlian (M)",
+    "Basay.IPA": "mata u ɮian (M)",
+    "ZH_TW": "太陽",
+    "ENG": "sun"
+  },
+  {
+    "id": "336-1",
+    "Basay": "mataail (M), taail",
+    "Basay.IPA": "matael (M), tael",
+    "ZH_TW": "農舍",
+    "ENG": "cottage, hut"
+  },
+  {
+    "id": "336-2",
+    "Basay": "matai (M)",
+    "Basay.IPA": "matai (M)",
+    "ZH_TW": "打擊",
+    "ENG": "strike (to)"
+  },
+  {
+    "id": "336-3",
+    "Basay": "mataii vucan (M)",
+    "Basay.IPA": "mataii vutsan (M)",
+    "ZH_TW": "月蝕",
+    "ENG": "eclipse of the moon"
+  },
+  {
+    "id": "336-4",
+    "Basay": "mataluna (S)",
+    "Basay.IPA": "mataluna (S)",
+    "ZH_TW": "工作",
+    "ENG": "work"
+  },
+  {
+    "id": "336-5",
+    "Basay": "matalrin (M)",
+    "Basay.IPA": "mataɭin (M)",
+    "ZH_TW": "移居",
+    "ENG": "migrate"
+  },
+  {
+    "id": "336-6",
+    "Basay": "matanem (M)",
+    "Basay.IPA": "matanəm (M)",
+    "ZH_TW": "葬禮",
+    "ENG": "funeral"
+  },
+  {
+    "id": "336-7",
+    "Basay": "matara (M)",
+    "Basay.IPA": "matara (M)",
+    "ZH_TW": "見面",
+    "ENG": "meet"
+  },
+  {
+    "id": "336-8",
+    "Basay": "matata (M)",
+    "Basay.IPA": "matata (M)",
+    "ZH_TW": "跌倒",
+    "ENG": "fall"
+  },
+  {
+    "id": "336-9",
+    "Basay": "matavo",
+    "Basay.IPA": "matavo",
+    "ZH_TW": "包",
+    "ENG": "wrap"
+  },
+  {
+    "id": "336-10",
+    "Basay": "matay",
+    "Basay.IPA": "matay",
+    "ZH_TW": "死",
+    "ENG": "dead, die"
+  },
+  {
+    "id": "336-11",
+    "Basay": "matairol (M)",
+    "Basay.IPA": "materol (M)",
+    "ZH_TW": "卵",
+    "ENG": "egg"
+  },
+  {
+    "id": "336-12",
+    "Basay": "matektek (M)",
+    "Basay.IPA": "matəktək (M)",
+    "ZH_TW": "插花",
+    "ENG": "arrange flowers"
+  },
+  {
+    "id": "336-13",
+    "Basay": "mateng",
+    "Basay.IPA": "matəŋ",
+    "ZH_TW": "午餐",
+    "ENG": "lunch"
+  },
+  {
+    "id": "336-14",
+    "Basay": "mati, matiw",
+    "Basay.IPA": "mati, matiw",
+    "ZH_TW": "去",
+    "ENG": "go"
+  },
+  {
+    "id": "336-15",
+    "Basay": "matik (M)",
+    "Basay.IPA": "matik (M)",
+    "ZH_TW": "刺繡",
+    "ENG": "embroider"
+  },
+  {
+    "id": "336-16",
+    "Basay": "mativtivek",
+    "Basay.IPA": "mativtivək",
+    "ZH_TW": "踩",
+    "ENG": "tread"
+  },
+  {
+    "id": "336-17",
+    "Basay": "matnek",
+    "Basay.IPA": "matnək",
+    "ZH_TW": "決定日子",
+    "ENG": "set a date"
+  },
+  {
+    "id": "336-18",
+    "Basay": "matowanai (M)",
+    "Basay.IPA": "matowanai (M)",
+    "ZH_TW": "仲介",
+    "ENG": "go between"
+  },
+  {
+    "id": "336-19",
+    "Basay": "macin",
+    "Basay.IPA": "matsin",
+    "ZH_TW": "醒來",
+    "ENG": "awake (from sleep), get up"
+  },
+  {
+    "id": "336-20",
+    "Basay": "macingceng (M)",
+    "Basay.IPA": "matsiŋtsəŋ (M)",
+    "ZH_TW": "頭痛",
+    "ENG": "headache"
+  },
+  {
+    "id": "336-21",
+    "Basay": "maculay",
+    "Basay.IPA": "matsulay",
+    "ZH_TW": "唱歌",
+    "ENG": "sing"
+  },
+  {
+    "id": "336-22",
+    "Basay": "macuvun (M)",
+    "Basay.IPA": "matsuvun (M)",
+    "ZH_TW": "陡峭的",
+    "ENG": "steep, stumble"
+  },
+  {
+    "id": "336-23",
+    "Basay": "matuzusan",
+    "Basay.IPA": "matuzusan",
+    "ZH_TW": "滿足",
+    "ENG": "contented"
+  },
+  {
+    "id": "336-24",
+    "Basay": "maumatay",
+    "Basay.IPA": "maumatay",
+    "ZH_TW": "復活，復甦",
+    "ENG": "resurrection"
+  },
+  {
+    "id": "336-25",
+    "Basay": "maunu",
+    "Basay.IPA": "maunu",
+    "ZH_TW": "為何",
+    "ENG": "why"
+  },
+  {
+    "id": "336-26",
+    "Basay": "mautut (S)",
+    "Basay.IPA": "mautut (S)",
+    "ZH_TW": "一起去",
+    "ENG": "go together"
+  },
+  {
+    "id": "336-27",
+    "Basay": "mavalac",
+    "Basay.IPA": "mavalats",
+    "ZH_TW": "搗米",
+    "ENG": "pound rice"
+  },
+  {
+    "id": "336-28",
+    "Basay": "mavawa",
+    "Basay.IPA": "mavawa",
+    "ZH_TW": "做船",
+    "ENG": "build a boat"
+  },
+  {
+    "id": "336-29",
+    "Basay": "maw",
+    "Basay.IPA": "maw",
+    "ZH_TW": "感嘆詞",
+    "ENG": "exclamation"
+  },
+  {
+    "id": "336-30",
+    "Basay": "maya",
+    "Basay.IPA": "maya",
+    "ZH_TW": "做，煮",
+    "ENG": "do, cook"
+  },
+  {
+    "id": "336-31",
+    "Basay": "mazinup",
+    "Basay.IPA": "mazinup",
+    "ZH_TW": "一起去",
+    "ENG": "go together"
+  },
+  {
+    "id": "337-1",
+    "Basay": "maziwziwun",
+    "Basay.IPA": "maziwziwun",
+    "ZH_TW": "搖晃",
+    "ENG": "swing"
+  },
+  {
+    "id": "337-2",
+    "Basay": "mailaibus",
+    "Basay.IPA": "melebus",
+    "ZH_TW": "草長高",
+    "ENG": "grass grown tall"
+  },
+  {
+    "id": "337-3",
+    "Basay": "maimai (M)",
+    "Basay.IPA": "meme (M)",
+    "ZH_TW": "山羊",
+    "ENG": "goat"
+  },
+  {
+    "id": "337-4",
+    "Basay": "mainazl (M)",
+    "Basay.IPA": "menaɮ (M)",
+    "ZH_TW": "醒過來",
+    "ENG": "awake (to)"
+  },
+  {
+    "id": "337-5",
+    "Basay": "maingajailr (M)",
+    "Basay.IPA": "meŋajeɭ (M)",
+    "ZH_TW": "鰭",
+    "ENG": "fin"
+  },
+  {
+    "id": "337-6",
+    "Basay": "maiolat (M)",
+    "Basay.IPA": "meolat (M)",
+    "ZH_TW": "力量",
+    "ENG": "strength"
+  },
+  {
+    "id": "337-7",
+    "Basay": "mairoc (M)",
+    "Basay.IPA": "merots (M)",
+    "ZH_TW": "洗澡",
+    "ENG": "bathe"
+  },
+  {
+    "id": "337-8",
+    "Basay": "maitengai (M)",
+    "Basay.IPA": "metəŋe (M)",
+    "ZH_TW": "欠",
+    "ENG": "debt, owe"
+  },
+  {
+    "id": "337-9",
+    "Basay": "maitonais (M)",
+    "Basay.IPA": "metones (M)",
+    "ZH_TW": "布",
+    "ENG": "cloth"
+  },
+  {
+    "id": "337-10",
+    "Basay": "maicai (M)",
+    "Basay.IPA": "metse (M)",
+    "ZH_TW": "選擇",
+    "ENG": "choose"
+  },
+  {
+    "id": "337-11",
+    "Basay": "maizozo (M)",
+    "Basay.IPA": "mezozo (M)",
+    "ZH_TW": "打瞌睡",
+    "ENG": "sleepy"
+  },
+  {
+    "id": "337-12",
+    "Basay": "meneng, qaningya",
+    "Basay.IPA": "mənəŋ, qaniŋya",
+    "ZH_TW": "寒冷",
+    "ENG": "cold"
+  },
+  {
+    "id": "337-13",
+    "Basay": "mengsaita (M)",
+    "Basay.IPA": "məŋseta (M)",
+    "ZH_TW": "腐爛",
+    "ENG": "rotten"
+  },
+  {
+    "id": "337-14",
+    "Basay": "mesek",
+    "Basay.IPA": "məsək",
+    "ZH_TW": "抵達",
+    "ENG": "arrive"
+  },
+  {
+    "id": "337-15",
+    "Basay": "mezualrais",
+    "Basay.IPA": "məzuaɭes",
+    "ZH_TW": "很多",
+    "ENG": "many"
+  },
+  {
+    "id": "337-16",
+    "Basay": "mia",
+    "Basay.IPA": "mia",
+    "ZH_TW": "不，沒有",
+    "ENG": "no, not"
+  },
+  {
+    "id": "337-17",
+    "Basay": "miakay",
+    "Basay.IPA": "miakay",
+    "ZH_TW": "或者",
+    "ENG": "or"
+  },
+  {
+    "id": "337-18",
+    "Basay": "miakunacawan (M)",
+    "Basay.IPA": "miakunatsawan (M)",
+    "ZH_TW": "通姦",
+    "ENG": "adultery"
+  },
+  {
+    "id": "337-19",
+    "Basay": "mianan",
+    "Basay.IPA": "mianan",
+    "ZH_TW": "我們",
+    "ENG": "us (exclusive)"
+  },
+  {
+    "id": "337-20",
+    "Basay": "mianem (M), sopel",
+    "Basay.IPA": "mianəm (M), sopəl",
+    "ZH_TW": "聰明伶俐的",
+    "ENG": "clever"
+  },
+  {
+    "id": "337-21",
+    "Basay": "mianu (M)",
+    "Basay.IPA": "mianu (M)",
+    "ZH_TW": "偉大的",
+    "ENG": "great"
+  },
+  {
+    "id": "337-22",
+    "Basay": "mia pay",
+    "Basay.IPA": "mia pay",
+    "ZH_TW": "還沒",
+    "ENG": "not yet"
+  },
+  {
+    "id": "337-23",
+    "Basay": "miaquna soani (M)",
+    "Basay.IPA": "miaquna soani (M)",
+    "ZH_TW": "同姓",
+    "ENG": "same family name"
+  },
+  {
+    "id": "337-24",
+    "Basay": "miasimusakai (M)",
+    "Basay.IPA": "miasimusakai (M)",
+    "ZH_TW": "類似",
+    "ENG": "resemble (not)"
+  },
+  {
+    "id": "337-25",
+    "Basay": "miatakvunai (M)",
+    "Basay.IPA": "miatakvunai (M)",
+    "ZH_TW": "後悔",
+    "ENG": "regret"
+  },
+  {
+    "id": "337-26",
+    "Basay": "miip",
+    "Basay.IPA": "miip",
+    "ZH_TW": "睡覺，躺下",
+    "ENG": "sleep, lie down"
+  },
+  {
+    "id": "337-27",
+    "Basay": "mikalumut",
+    "Basay.IPA": "mikalumut",
+    "ZH_TW": "戴",
+    "ENG": "wear"
+  },
+  {
+    "id": "337-28",
+    "Basay": "miksun, qumapiz (M)",
+    "Basay.IPA": "miksun, qumapiz (M)",
+    "ZH_TW": "絆腳，絆倒",
+    "ENG": "stumble (to)"
+  },
+  {
+    "id": "337-29",
+    "Basay": "mikuskusan (M)",
+    "Basay.IPA": "mikuskusan (M)",
+    "ZH_TW": "抓，搔",
+    "ENG": "scratch"
+  },
+  {
+    "id": "337-30",
+    "Basay": "mikuskusan (M)",
+    "Basay.IPA": "mikuskusan (M)",
+    "ZH_TW": "疥瘡",
+    "ENG": "scabies"
+  },
+  {
+    "id": "337-31",
+    "Basay": "mikutu (M)",
+    "Basay.IPA": "mikutu (M)",
+    "ZH_TW": "帶蝨子",
+    "ENG": "have lice"
+  },
+  {
+    "id": "338-1",
+    "Basay": "mikuva",
+    "Basay.IPA": "mikuva",
+    "ZH_TW": "有田地",
+    "ENG": "own field"
+  },
+  {
+    "id": "338-2",
+    "Basay": "milalang (M)",
+    "Basay.IPA": "milalaŋ (M)",
+    "ZH_TW": "赤裸",
+    "ENG": "naked"
+  },
+  {
+    "id": "338-3",
+    "Basay": "milim (M)",
+    "Basay.IPA": "milim (M)",
+    "ZH_TW": "尋找",
+    "ENG": "search"
+  },
+  {
+    "id": "338-4",
+    "Basay": "milrumus",
+    "Basay.IPA": "miɭumus",
+    "ZH_TW": "沸騰",
+    "ENG": "boil"
+  },
+  {
+    "id": "338-5",
+    "Basay": "mimsel",
+    "Basay.IPA": "mimsəl",
+    "ZH_TW": "分散",
+    "ENG": "scatter"
+  },
+  {
+    "id": "338-6",
+    "Basay": "minangan",
+    "Basay.IPA": "minaŋan",
+    "ZH_TW": "取名",
+    "ENG": "named"
+  },
+  {
+    "id": "338-7",
+    "Basay": "mipusalrum",
+    "Basay.IPA": "mipusaɭum",
+    "ZH_TW": "有生番",
+    "ENG": "have savages"
+  },
+  {
+    "id": "338-8",
+    "Basay": "miqinaz",
+    "Basay.IPA": "miqinaz",
+    "ZH_TW": "叫醒",
+    "ENG": "wake up someone"
+  },
+  {
+    "id": "338-9",
+    "Basay": "misi (M)",
+    "Basay.IPA": "misi (M)",
+    "ZH_TW": "肥胖，脂肪",
+    "ENG": "fat"
+  },
+  {
+    "id": "338-10",
+    "Basay": "misikam (M)",
+    "Basay.IPA": "misikam (M)",
+    "ZH_TW": "鋪蓆子",
+    "ENG": "spread a mat"
+  },
+  {
+    "id": "338-11",
+    "Basay": "misinuvungan",
+    "Basay.IPA": "misinuvuŋan",
+    "ZH_TW": "帶矛",
+    "ENG": "bring a spear"
+  },
+  {
+    "id": "338-12",
+    "Basay": "misumai (M)",
+    "Basay.IPA": "misumai (M)",
+    "ZH_TW": "午餐",
+    "ENG": "lunch"
+  },
+  {
+    "id": "338-13",
+    "Basay": "mitai",
+    "Basay.IPA": "mitai",
+    "ZH_TW": "有糞便",
+    "ENG": "have shit"
+  },
+  {
+    "id": "338-14",
+    "Basay": "mitamun",
+    "Basay.IPA": "mitamun",
+    "ZH_TW": "帶菜",
+    "ENG": "bring a side dish"
+  },
+  {
+    "id": "338-15",
+    "Basay": "mitac",
+    "Basay.IPA": "mitats",
+    "ZH_TW": "甦醒，活著的",
+    "ENG": "revive, alive"
+  },
+  {
+    "id": "338-16",
+    "Basay": "mitimac (M)",
+    "Basay.IPA": "mitimats (M)",
+    "ZH_TW": "剩菜",
+    "ENG": "leftover"
+  },
+  {
+    "id": "338-17",
+    "Basay": "mitiqulr",
+    "Basay.IPA": "mitiquɭ",
+    "ZH_TW": "拄著柺杖",
+    "ENG": "walk with a cane"
+  },
+  {
+    "id": "338-18",
+    "Basay": "mitut (M)",
+    "Basay.IPA": "mitut (M)",
+    "ZH_TW": "放屁",
+    "ENG": "break wind"
+  },
+  {
+    "id": "338-19",
+    "Basay": "micep (M)",
+    "Basay.IPA": "mitsəp (M)",
+    "ZH_TW": "濕的 (下雨，哭)",
+    "ENG": "wet (because of rain, tears)"
+  },
+  {
+    "id": "338-20",
+    "Basay": "micicing (M)",
+    "Basay.IPA": "mitsitsiŋ (M)",
+    "ZH_TW": "轉頭看",
+    "ENG": "look back"
+  },
+  {
+    "id": "338-21",
+    "Basay": "micuku (M), cuku",
+    "Basay.IPA": "mitsuku (M), tsuku",
+    "ZH_TW": "戴斗笠",
+    "ENG": "wear bamboo hat"
+  },
+  {
+    "id": "338-22",
+    "Basay": "mivanang",
+    "Basay.IPA": "mivanaŋ",
+    "ZH_TW": "有土地",
+    "ENG": "own land"
+  },
+  {
+    "id": "338-23",
+    "Basay": "mivukiata",
+    "Basay.IPA": "mivukiata",
+    "ZH_TW": "鈴響",
+    "ENG": "ring (bell)"
+  },
+  {
+    "id": "338-24",
+    "Basay": "miwanaqqa (M)",
+    "Basay.IPA": "miwanaqqa (M)",
+    "ZH_TW": "生小孩",
+    "ENG": "bear a baby"
+  },
+  {
+    "id": "338-25",
+    "Basay": "mizanum, ptanqu",
+    "Basay.IPA": "mizanum, ptanqu",
+    "ZH_TW": "喝",
+    "ENG": "drink"
+  },
+  {
+    "id": "338-26",
+    "Basay": "mkatar (M)",
+    "Basay.IPA": "mkatar (M)",
+    "ZH_TW": "硬的",
+    "ENG": "hard"
+  },
+  {
+    "id": "338-27",
+    "Basay": "mkic, mukic",
+    "Basay.IPA": "mkits, mukits",
+    "ZH_TW": "醒來",
+    "ENG": "wake up"
+  },
+  {
+    "id": "338-28",
+    "Basay": "mlalaio (M)",
+    "Basay.IPA": "mlaleo (M)",
+    "ZH_TW": "撤退",
+    "ENG": "retreat"
+  },
+  {
+    "id": "338-29",
+    "Basay": "mlapait",
+    "Basay.IPA": "mlapet",
+    "ZH_TW": "折斷",
+    "ENG": "break off"
+  },
+  {
+    "id": "338-30",
+    "Basay": "mlasailas (M)",
+    "Basay.IPA": "mlaselas (M)",
+    "ZH_TW": "平滑的，平坦的",
+    "ENG": "smooth"
+  },
+  {
+    "id": "338-31",
+    "Basay": "mli vauta (M)",
+    "Basay.IPA": "mli vauta (M)",
+    "ZH_TW": "魚網",
+    "ENG": "fishing net"
+  },
+  {
+    "id": "339-1",
+    "Basay": "mlralriluta (M)",
+    "Basay.IPA": "mɭaɭiluta (M)",
+    "ZH_TW": "泥",
+    "ENG": "mud"
+  },
+  {
+    "id": "339-2",
+    "Basay": "mlraputoi (M)",
+    "Basay.IPA": "mɭaputoi (M)",
+    "ZH_TW": "做夢",
+    "ENG": "dreaming"
+  },
+  {
+    "id": "339-3",
+    "Basay": "mlraqo (M)",
+    "Basay.IPA": "mɭaqo (M)",
+    "ZH_TW": "支撐",
+    "ENG": "support"
+  },
+  {
+    "id": "339-4",
+    "Basay": "mlrasiq",
+    "Basay.IPA": "mɭasiq",
+    "ZH_TW": "打掃",
+    "ENG": "sweep"
+  },
+  {
+    "id": "339-5",
+    "Basay": "mlratu (M)",
+    "Basay.IPA": "mɭatu (M)",
+    "ZH_TW": "分配",
+    "ENG": "distribute"
+  },
+  {
+    "id": "339-6",
+    "Basay": "mlrauis (M)",
+    "Basay.IPA": "mɭauis (M)",
+    "ZH_TW": "網魚",
+    "ENG": "fish with net"
+  },
+  {
+    "id": "339-7",
+    "Basay": "mlravokelr (M)",
+    "Basay.IPA": "mɭavokəɭ (M)",
+    "ZH_TW": "卷髪",
+    "ENG": "curly hair"
+  },
+  {
+    "id": "339-8",
+    "Basay": "mlravut",
+    "Basay.IPA": "mɭavut",
+    "ZH_TW": "厭煩",
+    "ENG": "dislike"
+  },
+  {
+    "id": "339-9",
+    "Basay": "mlraimazok (M)",
+    "Basay.IPA": "mɭemazok (M)",
+    "ZH_TW": "玩弄，戲弄",
+    "ENG": "fool"
+  },
+  {
+    "id": "339-10",
+    "Basay": "mlrainang (M)",
+    "Basay.IPA": "mɭenaŋ (M)",
+    "ZH_TW": "菜",
+    "ENG": "dish"
+  },
+  {
+    "id": "339-11",
+    "Basay": "mlraivoqqa (M)",
+    "Basay.IPA": "mɭevoqqa (M)",
+    "ZH_TW": "奪走",
+    "ENG": "rob (to), snatch away"
+  },
+  {
+    "id": "339-12",
+    "Basay": "mlrenang",
+    "Basay.IPA": "mɭənaŋ",
+    "ZH_TW": "出血",
+    "ENG": "bleed"
+  },
+  {
+    "id": "339-13",
+    "Basay": "mlresak",
+    "Basay.IPA": "mɭəsak",
+    "ZH_TW": "高興的",
+    "ENG": "happy"
+  },
+  {
+    "id": "339-14",
+    "Basay": "mlrilring",
+    "Basay.IPA": "mɭiɭiŋ",
+    "ZH_TW": "新年祭袓",
+    "ENG": "perform new year rituals"
+  },
+  {
+    "id": "339-15",
+    "Basay": "mlrimcu (M)",
+    "Basay.IPA": "mɭimtsu (M)",
+    "ZH_TW": "銀幣",
+    "ENG": "silver coin"
+  },
+  {
+    "id": "339-16",
+    "Basay": "mlriqut",
+    "Basay.IPA": "mɭiqut",
+    "ZH_TW": "折斷",
+    "ENG": "break into two pieces"
+  },
+  {
+    "id": "339-17",
+    "Basay": "mlrivisi",
+    "Basay.IPA": "mɭivisi",
+    "ZH_TW": "退潮",
+    "ENG": "ebb"
+  },
+  {
+    "id": "339-18",
+    "Basay": "mlronganga (M)",
+    "Basay.IPA": "mɭoŋaŋa (M)",
+    "ZH_TW": "開口",
+    "ENG": "open the mouth"
+  },
+  {
+    "id": "339-19",
+    "Basay": "mlrtiq, murtiqqa",
+    "Basay.IPA": "mɭtiq, murtiqqa",
+    "ZH_TW": "跳",
+    "ENG": "jump"
+  },
+  {
+    "id": "339-20",
+    "Basay": "mzlala, mzata (M)",
+    "Basay.IPA": "mɮala, mzata (M)",
+    "ZH_TW": "短，矮人",
+    "ENG": "short, dwarf"
+  },
+  {
+    "id": "339-21",
+    "Basay": "mnaju (M)",
+    "Basay.IPA": "mnaju (M)",
+    "ZH_TW": "壺",
+    "ENG": "pot"
+  },
+  {
+    "id": "339-22",
+    "Basay": "mnalrutui (M)",
+    "Basay.IPA": "mnaɭutui (M)",
+    "ZH_TW": "腸，内藏",
+    "ENG": "intestines"
+  },
+  {
+    "id": "339-23",
+    "Basay": "mnaol (M)",
+    "Basay.IPA": "mnaol (M)",
+    "ZH_TW": "葫蘆，瓜，黄瓜",
+    "ENG": "gourd, melon, cucumber"
+  },
+  {
+    "id": "339-24",
+    "Basay": "mnaquy",
+    "Basay.IPA": "mnaquy",
+    "ZH_TW": "通知",
+    "ENG": "inform"
+  },
+  {
+    "id": "339-25",
+    "Basay": "mnaijanaijapa (M)",
+    "Basay.IPA": "mnejanejapa (M)",
+    "ZH_TW": "喧鬧聲，吵鬧",
+    "ENG": "noise"
+  },
+  {
+    "id": "339-26",
+    "Basay": "mninai (M)",
+    "Basay.IPA": "mninai (M)",
+    "ZH_TW": "丈夫",
+    "ENG": "husband"
+  },
+  {
+    "id": "339-27",
+    "Basay": "mningu (M)",
+    "Basay.IPA": "mniŋu (M)",
+    "ZH_TW": "鏡子",
+    "ENG": "mirror"
+  },
+  {
+    "id": "339-28",
+    "Basay": "mnukul (M)",
+    "Basay.IPA": "mnukul (M)",
+    "ZH_TW": "蛇",
+    "ENG": "snake"
+  },
+  {
+    "id": "339-29",
+    "Basay": "mnurvi (M)",
+    "Basay.IPA": "mnurvi (M)",
+    "ZH_TW": "躲藏",
+    "ENG": "hide oneself"
+  },
+  {
+    "id": "339-30",
+    "Basay": "mngava (M)",
+    "Basay.IPA": "mŋava (M)",
+    "ZH_TW": "妒忌的",
+    "ENG": "jealous"
+  },
+  {
+    "id": "339-31",
+    "Basay": "mngolralr (M)",
+    "Basay.IPA": "mŋoɭaɭ (M)",
+    "ZH_TW": "沈默寡言的，啞的",
+    "ENG": "mute, dumb"
+  },
+  {
+    "id": "340-1",
+    "Basay": "moalai (M)",
+    "Basay.IPA": "moale (M)",
+    "ZH_TW": "曬太陽",
+    "ENG": "dry in the sun"
+  },
+  {
+    "id": "340-2",
+    "Basay": "moanem",
+    "Basay.IPA": "moanəm",
+    "ZH_TW": "仍然，還在",
+    "ENG": "still"
+  },
+  {
+    "id": "340-3",
+    "Basay": "moaceng (M)",
+    "Basay.IPA": "moatsəŋ (M)",
+    "ZH_TW": "冒煙的",
+    "ENG": "smoky"
+  },
+  {
+    "id": "340-4",
+    "Basay": "molrailr (M)",
+    "Basay.IPA": "moɭeɭ (M)",
+    "ZH_TW": "瘋狂的",
+    "ENG": "crazy"
+  },
+  {
+    "id": "340-5",
+    "Basay": "molronat (M)",
+    "Basay.IPA": "moɭonat (M)",
+    "ZH_TW": "燃燒",
+    "ENG": "burn, set fire"
+  },
+  {
+    "id": "340-6",
+    "Basay": "mormoq kuva (M)",
+    "Basay.IPA": "mormoq kuva (M)",
+    "ZH_TW": "耕種",
+    "ENG": "plow"
+  },
+  {
+    "id": "340-7",
+    "Basay": "moco takel (M)",
+    "Basay.IPA": "motso takəl (M)",
+    "ZH_TW": "待在屋内",
+    "ENG": "stay inside the house"
+  },
+  {
+    "id": "340-8",
+    "Basay": "mqaiwatu (M)",
+    "Basay.IPA": "mqaiwatu (M)",
+    "ZH_TW": "織細的",
+    "ENG": "slender, thin"
+  },
+  {
+    "id": "340-9",
+    "Basay": "mraipot (M), raipotan",
+    "Basay.IPA": "mrepot (M), repotan",
+    "ZH_TW": "纏繞",
+    "ENG": "wind (to)"
+  },
+  {
+    "id": "340-10",
+    "Basay": "mrileng (M)",
+    "Basay.IPA": "mriləŋ (M)",
+    "ZH_TW": "捲起",
+    "ENG": "roll up"
+  },
+  {
+    "id": "340-11",
+    "Basay": "mricong (M)",
+    "Basay.IPA": "mritsoŋ (M)",
+    "ZH_TW": "重的",
+    "ENG": "heavy"
+  },
+  {
+    "id": "340-12",
+    "Basay": "mrtaiqa zanum (M)",
+    "Basay.IPA": "mrteqa zanum (M)",
+    "ZH_TW": "溺死",
+    "ENG": "drowned, death by drowning"
+  },
+  {
+    "id": "340-13",
+    "Basay": "mruma (M)",
+    "Basay.IPA": "mruma (M)",
+    "ZH_TW": "種植",
+    "ENG": "plant (to)"
+  },
+  {
+    "id": "340-14",
+    "Basay": "mrusirau (M)",
+    "Basay.IPA": "mrusirau (M)",
+    "ZH_TW": "藍色，綠色",
+    "ENG": "blue, green"
+  },
+  {
+    "id": "340-15",
+    "Basay": "msaiz (M)",
+    "Basay.IPA": "msaiz (M)",
+    "ZH_TW": "便宜",
+    "ENG": "cheap"
+  },
+  {
+    "id": "340-16",
+    "Basay": "msalrjn, musalrin",
+    "Basay.IPA": "msaɭjn, musaɭin",
+    "ZH_TW": "流動",
+    "ENG": "flow"
+  },
+  {
+    "id": "340-17",
+    "Basay": "msava",
+    "Basay.IPA": "msava",
+    "ZH_TW": "餓",
+    "ENG": "hungry"
+  },
+  {
+    "id": "340-18",
+    "Basay": "msek (M)",
+    "Basay.IPA": "msək (M)",
+    "ZH_TW": "抵達",
+    "ENG": "arrive"
+  },
+  {
+    "id": "340-19",
+    "Basay": "msiqaz",
+    "Basay.IPA": "msiqaz",
+    "ZH_TW": "慚愧的",
+    "ENG": "ashamed"
+  },
+  {
+    "id": "340-20",
+    "Basay": "msuin (M)",
+    "Basay.IPA": "msuin (M)",
+    "ZH_TW": "飽",
+    "ENG": "full (eating), satisfied"
+  },
+  {
+    "id": "340-21",
+    "Basay": "msupa",
+    "Basay.IPA": "msupa",
+    "ZH_TW": "貧窮",
+    "ENG": "poor"
+  },
+  {
+    "id": "340-22",
+    "Basay": "msupel",
+    "Basay.IPA": "msupəl",
+    "ZH_TW": "知道",
+    "ENG": "know"
+  },
+  {
+    "id": "340-23",
+    "Basay": "mtanga",
+    "Basay.IPA": "mtaŋa",
+    "ZH_TW": "笑",
+    "ENG": "laugh"
+  },
+  {
+    "id": "340-24",
+    "Basay": "mtangtanga (M), ptanga",
+    "Basay.IPA": "mtaŋtaŋa (M), ptaŋa",
+    "ZH_TW": "嘲笑的",
+    "ENG": "scornful laugh"
+  },
+  {
+    "id": "340-25",
+    "Basay": "mtian (M)",
+    "Basay.IPA": "mtian (M)",
+    "ZH_TW": "懷孕",
+    "ENG": "pregnant"
+  },
+  {
+    "id": "340-26",
+    "Basay": "mtoroc (M)",
+    "Basay.IPA": "mtorots (M)",
+    "ZH_TW": "聾的",
+    "ENG": "deaf"
+  },
+  {
+    "id": "340-27",
+    "Basay": "mturtur(M)",
+    "Basay.IPA": "mturtur(M)",
+    "ZH_TW": "震動",
+    "ENG": "shake"
+  },
+  {
+    "id": "340-28",
+    "Basay": "mcangaca (M)",
+    "Basay.IPA": "mtsaŋatsa (M)",
+    "ZH_TW": "爭論，爭執",
+    "ENG": "dispute"
+  },
+  {
+    "id": "340-29",
+    "Basay": "mcuvung (M)",
+    "Basay.IPA": "mtsuvuŋ (M)",
+    "ZH_TW": "跳",
+    "ENG": "jump"
+  },
+  {
+    "id": "340-30",
+    "Basay": "mua (M)",
+    "Basay.IPA": "mua (M)",
+    "ZH_TW": "早上",
+    "ENG": "morning"
+  },
+  {
+    "id": "340-31",
+    "Basay": "mualra (S)",
+    "Basay.IPA": "muaɭa (S)",
+    "ZH_TW": "多",
+    "ENG": "many"
+  },
+  {
+    "id": "341-1",
+    "Basay": "mamjaku (M), muanum",
+    "Basay.IPA": "mamjaku (M), muanum",
+    "ZH_TW": "喜歡",
+    "ENG": "like"
+  },
+  {
+    "id": "341-2",
+    "Basay": "muazing",
+    "Basay.IPA": "muaziŋ",
+    "ZH_TW": "帶東西",
+    "ENG": "bring things"
+  },
+  {
+    "id": "341-3",
+    "Basay": "mukin",
+    "Basay.IPA": "mukin",
+    "ZH_TW": "鐵",
+    "ENG": "iron"
+  },
+  {
+    "id": "341-4",
+    "Basay": "mulaqlaqai (M)",
+    "Basay.IPA": "mulaqlaqai (M)",
+    "ZH_TW": "咳嗽",
+    "ENG": "cough"
+  },
+  {
+    "id": "341-5",
+    "Basay": "mulrai u laisau (M)",
+    "Basay.IPA": "muɭai u lesau (M)",
+    "ZH_TW": "樹枝，果實的種子",
+    "ENG": "twig, bow, seed of fruits"
+  },
+  {
+    "id": "341-6",
+    "Basay": "mulras (M), ulras",
+    "Basay.IPA": "muɭas (M), uɭas",
+    "ZH_TW": "露（？）",
+    "ENG": "dew (?)"
+  },
+  {
+    "id": "341-7",
+    "Basay": "mulrata",
+    "Basay.IPA": "muɭata",
+    "ZH_TW": "調情",
+    "ENG": "flirt"
+  },
+  {
+    "id": "341-8",
+    "Basay": "mulrulru (M)",
+    "Basay.IPA": "muɭuɭu (M)",
+    "ZH_TW": "(狗）吠",
+    "ENG": "bark (dogs)"
+  },
+  {
+    "id": "341-9",
+    "Basay": "mumus (M)",
+    "Basay.IPA": "mumus (M)",
+    "ZH_TW": "小鬍子",
+    "ENG": "mustache"
+  },
+  {
+    "id": "341-10",
+    "Basay": "munainailr",
+    "Basay.IPA": "munainaiɭ",
+    "ZH_TW": "飛",
+    "ENG": "fly"
+  },
+  {
+    "id": "341-11",
+    "Basay": "munacang (M), nacang (M)",
+    "Basay.IPA": "munatsaŋ (M), natsaŋ (M)",
+    "ZH_TW": "輕 (重量)",
+    "ENG": "light (in weight)"
+  },
+  {
+    "id": "341-12",
+    "Basay": "murpun",
+    "Basay.IPA": "murpun",
+    "ZH_TW": "完成",
+    "ENG": "finish"
+  },
+  {
+    "id": "341-13",
+    "Basay": "mursapa (M)",
+    "Basay.IPA": "mursapa (M)",
+    "ZH_TW": "滿潮",
+    "ENG": "high tide"
+  },
+  {
+    "id": "341-14",
+    "Basay": "murtav (M)",
+    "Basay.IPA": "murtav (M)",
+    "ZH_TW": "聊天",
+    "ENG": "chat"
+  },
+  {
+    "id": "341-15",
+    "Basay": "muru (M)",
+    "Basay.IPA": "muru (M)",
+    "ZH_TW": "柚子",
+    "ENG": "pomelo"
+  },
+  {
+    "id": "341-16",
+    "Basay": "murukku (M)",
+    "Basay.IPA": "murukku (M)",
+    "ZH_TW": "屈身，生產",
+    "ENG": "stoop, give birth to"
+  },
+  {
+    "id": "341-17",
+    "Basay": "musaini (M)",
+    "Basay.IPA": "musaini (M)",
+    "ZH_TW": "擔心",
+    "ENG": "worry"
+  },
+  {
+    "id": "341-18",
+    "Basay": "musipus (M)",
+    "Basay.IPA": "musipus (M)",
+    "ZH_TW": "摩擦",
+    "ENG": "rub"
+  },
+  {
+    "id": "341-19",
+    "Basay": "musup (M)",
+    "Basay.IPA": "musup (M)",
+    "ZH_TW": "滅火",
+    "ENG": "extinguish"
+  },
+  {
+    "id": "341-20",
+    "Basay": "muta (M)",
+    "Basay.IPA": "muta (M)",
+    "ZH_TW": "嘔吐",
+    "ENG": "vomit"
+  },
+  {
+    "id": "341-21",
+    "Basay": "muton (M)",
+    "Basay.IPA": "muton (M)",
+    "ZH_TW": "老鼠",
+    "ENG": "rat, mouse"
+  },
+  {
+    "id": "341-22",
+    "Basay": "mucu, vucu",
+    "Basay.IPA": "mutsu, vutsu",
+    "ZH_TW": "下面",
+    "ENG": "under"
+  },
+  {
+    "id": "341-23",
+    "Basay": "muttung",
+    "Basay.IPA": "muttuŋ",
+    "ZH_TW": "殺",
+    "ENG": "kill"
+  },
+  {
+    "id": "341-24",
+    "Basay": "mutuz (M)",
+    "Basay.IPA": "mutuz (M)",
+    "ZH_TW": "地震",
+    "ENG": "earthquake"
+  },
+  {
+    "id": "341-25",
+    "Basay": "muzuay",
+    "Basay.IPA": "muzuay",
+    "ZH_TW": "有",
+    "ENG": "exist"
+  },
+  {
+    "id": "341-26",
+    "Basay": "mvalra, tupus (M)",
+    "Basay.IPA": "mvaɭa, tupus (M)",
+    "ZH_TW": "空閒的",
+    "ENG": "idle"
+  },
+  {
+    "id": "341-27",
+    "Basay": "na",
+    "Basay.IPA": "na",
+    "ZH_TW": "了",
+    "ENG": "aspect marker"
+  },
+  {
+    "id": "341-28",
+    "Basay": "na, na:na, nai, nawiai",
+    "Basay.IPA": "na, na:na, nai, nawie",
+    "ZH_TW": "媽媽",
+    "ENG": "mother (address)"
+  },
+  {
+    "id": "341-29",
+    "Basay": "nalrik (S)> nalrikka (M)",
+    "Basay.IPA": "naɭik (S)> naɭikka (M)",
+    "ZH_TW": "麻糬",
+    "ENG": "rice cake"
+  },
+  {
+    "id": "341-30",
+    "Basay": "nalrilri (S)",
+    "Basay.IPA": "naɭiɭi (S)",
+    "ZH_TW": "來",
+    "ENG": "come"
+  },
+  {
+    "id": "341-31",
+    "Basay": "nami, yami",
+    "Basay.IPA": "nami, yami",
+    "ZH_TW": "我們",
+    "ENG": "we"
+  },
+  {
+    "id": "342-1",
+    "Basay": "nangan (M)",
+    "Basay.IPA": "naŋan (M)",
+    "ZH_TW": "名字",
+    "ENG": "name"
+  },
+  {
+    "id": "342-2",
+    "Basay": "nangui (M)",
+    "Basay.IPA": "naŋui (M)",
+    "ZH_TW": "游泳",
+    "ENG": "swim"
+  },
+  {
+    "id": "342-3",
+    "Basay": "nasan (M)",
+    "Basay.IPA": "nasan (M)",
+    "ZH_TW": "庭院，外面",
+    "ENG": "outside, garden"
+  },
+  {
+    "id": "342-4",
+    "Basay": "nasoani (M)",
+    "Basay.IPA": "nasoani (M)",
+    "ZH_TW": "親戚",
+    "ENG": "relatives"
+  },
+  {
+    "id": "342-5",
+    "Basay": "nacwan (M)",
+    "Basay.IPA": "natswan (M)",
+    "ZH_TW": "姦夫，姦婦",
+    "ENG": "wanton (man)"
+  },
+  {
+    "id": "342-6",
+    "Basay": "nawaika",
+    "Basay.IPA": "nawaika",
+    "ZH_TW": "可惜",
+    "ENG": "pity"
+  },
+  {
+    "id": "342-7",
+    "Basay": "nazaunii (S)",
+    "Basay.IPA": "nazaunii (S)",
+    "ZH_TW": "在做什麼",
+    "ENG": "what's up"
+  },
+  {
+    "id": "342-8",
+    "Basay": "nai (S)",
+    "Basay.IPA": "ne (S)",
+    "ZH_TW": "假如",
+    "ENG": "if"
+  },
+  {
+    "id": "342-9",
+    "Basay": "nialra",
+    "Basay.IPA": "niaɭa",
+    "ZH_TW": "抓",
+    "ENG": "catch"
+  },
+  {
+    "id": "342-10",
+    "Basay": "niana (S)",
+    "Basay.IPA": "niana (S)",
+    "ZH_TW": "甚麼",
+    "ENG": "what"
+  },
+  {
+    "id": "342-11",
+    "Basay": "nianem",
+    "Basay.IPA": "nianəm",
+    "ZH_TW": "六個人",
+    "ENG": "six people"
+  },
+  {
+    "id": "342-12",
+    "Basay": "niacu",
+    "Basay.IPA": "niatsu",
+    "ZH_TW": "三個人",
+    "ENG": "three people"
+  },
+  {
+    "id": "342-13",
+    "Basay": "niazusa",
+    "Basay.IPA": "niazusa",
+    "ZH_TW": "兩個人",
+    "ENG": "two people"
+  },
+  {
+    "id": "342-14",
+    "Basay": "ningu (M)",
+    "Basay.IPA": "niŋu (M)",
+    "ZH_TW": "影子",
+    "ENG": "shadow"
+  },
+  {
+    "id": "342-15",
+    "Basay": "nicang (M)",
+    "Basay.IPA": "nitsaŋ (M)",
+    "ZH_TW": "乾的",
+    "ENG": "dry"
+  },
+  {
+    "id": "342-16",
+    "Basay": "njanguzinan (M)",
+    "Basay.IPA": "njaŋuzinan (M)",
+    "ZH_TW": "散佈，分佈",
+    "ENG": "split one's hair"
+  },
+  {
+    "id": "342-17",
+    "Basay": "nu",
+    "Basay.IPA": "nu",
+    "ZH_TW": "嗎",
+    "ENG": "question marker"
+  },
+  {
+    "id": "342-18",
+    "Basay": "nukanan (M)",
+    "Basay.IPA": "nukanan (M)",
+    "ZH_TW": "纏足",
+    "ENG": "foot-binding"
+  },
+  {
+    "id": "342-19",
+    "Basay": "nulracung",
+    "Basay.IPA": "nuɭatsuŋ",
+    "ZH_TW": "活該",
+    "ENG": "deserve"
+  },
+  {
+    "id": "342-20",
+    "Basay": "-numi (S)",
+    "Basay.IPA": "-numi (S)",
+    "ZH_TW": "你們的",
+    "ENG": "your (GEN)"
+  },
+  {
+    "id": "342-21",
+    "Basay": "nunai (M)",
+    "Basay.IPA": "nunai (M)",
+    "ZH_TW": "筍",
+    "ENG": "bamboo shoot"
+  },
+  {
+    "id": "342-22",
+    "Basay": "nunuan",
+    "Basay.IPA": "nunuan",
+    "ZH_TW": "一半",
+    "ENG": "half"
+  },
+  {
+    "id": "342-23",
+    "Basay": "nurvi (M)",
+    "Basay.IPA": "nurvi (M)",
+    "ZH_TW": "賭博",
+    "ENG": "gamble (to)"
+  },
+  {
+    "id": "342-24",
+    "Basay": "nuvasai (M)",
+    "Basay.IPA": "nuvasai (M)",
+    "ZH_TW": "玉蜀黍，玉米",
+    "ENG": "Indian corn"
+  },
+  {
+    "id": "342-25",
+    "Basay": "nuzung (S)",
+    "Basay.IPA": "nuzuŋ (S)",
+    "ZH_TW": "糯米餅",
+    "ENG": "rice cookies"
+  },
+  {
+    "id": "342-26",
+    "Basay": "ngacai (M)",
+    "Basay.IPA": "ŋatsai (M)",
+    "ZH_TW": "唾液",
+    "ENG": "saliva, spit"
+  },
+  {
+    "id": "342-27",
+    "Basay": "ngayaw",
+    "Basay.IPA": "ŋayaw",
+    "ZH_TW": "前面",
+    "ENG": "in front of"
+  },
+  {
+    "id": "342-28",
+    "Basay": "ngazi",
+    "Basay.IPA": "ŋazi",
+    "ZH_TW": "石神",
+    "ENG": "stone god"
+  },
+  {
+    "id": "342-29",
+    "Basay": "ngazui (M)",
+    "Basay.IPA": "ŋazui (M)",
+    "ZH_TW": "下巴",
+    "ENG": "chin (lower)"
+  },
+  {
+    "id": "342-30",
+    "Basay": "ngkia, ngkiia",
+    "Basay.IPA": "ŋkia, ŋkiia",
+    "ZH_TW": "也",
+    "ENG": "too"
+  },
+  {
+    "id": "342-31",
+    "Basay": "ngorngor (M)",
+    "Basay.IPA": "ŋorŋor (M)",
+    "ZH_TW": "鼻子",
+    "ENG": "nose"
+  },
+  {
+    "id": "343-1",
+    "Basay": "nguzus (M)",
+    "Basay.IPA": "ŋuzus (M)",
+    "ZH_TW": "船首",
+    "ENG": "bow of the ship"
+  },
+  {
+    "id": "343-2",
+    "Basay": "nguzus, nguzus taqel (M)",
+    "Basay.IPA": "ŋuzus, ŋuzus taqəl (M)",
+    "ZH_TW": "岬角",
+    "ENG": "cape"
+  },
+  {
+    "id": "343-3",
+    "Basay": "orac (M)",
+    "Basay.IPA": "orats (M)",
+    "ZH_TW": "砂",
+    "ENG": "sand"
+  },
+  {
+    "id": "343-4",
+    "Basay": "paiamis",
+    "Basay.IPA": "paiamis",
+    "ZH_TW": "向北",
+    "ENG": "toward north"
+  },
+  {
+    "id": "343-5",
+    "Basay": "paieman",
+    "Basay.IPA": "paiəman",
+    "ZH_TW": "向下面",
+    "ENG": "toward below"
+  },
+  {
+    "id": "343-6",
+    "Basay": "pail (M)",
+    "Basay.IPA": "pail (M)",
+    "ZH_TW": "扇子",
+    "ENG": "fan"
+  },
+  {
+    "id": "343-7",
+    "Basay": "paipana (S), pana (M)",
+    "Basay.IPA": "paipana (S), pana (M)",
+    "ZH_TW": "内，裡面",
+    "ENG": "inside, in the house"
+  },
+  {
+    "id": "343-8",
+    "Basay": "paituman (M)",
+    "Basay.IPA": "paituman (M)",
+    "ZH_TW": "下游",
+    "ENG": "downstream"
+  },
+  {
+    "id": "343-9",
+    "Basay": "paicacing",
+    "Basay.IPA": "paitsatsiŋ",
+    "ZH_TW": "向海",
+    "ENG": "toward sea"
+  },
+  {
+    "id": "343-10",
+    "Basay": "paicungan",
+    "Basay.IPA": "paitsuŋan",
+    "ZH_TW": "向河邊",
+    "ENG": "toward river side"
+  },
+  {
+    "id": "343-11",
+    "Basay": "paivavang",
+    "Basay.IPA": "paivavaŋ",
+    "ZH_TW": "向上面，向上游",
+    "ENG": "toward above, upstream"
+  },
+  {
+    "id": "343-12",
+    "Basay": "paklravut",
+    "Basay.IPA": "pakɭavut",
+    "ZH_TW": "厭煩",
+    "ENG": "dislike"
+  },
+  {
+    "id": "343-13",
+    "Basay": "pakman",
+    "Basay.IPA": "pakman",
+    "ZH_TW": "興盛，充分",
+    "ENG": "prosperous, much"
+  },
+  {
+    "id": "343-14",
+    "Basay": "palaqunna (S)",
+    "Basay.IPA": "palaqunna (S)",
+    "ZH_TW": "好人",
+    "ENG": "good person"
+  },
+  {
+    "id": "343-15",
+    "Basay": "palu",
+    "Basay.IPA": "palu",
+    "ZH_TW": "朋友",
+    "ENG": "friend"
+  },
+  {
+    "id": "343-16",
+    "Basay": "palrakun (M), simunang",
+    "Basay.IPA": "paɭakun (M), simunaŋ",
+    "ZH_TW": "温和的",
+    "ENG": "gentle, quiet"
+  },
+  {
+    "id": "343-17",
+    "Basay": "palranpussa (M)",
+    "Basay.IPA": "paɭanpussa (M)",
+    "ZH_TW": "遺憾的",
+    "ENG": "regrettable"
+  },
+  {
+    "id": "343-18",
+    "Basay": "palrasiq, palrasiqqa",
+    "Basay.IPA": "paɭasiq, paɭasiqqa",
+    "ZH_TW": "打掃",
+    "ENG": "sweep"
+  },
+  {
+    "id": "343-19",
+    "Basay": "palraupus (M)",
+    "Basay.IPA": "paɭaupus (M)",
+    "ZH_TW": "浪費的",
+    "ENG": "wasteful"
+  },
+  {
+    "id": "343-20",
+    "Basay": "palraw",
+    "Basay.IPA": "paɭaw",
+    "ZH_TW": "芒草",
+    "ENG": "miscanthus"
+  },
+  {
+    "id": "343-21",
+    "Basay": "palrisi cacin (M)",
+    "Basay.IPA": "paɭisi tsatsin (M)",
+    "ZH_TW": "海人草",
+    "ENG": "corsican weed"
+  },
+  {
+    "id": "343-22",
+    "Basay": "palrmang",
+    "Basay.IPA": "paɭmaŋ",
+    "ZH_TW": "就這樣",
+    "ENG": "just like this"
+  },
+  {
+    "id": "343-23",
+    "Basay": "palrmanga",
+    "Basay.IPA": "paɭmaŋa",
+    "ZH_TW": "不能，不可以",
+    "ENG": "unable, may not"
+  },
+  {
+    "id": "343-24",
+    "Basay": "pazlqatan (M)",
+    "Basay.IPA": "paɮqatan (M)",
+    "ZH_TW": "甲殼（龜、蟹）",
+    "ENG": "sole"
+  },
+  {
+    "id": "343-25",
+    "Basay": "pama (S)",
+    "Basay.IPA": "pama (S)",
+    "ZH_TW": "還沒",
+    "ENG": "not yet"
+  },
+  {
+    "id": "343-26",
+    "Basay": "pameng (S)",
+    "Basay.IPA": "paməŋ (S)",
+    "ZH_TW": "總算",
+    "ENG": "finally"
+  },
+  {
+    "id": "343-27",
+    "Basay": "panay(S)",
+    "Basay.IPA": "panay(S)",
+    "ZH_TW": "稻",
+    "ENG": "rice plant"
+  },
+  {
+    "id": "343-28",
+    "Basay": "pani",
+    "Basay.IPA": "pani",
+    "ZH_TW": "弓，箭",
+    "ENG": "bow and arrow"
+  },
+  {
+    "id": "343-29",
+    "Basay": "panjuan (M)",
+    "Basay.IPA": "panjuan (M)",
+    "ZH_TW": "玻璃",
+    "ENG": "glass"
+  },
+  {
+    "id": "343-30",
+    "Basay": "pangca (M)",
+    "Basay.IPA": "paŋtsa (M)",
+    "ZH_TW": "推",
+    "ENG": "push, set aside"
+  },
+  {
+    "id": "343-31",
+    "Basay": "pangcay",
+    "Basay.IPA": "paŋtsay",
+    "ZH_TW": "扔",
+    "ENG": "throw away"
+  },
+  {
+    "id": "344-1",
+    "Basay": "paolratta",
+    "Basay.IPA": "paoɭatta",
+    "ZH_TW": "必定",
+    "ENG": "definitely"
+  },
+  {
+    "id": "344-2",
+    "Basay": "papica (M), papicaan",
+    "Basay.IPA": "papitsa (M), papitsaan",
+    "ZH_TW": "槍",
+    "ENG": "gun, rifle"
+  },
+  {
+    "id": "344-3",
+    "Basay": "paqni",
+    "Basay.IPA": "paqni",
+    "ZH_TW": "大概",
+    "ENG": "probably"
+  },
+  {
+    "id": "344-4",
+    "Basay": "paraing (M)",
+    "Basay.IPA": "pareŋ (M)",
+    "ZH_TW": "聽",
+    "ENG": "listen"
+  },
+  {
+    "id": "344-5",
+    "Basay": "pari",
+    "Basay.IPA": "pari",
+    "ZH_TW": "玩",
+    "ENG": "fool around"
+  },
+  {
+    "id": "344-6",
+    "Basay": "parin (M)",
+    "Basay.IPA": "parin (M)",
+    "ZH_TW": "把手",
+    "ENG": "handle"
+  },
+  {
+    "id": "344-7",
+    "Basay": "paripari",
+    "Basay.IPA": "paripari",
+    "ZH_TW": "等",
+    "ENG": "wait"
+  },
+  {
+    "id": "344-8",
+    "Basay": "parkatan (M)",
+    "Basay.IPA": "parkatan (M)",
+    "ZH_TW": "門檻",
+    "ENG": "threshold"
+  },
+  {
+    "id": "344-9",
+    "Basay": "parmarmang",
+    "Basay.IPA": "parmarmaŋ",
+    "ZH_TW": "無論如何",
+    "ENG": "at any rate"
+  },
+  {
+    "id": "344-10",
+    "Basay": "pasalraiwai (M)",
+    "Basay.IPA": "pasaɭewai (M)",
+    "ZH_TW": "助理",
+    "ENG": "assistant"
+  },
+  {
+    "id": "344-11",
+    "Basay": "pasaya",
+    "Basay.IPA": "pasaya",
+    "ZH_TW": "梱行李，準備",
+    "ENG": "pack, prepare"
+  },
+  {
+    "id": "344-12",
+    "Basay": "pasi",
+    "Basay.IPA": "pasi",
+    "ZH_TW": "也許",
+    "ENG": "perhaps"
+  },
+  {
+    "id": "344-13",
+    "Basay": "pasika (M)",
+    "Basay.IPA": "pasika (M)",
+    "ZH_TW": "試試看",
+    "ENG": "try"
+  },
+  {
+    "id": "344-14",
+    "Basay": "pasipen (M)",
+    "Basay.IPA": "pasipən (M)",
+    "ZH_TW": "整理，安排",
+    "ENG": "order (put in)"
+  },
+  {
+    "id": "344-15",
+    "Basay": "pasisin, psisin",
+    "Basay.IPA": "pasisin, psisin",
+    "ZH_TW": "聽占卜烏",
+    "ENG": "listen to an omen bird"
+  },
+  {
+    "id": "344-16",
+    "Basay": "pasusul (S)",
+    "Basay.IPA": "pasusul (S)",
+    "ZH_TW": "拿出",
+    "ENG": "take out"
+  },
+  {
+    "id": "344-17",
+    "Basay": "patal",
+    "Basay.IPA": "patal",
+    "ZH_TW": "天亮",
+    "ENG": "daybreak"
+  },
+  {
+    "id": "344-18",
+    "Basay": "patawa (S)",
+    "Basay.IPA": "patawa (S)",
+    "ZH_TW": "笑",
+    "ENG": "laugh"
+  },
+  {
+    "id": "344-19",
+    "Basay": "patazuq (S), taruq, taruqa, tazuk",
+    "Basay.IPA": "patazuq (S), taruq, taruqa, tazuk",
+    "ZH_TW": "插秧",
+    "ENG": "transplant rice"
+  },
+  {
+    "id": "344-20",
+    "Basay": "patozo (M)",
+    "Basay.IPA": "patozo (M)",
+    "ZH_TW": "問問題",
+    "ENG": "question (to)"
+  },
+  {
+    "id": "344-21",
+    "Basay": "patpatezan",
+    "Basay.IPA": "patpatəzan",
+    "ZH_TW": "壓住",
+    "ENG": "press"
+  },
+  {
+    "id": "344-22",
+    "Basay": "patuqal",
+    "Basay.IPA": "patuqal",
+    "ZH_TW": "進入",
+    "ENG": "enter"
+  },
+  {
+    "id": "344-23",
+    "Basay": "patuzu",
+    "Basay.IPA": "patuzu",
+    "ZH_TW": "問",
+    "ENG": "ask"
+  },
+  {
+    "id": "344-24",
+    "Basay": "pacakay",
+    "Basay.IPA": "patsakay",
+    "ZH_TW": "回來",
+    "ENG": "return"
+  },
+  {
+    "id": "344-25",
+    "Basay": "pacakem (M)",
+    "Basay.IPA": "patsakəm (M)",
+    "ZH_TW": "舉起，抬起",
+    "ENG": "raise"
+  },
+  {
+    "id": "344-26",
+    "Basay": "pavlravlra (M)",
+    "Basay.IPA": "pavɭavɭa (M)",
+    "ZH_TW": "乞丐",
+    "ENG": "beggar"
+  },
+  {
+    "id": "344-27",
+    "Basay": "pavung",
+    "Basay.IPA": "pavuŋ",
+    "ZH_TW": "聽到",
+    "ENG": "hear"
+  },
+  {
+    "id": "344-28",
+    "Basay": "pay",
+    "Basay.IPA": "pay",
+    "ZH_TW": "將要",
+    "ENG": "future"
+  },
+  {
+    "id": "344-29",
+    "Basay": "pazakun (M)",
+    "Basay.IPA": "pazakun (M)",
+    "ZH_TW": "尊敬",
+    "ENG": "honor (to)"
+  },
+  {
+    "id": "344-30",
+    "Basay": "pazal",
+    "Basay.IPA": "pazal",
+    "ZH_TW": "使看",
+    "ENG": "make someone see"
+  },
+  {
+    "id": "344-31",
+    "Basay": "paziun",
+    "Basay.IPA": "paziun",
+    "ZH_TW": "圓珠",
+    "ENG": "pearl agates"
+  },
+  {
+    "id": "345-1",
+    "Basay": "pailucai",
+    "Basay.IPA": "pelutse",
+    "ZH_TW": "洗",
+    "ENG": "wash"
+  },
+  {
+    "id": "345-2",
+    "Basay": "pairos (M)",
+    "Basay.IPA": "peros (M)",
+    "ZH_TW": "跛腳的",
+    "ENG": "lame"
+  },
+  {
+    "id": "345-3",
+    "Basay": "pezmezmekan",
+    "Basay.IPA": "pəzməzməkan",
+    "ZH_TW": "貼",
+    "ENG": "attach, stick"
+  },
+  {
+    "id": "345-4",
+    "Basay": "pilanglang",
+    "Basay.IPA": "pilaŋlaŋ",
+    "ZH_TW": "赤裸",
+    "ENG": "naked"
+  },
+  {
+    "id": "345-5",
+    "Basay": "pina",
+    "Basay.IPA": "pina",
+    "ZH_TW": "多少",
+    "ENG": "how many"
+  },
+  {
+    "id": "345-6",
+    "Basay": "pisipsi",
+    "Basay.IPA": "pisipsi",
+    "ZH_TW": "屋簷",
+    "ENG": "eaves"
+  },
+  {
+    "id": "345-7",
+    "Basay": "piza",
+    "Basay.IPA": "piza",
+    "ZH_TW": "保留",
+    "ENG": "keep"
+  },
+  {
+    "id": "345-8",
+    "Basay": "pkanan",
+    "Basay.IPA": "pkanan",
+    "ZH_TW": "祭拜",
+    "ENG": "offer a sacrifice"
+  },
+  {
+    "id": "345-9",
+    "Basay": "plrasqo (M)",
+    "Basay.IPA": "pɭasqo (M)",
+    "ZH_TW": "瓶子",
+    "ENG": "bottle"
+  },
+  {
+    "id": "345-10",
+    "Basay": "plopcaimau (M)",
+    "Basay.IPA": "ploptsemau (M)",
+    "ZH_TW": "顛倒",
+    "ENG": "upside down"
+  },
+  {
+    "id": "345-11",
+    "Basay": "pnam zlawa (M)",
+    "Basay.IPA": "pnam ɮawa (M)",
+    "ZH_TW": "姦夫，淫婦",
+    "ENG": "wanton (woman)"
+  },
+  {
+    "id": "345-12",
+    "Basay": "pnazugitan (M)",
+    "Basay.IPA": "pnazugitan (M)",
+    "ZH_TW": "肝臓",
+    "ENG": "liver"
+  },
+  {
+    "id": "345-13",
+    "Basay": "polroqo nanuman (M)",
+    "Basay.IPA": "poɭoqo nanuman (M)",
+    "ZH_TW": "土瓶",
+    "ENG": "earthern teapot"
+  },
+  {
+    "id": "345-14",
+    "Basay": "ponail (M)",
+    "Basay.IPA": "ponel (M)",
+    "ZH_TW": "充滿",
+    "ENG": "filled (to be)"
+  },
+  {
+    "id": "345-15",
+    "Basay": "posaitai (M)",
+    "Basay.IPA": "posete (M)",
+    "ZH_TW": "起火",
+    "ENG": "fire (to set)"
+  },
+  {
+    "id": "345-16",
+    "Basay": "pqamiamia, tavel (M)",
+    "Basay.IPA": "pqamiamia, tavəl (M)",
+    "ZH_TW": "丟失",
+    "ENG": "lose"
+  },
+  {
+    "id": "345-17",
+    "Basay": "praiqut (M)",
+    "Basay.IPA": "prequt (M)",
+    "ZH_TW": "折彎",
+    "ENG": "bend (to)"
+  },
+  {
+    "id": "345-18",
+    "Basay": "praitaiunau (M)",
+    "Basay.IPA": "preteunau (M)",
+    "ZH_TW": "繫，拴，捆，紮",
+    "ENG": "tie (to)"
+  },
+  {
+    "id": "345-19",
+    "Basay": "pruma",
+    "Basay.IPA": "pruma",
+    "ZH_TW": "種",
+    "ENG": "plant (to)"
+  },
+  {
+    "id": "345-20",
+    "Basay": "psainul (M)",
+    "Basay.IPA": "psenul (M)",
+    "ZH_TW": "冬天",
+    "ENG": "winter"
+  },
+  {
+    "id": "345-21",
+    "Basay": "psika",
+    "Basay.IPA": "psika",
+    "ZH_TW": "試",
+    "ENG": "try"
+  },
+  {
+    "id": "345-22",
+    "Basay": "psuin",
+    "Basay.IPA": "psuin",
+    "ZH_TW": "飽",
+    "ENG": "full"
+  },
+  {
+    "id": "345-23",
+    "Basay": "pcai",
+    "Basay.IPA": "ptse",
+    "ZH_TW": "暧和",
+    "ENG": "warm"
+  },
+  {
+    "id": "345-24",
+    "Basay": "pcaiwai (M)",
+    "Basay.IPA": "ptsewai (M)",
+    "ZH_TW": "賠償",
+    "ENG": "reparation"
+  },
+  {
+    "id": "345-25",
+    "Basay": "pcinan (M)",
+    "Basay.IPA": "ptsinan (M)",
+    "ZH_TW": "禁忌",
+    "ENG": "taboo"
+  },
+  {
+    "id": "345-26",
+    "Basay": "pcjaiwai (M)",
+    "Basay.IPA": "ptsjewai (M)",
+    "ZH_TW": "交換",
+    "ENG": "exchange"
+  },
+  {
+    "id": "345-27",
+    "Basay": "pukal (M)",
+    "Basay.IPA": "pukal (M)",
+    "ZH_TW": "花生",
+    "ENG": "peanut"
+  },
+  {
+    "id": "345-28",
+    "Basay": "pukatiu (M)",
+    "Basay.IPA": "pukatiu (M)",
+    "ZH_TW": "放置",
+    "ENG": "place (to)"
+  },
+  {
+    "id": "345-29",
+    "Basay": "pukun (M)",
+    "Basay.IPA": "pukun (M)",
+    "ZH_TW": "抽打",
+    "ENG": "whip"
+  },
+  {
+    "id": "345-30",
+    "Basay": "pulilian",
+    "Basay.IPA": "pulilian",
+    "ZH_TW": "站立",
+    "ENG": "stand"
+  },
+  {
+    "id": "345-31",
+    "Basay": "punanguy",
+    "Basay.IPA": "punaŋuy",
+    "ZH_TW": "腐木",
+    "ENG": "rotten tree"
+  },
+  {
+    "id": "346-1",
+    "Basay": "punail",
+    "Basay.IPA": "punel",
+    "ZH_TW": "足夠",
+    "ENG": "enough"
+  },
+  {
+    "id": "346-2",
+    "Basay": "purkaitasa (M)",
+    "Basay.IPA": "purkaitasa (M)",
+    "ZH_TW": "嬰兒",
+    "ENG": "baby"
+  },
+  {
+    "id": "346-3",
+    "Basay": "purqan u zamal (M)",
+    "Basay.IPA": "purqan u zamal (M)",
+    "ZH_TW": "起火",
+    "ENG": "fire (to make)"
+  },
+  {
+    "id": "346-4",
+    "Basay": "pursarum (M)",
+    "Basay.IPA": "pursarum (M)",
+    "ZH_TW": "山地人",
+    "ENG": "mountain tribes"
+  },
+  {
+    "id": "346-5",
+    "Basay": "purtta (M)",
+    "Basay.IPA": "purtta (M)",
+    "ZH_TW": "厚的",
+    "ENG": "thick"
+  },
+  {
+    "id": "346-6",
+    "Basay": "purca (M)",
+    "Basay.IPA": "purtsa (M)",
+    "ZH_TW": "擠奶",
+    "ENG": "milk (to), hold"
+  },
+  {
+    "id": "346-7",
+    "Basay": "pusalrum",
+    "Basay.IPA": "pusaɭum",
+    "ZH_TW": "生番",
+    "ENG": "savages"
+  },
+  {
+    "id": "346-8",
+    "Basay": "pusanta (S)",
+    "Basay.IPA": "pusanta (S)",
+    "ZH_TW": "不能",
+    "ENG": "unable"
+  },
+  {
+    "id": "346-9",
+    "Basay": "putazl (M)",
+    "Basay.IPA": "putaɮ (M)",
+    "ZH_TW": "打擊",
+    "ENG": "hit (to)"
+  },
+  {
+    "id": "346-10",
+    "Basay": "putaw",
+    "Basay.IPA": "putaw",
+    "ZH_TW": "斧頭",
+    "ENG": "axe"
+  },
+  {
+    "id": "346-11",
+    "Basay": "puti (M)",
+    "Basay.IPA": "puti (M)",
+    "ZH_TW": "香蕉",
+    "ENG": "banana"
+  },
+  {
+    "id": "346-12",
+    "Basay": "putit (M)",
+    "Basay.IPA": "putit (M)",
+    "ZH_TW": "蜻蜓",
+    "ENG": "dragonfly"
+  },
+  {
+    "id": "346-13",
+    "Basay": "putivqan (M)",
+    "Basay.IPA": "putivqan (M)",
+    "ZH_TW": "踩，踐踏",
+    "ENG": "trample down"
+  },
+  {
+    "id": "346-14",
+    "Basay": "pucu (M)",
+    "Basay.IPA": "putsu (M)",
+    "ZH_TW": "枕頭，長椅",
+    "ENG": "pillow, bench"
+  },
+  {
+    "id": "346-15",
+    "Basay": "puvavuy, pvavuy, pwavavuy",
+    "Basay.IPA": "puvavuy, pvavuy, pwavavuy",
+    "ZH_TW": "殺豬",
+    "ENG": "kill a pig, butcher"
+  },
+  {
+    "id": "346-16",
+    "Basay": "pzayan",
+    "Basay.IPA": "pzayan",
+    "ZH_TW": "放置",
+    "ENG": "put"
+  },
+  {
+    "id": "346-17",
+    "Basay": "qaay",
+    "Basay.IPA": "qaay",
+    "ZH_TW": "腿",
+    "ENG": "leg"
+  },
+  {
+    "id": "346-18",
+    "Basay": "qabsen",
+    "Basay.IPA": "qabsən",
+    "ZH_TW": "僵硬",
+    "ENG": "stiff"
+  },
+  {
+    "id": "346-19",
+    "Basay": "qaail (M)",
+    "Basay.IPA": "qael (M)",
+    "ZH_TW": "鮑魚",
+    "ENG": "abalone"
+  },
+  {
+    "id": "346-20",
+    "Basay": "qaia (M)",
+    "Basay.IPA": "qaia (M)",
+    "ZH_TW": "瓦",
+    "ENG": "tile (on the roof)"
+  },
+  {
+    "id": "346-21",
+    "Basay": "qainil (M)",
+    "Basay.IPA": "qainil (M)",
+    "ZH_TW": "邊蝝",
+    "ENG": "edge"
+  },
+  {
+    "id": "346-22",
+    "Basay": "qainil u tanga (M)",
+    "Basay.IPA": "qainil u taŋa (M)",
+    "ZH_TW": "肋骨",
+    "ENG": "rib"
+  },
+  {
+    "id": "346-23",
+    "Basay": "qainulos (M)",
+    "Basay.IPA": "qainulos (M)",
+    "ZH_TW": "棟木",
+    "ENG": "ridgepole"
+  },
+  {
+    "id": "346-24",
+    "Basay": "qainup (S)",
+    "Basay.IPA": "qainup (S)",
+    "ZH_TW": "睡覺",
+    "ENG": "sleep"
+  },
+  {
+    "id": "346-25",
+    "Basay": "qaiolra (M)",
+    "Basay.IPA": "qaioɭa (M)",
+    "ZH_TW": "鳶，老鷹",
+    "ENG": "kite, black-eared kite (bird)"
+  },
+  {
+    "id": "346-26",
+    "Basay": "qaipanay (S), qmavil (M)",
+    "Basay.IPA": "qaipanay (S), qmavil (M)",
+    "ZH_TW": "豐收",
+    "ENG": "harvest"
+  },
+  {
+    "id": "346-27",
+    "Basay": "qaisama, qisama",
+    "Basay.IPA": "qaisama, qisama",
+    "ZH_TW": "摘芥萊",
+    "ENG": "pick leaf of mustard"
+  },
+  {
+    "id": "346-28",
+    "Basay": "qaicaca (M)",
+    "Basay.IPA": "qaitsatsa (M)",
+    "ZH_TW": "彩虹",
+    "ENG": "rainbow"
+  },
+  {
+    "id": "346-29",
+    "Basay": "qalivu",
+    "Basay.IPA": "qalivu",
+    "ZH_TW": "衣服",
+    "ENG": "clothes"
+  },
+  {
+    "id": "346-30",
+    "Basay": "qalqalat (M)",
+    "Basay.IPA": "qalqalat (M)",
+    "ZH_TW": "妓女",
+    "ENG": "quean"
+  },
+  {
+    "id": "346-31",
+    "Basay": "qalruna (M)",
+    "Basay.IPA": "qaɭuna (M)",
+    "ZH_TW": "螞蟻",
+    "ENG": "ant"
+  },
+  {
+    "id": "347-1",
+    "Basay": "qapnailran (S)",
+    "Basay.IPA": "qapneɭan (S)",
+    "ZH_TW": "僵硬",
+    "ENG": "stiff"
+  },
+  {
+    "id": "347-2",
+    "Basay": "qanit",
+    "Basay.IPA": "qanit",
+    "ZH_TW": "綁",
+    "ENG": "tie"
+  },
+  {
+    "id": "347-3",
+    "Basay": "qapatay",
+    "Basay.IPA": "qapatay",
+    "ZH_TW": "死",
+    "ENG": "dead"
+  },
+  {
+    "id": "347-4",
+    "Basay": "qapsain (S)",
+    "Basay.IPA": "qapsen (S)",
+    "ZH_TW": "死",
+    "ENG": "dead"
+  },
+  {
+    "id": "347-5",
+    "Basay": "qaqa (S)",
+    "Basay.IPA": "qaqa (S)",
+    "ZH_TW": "兄，姊",
+    "ENG": "elder sibling"
+  },
+  {
+    "id": "347-6",
+    "Basay": "qaqoja (M)",
+    "Basay.IPA": "qaqoja (M)",
+    "ZH_TW": "難聞的，難吃的",
+    "ENG": "unsavory"
+  },
+  {
+    "id": "347-7",
+    "Basay": "qaquya",
+    "Basay.IPA": "qaquya",
+    "ZH_TW": "變壞",
+    "ENG": "get worse"
+  },
+  {
+    "id": "347-8",
+    "Basay": "qaqvating",
+    "Basay.IPA": "qaqvatiŋ",
+    "ZH_TW": "疼痛",
+    "ENG": "ache"
+  },
+  {
+    "id": "347-9",
+    "Basay": "qatalr (M)",
+    "Basay.IPA": "qataɭ (M)",
+    "ZH_TW": "懶散的，散漫的",
+    "ENG": "sloven"
+  },
+  {
+    "id": "347-10",
+    "Basay": "qati, qmati (S)",
+    "Basay.IPA": "qati, qmati (S)",
+    "ZH_TW": "去",
+    "ENG": "go"
+  },
+  {
+    "id": "347-11",
+    "Basay": "qatucan",
+    "Basay.IPA": "qatutsan",
+    "ZH_TW": "脫掉",
+    "ENG": "take off"
+  },
+  {
+    "id": "347-12",
+    "Basay": "qacau (M)",
+    "Basay.IPA": "qatsau (M)",
+    "ZH_TW": "凝視",
+    "ENG": "gaze in the distance"
+  },
+  {
+    "id": "347-13",
+    "Basay": "qaya (S)",
+    "Basay.IPA": "qaya (S)",
+    "ZH_TW": "也",
+    "ENG": "also"
+  },
+  {
+    "id": "347-14",
+    "Basay": "qayaitu, qaytu",
+    "Basay.IPA": "qayetu, qaytu",
+    "ZH_TW": "仍然，還在",
+    "ENG": "still"
+  },
+  {
+    "id": "347-15",
+    "Basay": "qaysing (S)",
+    "Basay.IPA": "qaysiŋ (S)",
+    "ZH_TW": "碗",
+    "ENG": "bowl"
+  },
+  {
+    "id": "347-16",
+    "Basay": "qazas",
+    "Basay.IPA": "qazas",
+    "ZH_TW": "為難",
+    "ENG": "baffle"
+  },
+  {
+    "id": "347-17",
+    "Basay": "qazauna (M)",
+    "Basay.IPA": "qazauna (M)",
+    "ZH_TW": "大魚",
+    "ENG": "big fish"
+  },
+  {
+    "id": "347-18",
+    "Basay": "qazauzau",
+    "Basay.IPA": "qazauzau",
+    "ZH_TW": "大的",
+    "ENG": "big"
+  },
+  {
+    "id": "347-19",
+    "Basay": "qazaw (S)",
+    "Basay.IPA": "qazaw (S)",
+    "ZH_TW": "挑",
+    "ENG": "carry on shoulder"
+  },
+  {
+    "id": "347-20",
+    "Basay": "qazouzouja (M)",
+    "Basay.IPA": "qazouzouja (M)",
+    "ZH_TW": "粗糙的",
+    "ENG": "coarse"
+  },
+  {
+    "id": "347-21",
+    "Basay": "qaimtel",
+    "Basay.IPA": "qemtəl",
+    "ZH_TW": "上吊",
+    "ENG": "hang oneself"
+  },
+  {
+    "id": "347-22",
+    "Basay": "qezqezan",
+    "Basay.IPA": "qəzqəzan",
+    "ZH_TW": "留住",
+    "ENG": "detain"
+  },
+  {
+    "id": "347-23",
+    "Basay": "qia (M)",
+    "Basay.IPA": "qia (M)",
+    "ZH_TW": "磚塊",
+    "ENG": "brick"
+  },
+  {
+    "id": "347-24",
+    "Basay": "hya (<Taiwanaisai)",
+    "Basay.IPA": "hya (<Taiwanese)",
+    "ZH_TW": "感嘆詞（？）",
+    "ENG": "?"
+  },
+  {
+    "id": "347-25",
+    "Basay": "qisaqulr",
+    "Basay.IPA": "qisaquɭ",
+    "ZH_TW": "摘茄冬果",
+    "ENG": "pick fruit of toog tree"
+  },
+  {
+    "id": "347-26",
+    "Basay": "qnaiipan (M)",
+    "Basay.IPA": "qnaiipan (M)",
+    "ZH_TW": "胎膜",
+    "ENG": "afterbirth"
+  },
+  {
+    "id": "347-27",
+    "Basay": "qnasuani",
+    "Basay.IPA": "qnasuani",
+    "ZH_TW": "親戚",
+    "ENG": "relative"
+  },
+  {
+    "id": "347-28",
+    "Basay": "qoai (M)",
+    "Basay.IPA": "qoe (M)",
+    "ZH_TW": "壞的",
+    "ENG": "bad"
+  },
+  {
+    "id": "347-29",
+    "Basay": "qojaiqojaqqa (M)",
+    "Basay.IPA": "qojeqojaqqa (M)",
+    "ZH_TW": "回聲",
+    "ENG": "echo"
+  },
+  {
+    "id": "347-30",
+    "Basay": "qolroqot (M)",
+    "Basay.IPA": "qoɭoqot (M)",
+    "ZH_TW": "蜥蜴，昆蟲",
+    "ENG": "lizard, insects"
+  },
+  {
+    "id": "347-31",
+    "Basay": "qolroqotu svanus (M)",
+    "Basay.IPA": "qoɭoqotu svanus (M)",
+    "ZH_TW": "毛毛蟲",
+    "ENG": "worm"
+  },
+  {
+    "id": "348-1",
+    "Basay": "qomunota (M)",
+    "Basay.IPA": "qomunota (M)",
+    "ZH_TW": "生氣的",
+    "ENG": "angry"
+  },
+  {
+    "id": "348-2",
+    "Basay": "qoroqong (M)",
+    "Basay.IPA": "qoroqoŋ (M)",
+    "ZH_TW": "喉嚨",
+    "ENG": "throat"
+  },
+  {
+    "id": "348-3",
+    "Basay": "qua (S)",
+    "Basay.IPA": "qua (S)",
+    "ZH_TW": "來",
+    "ENG": "come"
+  },
+  {
+    "id": "348-4",
+    "Basay": "qui",
+    "Basay.IPA": "qui",
+    "ZH_TW": "醜的",
+    "ENG": "ugly"
+  },
+  {
+    "id": "348-5",
+    "Basay": "qulrmaika",
+    "Basay.IPA": "quɭmeka",
+    "ZH_TW": "甕",
+    "ENG": "urn"
+  },
+  {
+    "id": "348-6",
+    "Basay": "qulrpa",
+    "Basay.IPA": "quɭpa",
+    "ZH_TW": "放置",
+    "ENG": "put"
+  },
+  {
+    "id": "348-7",
+    "Basay": "qumalru (M)",
+    "Basay.IPA": "qumaɭu (M)",
+    "ZH_TW": "往外舀水",
+    "ENG": "bail out"
+  },
+  {
+    "id": "348-8",
+    "Basay": "qumapiz (M), zupaitta",
+    "Basay.IPA": "qumapiz (M), zupetta",
+    "ZH_TW": "黏貼",
+    "ENG": "adhere"
+  },
+  {
+    "id": "348-9",
+    "Basay": "qumavit (M)",
+    "Basay.IPA": "qumavit (M)",
+    "ZH_TW": "飯",
+    "ENG": "rice"
+  },
+  {
+    "id": "348-10",
+    "Basay": "qumilim (M)",
+    "Basay.IPA": "qumilim (M)",
+    "ZH_TW": "尋找",
+    "ENG": "search"
+  },
+  {
+    "id": "348-11",
+    "Basay": "qumnipa",
+    "Basay.IPA": "qumnipa",
+    "ZH_TW": "從前",
+    "ENG": "ancient"
+  },
+  {
+    "id": "348-12",
+    "Basay": "qumnut",
+    "Basay.IPA": "qumnut",
+    "ZH_TW": "生氣，無法忍受",
+    "ENG": "angry, can't bear it"
+  },
+  {
+    "id": "348-13",
+    "Basay": "qumulu",
+    "Basay.IPA": "qumulu",
+    "ZH_TW": "撫養",
+    "ENG": "support"
+  },
+  {
+    "id": "348-14",
+    "Basay": "qumupit",
+    "Basay.IPA": "qumupit",
+    "ZH_TW": "黏住",
+    "ENG": "stick (to)"
+  },
+  {
+    "id": "348-15",
+    "Basay": "quni (S), qunia (S)",
+    "Basay.IPA": "quni (S), qunia (S)",
+    "ZH_TW": "如何",
+    "ENG": "how"
+  },
+  {
+    "id": "348-16",
+    "Basay": "qusua",
+    "Basay.IPA": "qusua",
+    "ZH_TW": "傘",
+    "ENG": "umbrella"
+  },
+  {
+    "id": "348-17",
+    "Basay": "quvanian",
+    "Basay.IPA": "quvanian",
+    "ZH_TW": "惡兆",
+    "ENG": "ill-omened"
+  },
+  {
+    "id": "348-18",
+    "Basay": "raaq(e) (M)",
+    "Basay.IPA": "raaq(ə) (M)",
+    "ZH_TW": "酒",
+    "ENG": "liquor"
+  },
+  {
+    "id": "348-19",
+    "Basay": "raimazok (M)",
+    "Basay.IPA": "remazok (M)",
+    "ZH_TW": "玩弄，戲弄",
+    "ENG": "fool"
+  },
+  {
+    "id": "348-20",
+    "Basay": "romulr (M)",
+    "Basay.IPA": "romuɭ (M)",
+    "ZH_TW": "揉、捏",
+    "ENG": "knead"
+  },
+  {
+    "id": "348-21",
+    "Basay": "rubos (M)",
+    "Basay.IPA": "rubos (M)",
+    "ZH_TW": "網袋",
+    "ENG": "netbag"
+  },
+  {
+    "id": "348-22",
+    "Basay": "rupurup (M)",
+    "Basay.IPA": "rupurup (M)",
+    "ZH_TW": "皺紋",
+    "ENG": "wrinkle"
+  },
+  {
+    "id": "348-23",
+    "Basay": "ruqappa (M)",
+    "Basay.IPA": "ruqappa (M)",
+    "ZH_TW": "雨衣",
+    "ENG": "rain coar (straw)"
+  },
+  {
+    "id": "348-24",
+    "Basay": "ruvu (M)",
+    "Basay.IPA": "ruvu (M)",
+    "ZH_TW": "洞",
+    "ENG": "hole"
+  },
+  {
+    "id": "348-25",
+    "Basay": "sa (S)",
+    "Basay.IPA": "sa (S)",
+    "ZH_TW": "到",
+    "ENG": "into"
+  },
+  {
+    "id": "348-26",
+    "Basay": "sabulan (S)",
+    "Basay.IPA": "sabulan (S)",
+    "ZH_TW": "月",
+    "ENG": "month"
+  },
+  {
+    "id": "348-27",
+    "Basay": "sailailai (M)",
+    "Basay.IPA": "sailailai (M)",
+    "ZH_TW": "歌",
+    "ENG": "song"
+  },
+  {
+    "id": "348-28",
+    "Basay": "saini",
+    "Basay.IPA": "saini",
+    "ZH_TW": "擔心",
+    "ENG": "worry"
+  },
+  {
+    "id": "348-29",
+    "Basay": "saipola",
+    "Basay.IPA": "saipola",
+    "ZH_TW": "關心",
+    "ENG": "care"
+  },
+  {
+    "id": "348-30",
+    "Basay": "sait (M)",
+    "Basay.IPA": "sait (M)",
+    "ZH_TW": "剪刀",
+    "ENG": "scissors"
+  },
+  {
+    "id": "348-31",
+    "Basay": "saknu (S)",
+    "Basay.IPA": "saknu (S)",
+    "ZH_TW": "時常",
+    "ENG": "often"
+  },
+  {
+    "id": "349-1",
+    "Basay": "sakunga, saqunga",
+    "Basay.IPA": "sakuŋa, saquŋa",
+    "ZH_TW": "說謊，騙",
+    "ENG": "lie, cheat"
+  },
+  {
+    "id": "349-2",
+    "Basay": "salas (S)",
+    "Basay.IPA": "salas (S)",
+    "ZH_TW": "除草",
+    "ENG": "weed"
+  },
+  {
+    "id": "349-3",
+    "Basay": "salralring (S)",
+    "Basay.IPA": "saɭaɭiŋ (S)",
+    "ZH_TW": "海濱",
+    "ENG": "seashore"
+  },
+  {
+    "id": "349-4",
+    "Basay": "salrang (M)",
+    "Basay.IPA": "saɭaŋ (M)",
+    "ZH_TW": "（樹）液，汁",
+    "ENG": "sap, soup, waterly"
+  },
+  {
+    "id": "349-5",
+    "Basay": "salrit",
+    "Basay.IPA": "saɭit",
+    "ZH_TW": "完成",
+    "ENG": "finish"
+  },
+  {
+    "id": "349-6",
+    "Basay": "salrulran, snalrulr",
+    "Basay.IPA": "saɭuɭan, snaɭuɭ",
+    "ZH_TW": "澆水",
+    "ENG": "pour water"
+  },
+  {
+    "id": "349-7",
+    "Basay": "sama (M)",
+    "Basay.IPA": "sama (M)",
+    "ZH_TW": "芥菜",
+    "ENG": "mustard plant"
+  },
+  {
+    "id": "349-8",
+    "Basay": "sanengangana",
+    "Basay.IPA": "sanəŋaŋana",
+    "ZH_TW": "馬上",
+    "ENG": "immediately"
+  },
+  {
+    "id": "349-9",
+    "Basay": "sangi (M)",
+    "Basay.IPA": "saŋi (M)",
+    "ZH_TW": "休息",
+    "ENG": "rest (to)"
+  },
+  {
+    "id": "349-10",
+    "Basay": "sangi, sinangi (S)",
+    "Basay.IPA": "saŋi, sinaŋi (S)",
+    "ZH_TW": "做",
+    "ENG": "do"
+  },
+  {
+    "id": "349-11",
+    "Basay": "sapal",
+    "Basay.IPA": "sapal",
+    "ZH_TW": "板子",
+    "ENG": "plank, board"
+  },
+  {
+    "id": "349-12",
+    "Basay": "sapan",
+    "Basay.IPA": "sapan",
+    "ZH_TW": "海濱",
+    "ENG": "seashore"
+  },
+  {
+    "id": "349-13",
+    "Basay": "sapana (S)",
+    "Basay.IPA": "sapana (S)",
+    "ZH_TW": "搬",
+    "ENG": "move"
+  },
+  {
+    "id": "349-14",
+    "Basay": "sapat",
+    "Basay.IPA": "sapat",
+    "ZH_TW": "全部",
+    "ENG": "all"
+  },
+  {
+    "id": "349-15",
+    "Basay": "sapit (M)",
+    "Basay.IPA": "sapit (M)",
+    "ZH_TW": "準備",
+    "ENG": "prepare"
+  },
+  {
+    "id": "349-16",
+    "Basay": "sapolr (M)",
+    "Basay.IPA": "sapoɭ (M)",
+    "ZH_TW": "幼苗",
+    "ENG": "seedling"
+  },
+  {
+    "id": "349-17",
+    "Basay": "saqalraqalavan",
+    "Basay.IPA": "saqaɭaqalavan",
+    "ZH_TW": "一整天",
+    "ENG": "day (whole)"
+  },
+  {
+    "id": "349-18",
+    "Basay": "saqonga (M)",
+    "Basay.IPA": "saqoŋa (M)",
+    "ZH_TW": "傳說",
+    "ENG": "tell tale"
+  },
+  {
+    "id": "349-19",
+    "Basay": "saqongqonga (M)",
+    "Basay.IPA": "saqoŋqoŋa (M)",
+    "ZH_TW": "說謊",
+    "ENG": "lie (to tell)"
+  },
+  {
+    "id": "349-20",
+    "Basay": "saqulr",
+    "Basay.IPA": "saquɭ",
+    "ZH_TW": "茄苳果",
+    "ENG": "fruit of toog tree"
+  },
+  {
+    "id": "349-21",
+    "Basay": "sasapal",
+    "Basay.IPA": "sasapal",
+    "ZH_TW": "做板子",
+    "ENG": "make a plank"
+  },
+  {
+    "id": "349-22",
+    "Basay": "sasen (S)",
+    "Basay.IPA": "sasən (S)",
+    "ZH_TW": "寒冷",
+    "ENG": "cold"
+  },
+  {
+    "id": "349-23",
+    "Basay": "sastaq (S)",
+    "Basay.IPA": "sastaq (S)",
+    "ZH_TW": "像",
+    "ENG": "resemble"
+  },
+  {
+    "id": "349-24",
+    "Basay": "sasuani (M)",
+    "Basay.IPA": "sasuani (M)",
+    "ZH_TW": "兄弟",
+    "ENG": "brother"
+  },
+  {
+    "id": "349-25",
+    "Basay": "sasuani (S)",
+    "Basay.IPA": "sasuani (S)",
+    "ZH_TW": "姊妹",
+    "ENG": "siblings"
+  },
+  {
+    "id": "349-26",
+    "Basay": "sasusuzo (M)",
+    "Basay.IPA": "sasusuzo (M)",
+    "ZH_TW": "欺騙，蒙蔽",
+    "ENG": "deceive"
+  },
+  {
+    "id": "349-27",
+    "Basay": "satataka (S)",
+    "Basay.IPA": "satataka (S)",
+    "ZH_TW": "一塊，一團",
+    "ENG": "ball of, piece of"
+  },
+  {
+    "id": "349-28",
+    "Basay": "savak (M)",
+    "Basay.IPA": "savak (M)",
+    "ZH_TW": "稻穀，未去殼的米",
+    "ENG": "rice grain, rice (unhulled)"
+  },
+  {
+    "id": "349-29",
+    "Basay": "savet (M)",
+    "Basay.IPA": "savət (M)",
+    "ZH_TW": "腰帶",
+    "ENG": "belt"
+  },
+  {
+    "id": "349-30",
+    "Basay": "savok (M)",
+    "Basay.IPA": "savok (M)",
+    "ZH_TW": "下腹",
+    "ENG": "lower abdomen"
+  },
+  {
+    "id": "349-31",
+    "Basay": "savsavlutan",
+    "Basay.IPA": "savsavlutan",
+    "ZH_TW": "按摩",
+    "ENG": "massage"
+  },
+  {
+    "id": "350-1",
+    "Basay": "savut",
+    "Basay.IPA": "savut",
+    "ZH_TW": "帶子",
+    "ENG": "strap"
+  },
+  {
+    "id": "350-2",
+    "Basay": "sazmaken",
+    "Basay.IPA": "sazmakən",
+    "ZH_TW": "相信，同意，真的",
+    "ENG": "believe, agree, really"
+  },
+  {
+    "id": "350-3",
+    "Basay": "sailrais (M)",
+    "Basay.IPA": "seɭes (M)",
+    "ZH_TW": "貴",
+    "ENG": "expensive"
+  },
+  {
+    "id": "350-4",
+    "Basay": "saimammangu, saimmanguna",
+    "Basay.IPA": "semammaŋu, semmaŋuna",
+    "ZH_TW": "經常",
+    "ENG": "often"
+  },
+  {
+    "id": "350-5",
+    "Basay": "saimengmeng, siamammang",
+    "Basay.IPA": "seməŋməŋ, siamammaŋ",
+    "ZH_TW": "只有",
+    "ENG": "only"
+  },
+  {
+    "id": "350-6",
+    "Basay": "saiparunu (M)",
+    "Basay.IPA": "separunu (M)",
+    "ZH_TW": "髒的",
+    "ENG": "dirty"
+  },
+  {
+    "id": "350-7",
+    "Basay": "saipo",
+    "Basay.IPA": "sepo",
+    "ZH_TW": "刀",
+    "ENG": "knife"
+  },
+  {
+    "id": "350-8",
+    "Basay": "saitai (?) (M)",
+    "Basay.IPA": "sete (?) (M)",
+    "ZH_TW": "油",
+    "ENG": "oil"
+  },
+  {
+    "id": "350-9",
+    "Basay": "sengzan, sengzi",
+    "Basay.IPA": "səŋzan, səŋzi",
+    "ZH_TW": "煮菜",
+    "ENG": "cook vegetables"
+  },
+  {
+    "id": "350-10",
+    "Basay": "si (S)",
+    "Basay.IPA": "si (S)",
+    "ZH_TW": "若",
+    "ENG": "if"
+  },
+  {
+    "id": "350-11",
+    "Basay": "sikuz",
+    "Basay.IPA": "sikuz",
+    "ZH_TW": "院子",
+    "ENG": "yard"
+  },
+  {
+    "id": "350-12",
+    "Basay": "silit",
+    "Basay.IPA": "silit",
+    "ZH_TW": "頭巾",
+    "ENG": "scarf"
+  },
+  {
+    "id": "350-13",
+    "Basay": "silrapan",
+    "Basay.IPA": "siɭapan",
+    "ZH_TW": "摸",
+    "ENG": "grope"
+  },
+  {
+    "id": "350-14",
+    "Basay": "silrit (M)",
+    "Basay.IPA": "siɭit (M)",
+    "ZH_TW": "毛線",
+    "ENG": "yarn"
+  },
+  {
+    "id": "350-15",
+    "Basay": "silruq",
+    "Basay.IPA": "siɭuq",
+    "ZH_TW": "用手吃",
+    "ENG": "eat by hand"
+  },
+  {
+    "id": "350-16",
+    "Basay": "simao petektek (M)",
+    "Basay.IPA": "simao pətəktək (M)",
+    "ZH_TW": "裝飾品",
+    "ENG": "ornamental"
+  },
+  {
+    "id": "350-17",
+    "Basay": "simau (M)",
+    "Basay.IPA": "simau (M)",
+    "ZH_TW": "花",
+    "ENG": "flower"
+  },
+  {
+    "id": "350-18",
+    "Basay": "simkapiz",
+    "Basay.IPA": "simkapiz",
+    "ZH_TW": "腿勾在一起",
+    "ENG": "cross legs together"
+  },
+  {
+    "id": "350-19",
+    "Basay": "simqelrus",
+    "Basay.IPA": "simqəɭus",
+    "ZH_TW": "互相喊叫",
+    "ENG": "yell to each other"
+  },
+  {
+    "id": "350-20",
+    "Basay": "simtuzu",
+    "Basay.IPA": "simtuzu",
+    "ZH_TW": "商量",
+    "ENG": "discuss, talk to each other"
+  },
+  {
+    "id": "350-21",
+    "Basay": "simzungut",
+    "Basay.IPA": "simzuŋut",
+    "ZH_TW": "種植",
+    "ENG": "plant (to)"
+  },
+  {
+    "id": "350-22",
+    "Basay": "sinawa (M)",
+    "Basay.IPA": "sinawa (M)",
+    "ZH_TW": "誘惑",
+    "ENG": "seduce, allure"
+  },
+  {
+    "id": "350-23",
+    "Basay": "sinunung",
+    "Basay.IPA": "sinunuŋ",
+    "ZH_TW": "快速前進",
+    "ENG": "advance quickly"
+  },
+  {
+    "id": "350-24",
+    "Basay": "singasas (M)",
+    "Basay.IPA": "siŋasas (M)",
+    "ZH_TW": "賺錢",
+    "ENG": "earn a lot of money"
+  },
+  {
+    "id": "350-25",
+    "Basay": "sipalu",
+    "Basay.IPA": "sipalu",
+    "ZH_TW": "做朋友",
+    "ENG": "make friends"
+  },
+  {
+    "id": "350-26",
+    "Basay": "sipalr",
+    "Basay.IPA": "sipaɭ",
+    "ZH_TW": "鋪席子",
+    "ENG": "lay a mat"
+  },
+  {
+    "id": "350-27",
+    "Basay": "siqaq (S)",
+    "Basay.IPA": "siqaq (S)",
+    "ZH_TW": "被子",
+    "ENG": "quilt"
+  },
+  {
+    "id": "350-28",
+    "Basay": "siri (M)",
+    "Basay.IPA": "siri (M)",
+    "ZH_TW": "胡椒粉，辣椒粉",
+    "ENG": "pepper"
+  },
+  {
+    "id": "350-29",
+    "Basay": "sising, tailroca (M)",
+    "Basay.IPA": "sisiŋ, teɭotsa (M)",
+    "ZH_TW": "占卜烏",
+    "ENG": "omen bird"
+  },
+  {
+    "id": "350-30",
+    "Basay": "sisiqaq (S)",
+    "Basay.IPA": "sisiqaq (S)",
+    "ZH_TW": "蓋被子",
+    "ENG": "cover with a quilt"
+  },
+  {
+    "id": "350-31",
+    "Basay": "siup",
+    "Basay.IPA": "siup",
+    "ZH_TW": "吹火（竹筒）",
+    "ENG": "blow a fire"
+  },
+  {
+    "id": "351-1",
+    "Basay": "siwal",
+    "Basay.IPA": "siwal",
+    "ZH_TW": "箭",
+    "ENG": "arrow"
+  },
+  {
+    "id": "351-2",
+    "Basay": "sjana (M)",
+    "Basay.IPA": "sjana (M)",
+    "ZH_TW": "遊玩",
+    "ENG": "play (to)"
+  },
+  {
+    "id": "351-3",
+    "Basay": "smalraw, sumalraw",
+    "Basay.IPA": "smaɭaw, sumaɭaw",
+    "ZH_TW": "狩獵",
+    "ENG": "hunt"
+  },
+  {
+    "id": "351-4",
+    "Basay": "smaqut",
+    "Basay.IPA": "smaqut",
+    "ZH_TW": "裝載",
+    "ENG": "carry"
+  },
+  {
+    "id": "351-5",
+    "Basay": "smarit",
+    "Basay.IPA": "smarit",
+    "ZH_TW": "組合",
+    "ENG": "assemble"
+  },
+  {
+    "id": "351-6",
+    "Basay": "smorna (M)",
+    "Basay.IPA": "smorna (M)",
+    "ZH_TW": "霜",
+    "ENG": "frost column"
+  },
+  {
+    "id": "351-7",
+    "Basay": "smulrailr",
+    "Basay.IPA": "smuɭeɭ",
+    "ZH_TW": "流出",
+    "ENG": "drain away"
+  },
+  {
+    "id": "351-8",
+    "Basay": "snavalis",
+    "Basay.IPA": "snavalis",
+    "ZH_TW": "琉璃珠",
+    "ENG": "agates (golden lank), lapis lazuli"
+  },
+  {
+    "id": "351-9",
+    "Basay": "soasoani (M)",
+    "Basay.IPA": "soasoani (M)",
+    "ZH_TW": "小兒子",
+    "ENG": "youngest son"
+  },
+  {
+    "id": "351-10",
+    "Basay": "solrakan u lraisaiq (M)",
+    "Basay.IPA": "soɭakan u ɭeseq (M)",
+    "ZH_TW": "灰麈，垃圾",
+    "ENG": "dirty soil, dust, trash"
+  },
+  {
+    "id": "351-11",
+    "Basay": "spalran",
+    "Basay.IPA": "spaɭan",
+    "ZH_TW": "鋪蓆子",
+    "ENG": "lay a mat"
+  },
+  {
+    "id": "351-12",
+    "Basay": "sqaisaq",
+    "Basay.IPA": "sqaisaq",
+    "ZH_TW": "擔架",
+    "ENG": "stretcher"
+  },
+  {
+    "id": "351-13",
+    "Basay": "suanan",
+    "Basay.IPA": "suanan",
+    "ZH_TW": "你（斜格）",
+    "ENG": "you (OBL)"
+  },
+  {
+    "id": "351-14",
+    "Basay": "suani (S)",
+    "Basay.IPA": "suani (S)",
+    "ZH_TW": "姊.妹",
+    "ENG": "sister"
+  },
+  {
+    "id": "351-15",
+    "Basay": "sukan (M)",
+    "Basay.IPA": "sukan (M)",
+    "ZH_TW": "席子",
+    "ENG": "mat"
+  },
+  {
+    "id": "351-16",
+    "Basay": "sukui (M)",
+    "Basay.IPA": "sukui (M)",
+    "ZH_TW": "章魚",
+    "ENG": "octopus"
+  },
+  {
+    "id": "351-17",
+    "Basay": "sulaan",
+    "Basay.IPA": "sulaan",
+    "ZH_TW": "命運",
+    "ENG": "fate"
+  },
+  {
+    "id": "351-18",
+    "Basay": "sulrasulrapan (M)",
+    "Basay.IPA": "suɭasuɭapan (M)",
+    "ZH_TW": "打擊，敲",
+    "ENG": "stroke (to), paint"
+  },
+  {
+    "id": "351-19",
+    "Basay": "sulrulr",
+    "Basay.IPA": "suɭuɭ",
+    "ZH_TW": "溺死",
+    "ENG": "drowned, death by drowning"
+  },
+  {
+    "id": "351-20",
+    "Basay": "sumait (M)",
+    "Basay.IPA": "sumait (M)",
+    "ZH_TW": "剪",
+    "ENG": "cut with scissors"
+  },
+  {
+    "id": "351-21",
+    "Basay": "suman",
+    "Basay.IPA": "suman",
+    "ZH_TW": "又",
+    "ENG": "again"
+  },
+  {
+    "id": "351-22",
+    "Basay": "sumang (S)",
+    "Basay.IPA": "sumaŋ (S)",
+    "ZH_TW": "插秧",
+    "ENG": "cultivate"
+  },
+  {
+    "id": "351-23",
+    "Basay": "sumangana (M)",
+    "Basay.IPA": "sumaŋana (M)",
+    "ZH_TW": "離婚",
+    "ENG": "divorce"
+  },
+  {
+    "id": "351-24",
+    "Basay": "sumangel (M)",
+    "Basay.IPA": "sumaŋəl (M)",
+    "ZH_TW": "煎，炸",
+    "ENG": "fry"
+  },
+  {
+    "id": "351-25",
+    "Basay": "sumangez",
+    "Basay.IPA": "sumaŋəz",
+    "ZH_TW": "加熱",
+    "ENG": "heat"
+  },
+  {
+    "id": "351-26",
+    "Basay": "sumapang",
+    "Basay.IPA": "sumapaŋ",
+    "ZH_TW": "任意",
+    "ENG": "feel free"
+  },
+  {
+    "id": "351-27",
+    "Basay": "sumavet (M)",
+    "Basay.IPA": "sumavət (M)",
+    "ZH_TW": "穿",
+    "ENG": "wear"
+  },
+  {
+    "id": "351-28",
+    "Basay": "sumay (M), umay (S)",
+    "Basay.IPA": "sumay (M), umay (S)",
+    "ZH_TW": "飯",
+    "ENG": "rice"
+  },
+  {
+    "id": "351-29",
+    "Basay": "sumairop (M)",
+    "Basay.IPA": "sumerop (M)",
+    "ZH_TW": "喝",
+    "ENG": "drink"
+  },
+  {
+    "id": "351-30",
+    "Basay": "sumilrap (M)",
+    "Basay.IPA": "sumiɭap (M)",
+    "ZH_TW": "接觸",
+    "ENG": "touch"
+  },
+  {
+    "id": "351-31",
+    "Basay": "sumingut (M)",
+    "Basay.IPA": "sumiŋut (M)",
+    "ZH_TW": "害喜",
+    "ENG": "morning sickness"
+  },
+  {
+    "id": "352-1",
+    "Basay": "sumingut (M), sunguti",
+    "Basay.IPA": "sumiŋut (M), suŋuti",
+    "ZH_TW": "嗅，聞",
+    "ENG": "smell (to)"
+  },
+  {
+    "id": "352-2",
+    "Basay": "sumisup (M)",
+    "Basay.IPA": "sumisup (M)",
+    "ZH_TW": "吸煙",
+    "ENG": "smoke tobacco"
+  },
+  {
+    "id": "352-3",
+    "Basay": "sumukilr (M)",
+    "Basay.IPA": "sumukiɭ (M)",
+    "ZH_TW": "回答",
+    "ENG": "answer"
+  },
+  {
+    "id": "352-4",
+    "Basay": "sumukul (M)",
+    "Basay.IPA": "sumukul (M)",
+    "ZH_TW": "用拳打",
+    "ENG": "hit with fist"
+  },
+  {
+    "id": "352-5",
+    "Basay": "sumulrin (M)",
+    "Basay.IPA": "sumuɭin (M)",
+    "ZH_TW": "哄小孩入睡",
+    "ENG": "lull to sleep"
+  },
+  {
+    "id": "352-6",
+    "Basay": "sumuman (M)",
+    "Basay.IPA": "sumuman (M)",
+    "ZH_TW": "再婚",
+    "ENG": "remarriage"
+  },
+  {
+    "id": "352-7",
+    "Basay": "sumunavau (M)",
+    "Basay.IPA": "sumunavau (M)",
+    "ZH_TW": "雇用，員工",
+    "ENG": "employ, employee"
+  },
+  {
+    "id": "352-8",
+    "Basay": "sunungazl (M)",
+    "Basay.IPA": "sunuŋaɮ (M)",
+    "ZH_TW": "吸氣",
+    "ENG": "breathe"
+  },
+  {
+    "id": "352-9",
+    "Basay": "sumungaz (M)",
+    "Basay.IPA": "sumuŋaz (M)",
+    "ZH_TW": "嘆氣",
+    "ENG": "sigh, deep breach"
+  },
+  {
+    "id": "352-10",
+    "Basay": "sumungel (M)",
+    "Basay.IPA": "sumuŋəl (M)",
+    "ZH_TW": "打鼾",
+    "ENG": "snore"
+  },
+  {
+    "id": "352-11",
+    "Basay": "sumusuzlup (M)",
+    "Basay.IPA": "sumusuɮup (M)",
+    "ZH_TW": "虐待",
+    "ENG": "cruel treatment"
+  },
+  {
+    "id": "352-12",
+    "Basay": "sumuvat (M)",
+    "Basay.IPA": "sumuvat (M)",
+    "ZH_TW": "跪",
+    "ENG": "genuflect (to), kneel"
+  },
+  {
+    "id": "352-13",
+    "Basay": "sunapun (M)",
+    "Basay.IPA": "sunapun (M)",
+    "ZH_TW": "月經",
+    "ENG": "menstruation"
+  },
+  {
+    "id": "352-14",
+    "Basay": "sunasumiai (M)",
+    "Basay.IPA": "sunasumiai (M)",
+    "ZH_TW": "玩偶",
+    "ENG": "doll"
+  },
+  {
+    "id": "352-15",
+    "Basay": "sunolrotang (M)",
+    "Basay.IPA": "sunoɭotaŋ (M)",
+    "ZH_TW": "穀粒",
+    "ENG": "grain"
+  },
+  {
+    "id": "352-16",
+    "Basay": "sunuvungan",
+    "Basay.IPA": "sunuvuŋan",
+    "ZH_TW": "矛",
+    "ENG": "spear"
+  },
+  {
+    "id": "352-17",
+    "Basay": "sungazan (M)",
+    "Basay.IPA": "suŋazan (M)",
+    "ZH_TW": "囪門",
+    "ENG": "fontanel"
+  },
+  {
+    "id": "352-18",
+    "Basay": "supa, supaan",
+    "Basay.IPA": "supa, supaan",
+    "ZH_TW": "貧窮",
+    "ENG": "poor"
+  },
+  {
+    "id": "352-19",
+    "Basay": "supel (M)",
+    "Basay.IPA": "supəl (M)",
+    "ZH_TW": "了解，記得",
+    "ENG": "remember, understand"
+  },
+  {
+    "id": "352-20",
+    "Basay": "suqata, suqatopana (M)",
+    "Basay.IPA": "suqata, suqatopana (M)",
+    "ZH_TW": "破裂，裂口",
+    "ENG": "crack, gap"
+  },
+  {
+    "id": "352-21",
+    "Basay": "suqunga",
+    "Basay.IPA": "suquŋa",
+    "ZH_TW": "騙子",
+    "ENG": "liar"
+  },
+  {
+    "id": "352-22",
+    "Basay": "susupa (S)",
+    "Basay.IPA": "susupa (S)",
+    "ZH_TW": "窮",
+    "ENG": "poor"
+  },
+  {
+    "id": "352-23",
+    "Basay": "suvali (M)",
+    "Basay.IPA": "suvali (M)",
+    "ZH_TW": "手鐲",
+    "ENG": "bracelet"
+  },
+  {
+    "id": "352-24",
+    "Basay": "suvaluyan",
+    "Basay.IPA": "suvaluyan",
+    "ZH_TW": "瑪瑙（金色，圓）",
+    "ENG": "agates (golden, round)"
+  },
+  {
+    "id": "352-25",
+    "Basay": "ta",
+    "Basay.IPA": "ta",
+    "ZH_TW": "主格",
+    "ENG": "nominative"
+  },
+  {
+    "id": "352-26",
+    "Basay": "taas (M)",
+    "Basay.IPA": "taas (M)",
+    "ZH_TW": "鹽",
+    "ENG": "salt"
+  },
+  {
+    "id": "352-27",
+    "Basay": "taav (M)",
+    "Basay.IPA": "taav (M)",
+    "ZH_TW": "蓋鍋子",
+    "ENG": "cover (to), put the lid on"
+  },
+  {
+    "id": "352-28",
+    "Basay": "taban, tavan (S)",
+    "Basay.IPA": "taban, tavan (S)",
+    "ZH_TW": "首級，獵人頭",
+    "ENG": "head-hunting"
+  },
+  {
+    "id": "352-29",
+    "Basay": "tai",
+    "Basay.IPA": "tai",
+    "ZH_TW": "糞便",
+    "ENG": "shit, feces"
+  },
+  {
+    "id": "352-30",
+    "Basay": "taka (S)",
+    "Basay.IPA": "taka (S)",
+    "ZH_TW": "不要",
+    "ENG": "not to want"
+  },
+  {
+    "id": "352-31",
+    "Basay": "takna",
+    "Basay.IPA": "takna",
+    "ZH_TW": "要，將會",
+    "ENG": "want, will"
+  },
+  {
+    "id": "353-1",
+    "Basay": "tak pay",
+    "Basay.IPA": "tak pay",
+    "ZH_TW": "我將要",
+    "ENG": "I will"
+  },
+  {
+    "id": "353-2",
+    "Basay": "taktak (M)",
+    "Basay.IPA": "taktak (M)",
+    "ZH_TW": "粗糠，榖殼",
+    "ENG": "chaff"
+  },
+  {
+    "id": "353-3",
+    "Basay": "talainattai (M)",
+    "Basay.IPA": "talainatte (M)",
+    "ZH_TW": "醫生",
+    "ENG": "doctor"
+  },
+  {
+    "id": "353-4",
+    "Basay": "talai (M)",
+    "Basay.IPA": "tale (M)",
+    "ZH_TW": "芋頭，馬鈐薯",
+    "ENG": "taro, potato"
+  },
+  {
+    "id": "353-5",
+    "Basay": "talem (M)",
+    "Basay.IPA": "taləm (M)",
+    "ZH_TW": "鹹，鹽水",
+    "ENG": "salty, salt water"
+  },
+  {
+    "id": "353-6",
+    "Basay": "talinunuan (M)",
+    "Basay.IPA": "talinunuan (M)",
+    "ZH_TW": "中央",
+    "ENG": "center"
+  },
+  {
+    "id": "353-7",
+    "Basay": "talo (M)",
+    "Basay.IPA": "talo (M)",
+    "ZH_TW": "躲藏",
+    "ENG": "hide"
+  },
+  {
+    "id": "353-8",
+    "Basay": "talraan (M)",
+    "Basay.IPA": "taɭaan (M)",
+    "ZH_TW": "用手接",
+    "ENG": "receive"
+  },
+  {
+    "id": "353-9",
+    "Basay": "talraisai (M)",
+    "Basay.IPA": "taɭese (M)",
+    "ZH_TW": "魚籠",
+    "ENG": "fish basket"
+  },
+  {
+    "id": "353-10",
+    "Basay": "tazloi mau (M)",
+    "Basay.IPA": "taɮoi mau (M)",
+    "ZH_TW": "貯存",
+    "ENG": "store (to)"
+  },
+  {
+    "id": "353-11",
+    "Basay": "tama",
+    "Basay.IPA": "tama",
+    "ZH_TW": "父親，叔父",
+    "ENG": "father (reference), uncle"
+  },
+  {
+    "id": "353-12",
+    "Basay": "tamaan",
+    "Basay.IPA": "tamaan",
+    "ZH_TW": "痊癒",
+    "ENG": "recover completely"
+  },
+  {
+    "id": "353-13",
+    "Basay": "tamipapicaan",
+    "Basay.IPA": "tamipapitsaan",
+    "ZH_TW": "帶槍",
+    "ENG": "take a gun"
+  },
+  {
+    "id": "353-14",
+    "Basay": "tam pay",
+    "Basay.IPA": "tam pay",
+    "ZH_TW": "我們將",
+    "ENG": "we will"
+  },
+  {
+    "id": "353-15",
+    "Basay": "tamun",
+    "Basay.IPA": "tamun",
+    "ZH_TW": "配菜",
+    "ENG": "side dish"
+  },
+  {
+    "id": "353-16",
+    "Basay": "tamus (M)",
+    "Basay.IPA": "tamus (M)",
+    "ZH_TW": "手指頭",
+    "ENG": "finger"
+  },
+  {
+    "id": "353-17",
+    "Basay": "tanem, tanman, tatanem",
+    "Basay.IPA": "tanəm, tanman, tatanəm",
+    "ZH_TW": "埋，墓",
+    "ENG": "bury, cemetery, tomb"
+  },
+  {
+    "id": "353-18",
+    "Basay": "tanga (S)",
+    "Basay.IPA": "taŋa (S)",
+    "ZH_TW": "屍體",
+    "ENG": "corpse"
+  },
+  {
+    "id": "353-19",
+    "Basay": "tanga, tngai",
+    "Basay.IPA": "taŋa, tŋai",
+    "ZH_TW": "挖開",
+    "ENG": "dig up"
+  },
+  {
+    "id": "353-20",
+    "Basay": "tangtanga",
+    "Basay.IPA": "taŋtaŋa",
+    "ZH_TW": "笑，開玩笑",
+    "ENG": "laughing, joke (to)"
+  },
+  {
+    "id": "353-21",
+    "Basay": "tapel",
+    "Basay.IPA": "tapəl",
+    "ZH_TW": "土，沙",
+    "ENG": "earth, soil, gravel"
+  },
+  {
+    "id": "353-22",
+    "Basay": "tapes (M)",
+    "Basay.IPA": "tapəs (M)",
+    "ZH_TW": "吐唾液，唾液",
+    "ENG": "spit (to), spit"
+  },
+  {
+    "id": "353-23",
+    "Basay": "taqan",
+    "Basay.IPA": "taqan",
+    "ZH_TW": "枝，所以",
+    "ENG": "branch, therefore"
+  },
+  {
+    "id": "353-24",
+    "Basay": "taqel",
+    "Basay.IPA": "taqəl",
+    "ZH_TW": "山，頂",
+    "ENG": "mouniain, top"
+  },
+  {
+    "id": "353-25",
+    "Basay": "taqel (M)",
+    "Basay.IPA": "taqəl (M)",
+    "ZH_TW": "絲",
+    "ENG": "yarn"
+  },
+  {
+    "id": "353-26",
+    "Basay": "tarakok (S)",
+    "Basay.IPA": "tarakok (S)",
+    "ZH_TW": "雞",
+    "ENG": "chicken"
+  },
+  {
+    "id": "353-27",
+    "Basay": "tata, tatatan",
+    "Basay.IPA": "tata, tatatan",
+    "ZH_TW": "丟下，掉",
+    "ENG": "drop, fall"
+  },
+  {
+    "id": "353-28",
+    "Basay": "tatakka",
+    "Basay.IPA": "tatakka",
+    "ZH_TW": "鋤頭",
+    "ENG": "hoe"
+  },
+  {
+    "id": "353-29",
+    "Basay": "tatvan, tavan (M)",
+    "Basay.IPA": "tatvan, tavan (M)",
+    "ZH_TW": "昨日",
+    "ENG": "yesterday"
+  },
+  {
+    "id": "353-30",
+    "Basay": "taval, tavalrtavalr",
+    "Basay.IPA": "taval, tavaɭtavaɭ",
+    "ZH_TW": "早上",
+    "ENG": "morning"
+  },
+  {
+    "id": "353-31",
+    "Basay": "tavli",
+    "Basay.IPA": "tavli",
+    "ZH_TW": "扔掉",
+    "ENG": "throw"
+  },
+  {
+    "id": "354-1",
+    "Basay": "tawiz (M)",
+    "Basay.IPA": "tawiz (M)",
+    "ZH_TW": "鈕扣",
+    "ENG": "button"
+  },
+  {
+    "id": "354-2",
+    "Basay": "tavotavo",
+    "Basay.IPA": "tavotavo",
+    "ZH_TW": "劈開",
+    "ENG": "chop, cut"
+  },
+  {
+    "id": "354-3",
+    "Basay": "tawan",
+    "Basay.IPA": "tawan",
+    "ZH_TW": "請客，招待",
+    "ENG": "entertain"
+  },
+  {
+    "id": "354-4",
+    "Basay": "tayta (S)",
+    "Basay.IPA": "tayta (S)",
+    "ZH_TW": "看見",
+    "ENG": "look"
+  },
+  {
+    "id": "354-5",
+    "Basay": "tazian (S), zaay, zala",
+    "Basay.IPA": "tazian (S), zaay, zala",
+    "ZH_TW": "這裏",
+    "ENG": "here"
+  },
+  {
+    "id": "354-6",
+    "Basay": "tazusa tao (M)",
+    "Basay.IPA": "tazusa tao (M)",
+    "ZH_TW": "靈魂",
+    "ENG": "soul"
+  },
+  {
+    "id": "354-7",
+    "Basay": "taiain (M)",
+    "Basay.IPA": "teen (M)",
+    "ZH_TW": "相反的，背面",
+    "ENG": "reverse, back"
+  },
+  {
+    "id": "354-8",
+    "Basay": "tailrolru vautu (M)",
+    "Basay.IPA": "teɭoɭu vautu (M)",
+    "ZH_TW": "魚卵",
+    "ENG": "eggs of fish"
+  },
+  {
+    "id": "354-9",
+    "Basay": "taitain, tumaitain",
+    "Basay.IPA": "teten， tumeten",
+    "ZH_TW": "揹，扛",
+    "ENG": "carry on back"
+  },
+  {
+    "id": "354-10",
+    "Basay": "taitainan < taitain (M)",
+    "Basay.IPA": "tetenan < teten (M)",
+    "ZH_TW": "轎子",
+    "ENG": "palankeen, sedan"
+  },
+  {
+    "id": "354-11",
+    "Basay": "tenas (M)",
+    "Basay.IPA": "tənas (M)",
+    "ZH_TW": "蜥蜴，昆蟲",
+    "ENG": "lizard, insects"
+  },
+  {
+    "id": "354-12",
+    "Basay": "tian",
+    "Basay.IPA": "tian",
+    "ZH_TW": "腹部",
+    "ENG": "belly"
+  },
+  {
+    "id": "354-13",
+    "Basay": "tianan",
+    "Basay.IPA": "tianan",
+    "ZH_TW": "咱們（斜格）",
+    "ENG": "us (inclusive)"
+  },
+  {
+    "id": "354-14",
+    "Basay": "tiik (M) (< Taiwanaisai)",
+    "Basay.IPA": "tiik (M) (< Taiwanese)",
+    "ZH_TW": "點火",
+    "ENG": "candle, set fire"
+  },
+  {
+    "id": "354-15",
+    "Basay": "tikas, tumikas (M)",
+    "Basay.IPA": "tikas, tumikas (M)",
+    "ZH_TW": "捕捉",
+    "ENG": "entrap"
+  },
+  {
+    "id": "354-16",
+    "Basay": "timalmal (S)",
+    "Basay.IPA": "timalmal (S)",
+    "ZH_TW": "尋找",
+    "ENG": "search"
+  },
+  {
+    "id": "354-17",
+    "Basay": "timayku",
+    "Basay.IPA": "timayku",
+    "ZH_TW": "我（斜格）",
+    "ENG": "I (OBL)"
+  },
+  {
+    "id": "354-18",
+    "Basay": "timaysu",
+    "Basay.IPA": "timaysu",
+    "ZH_TW": "你（斜格）",
+    "ENG": "you (OBL)"
+  },
+  {
+    "id": "354-19",
+    "Basay": "timlra (M)",
+    "Basay.IPA": "timɭa (M)",
+    "ZH_TW": "跳蚤",
+    "ENG": "flea"
+  },
+  {
+    "id": "354-20",
+    "Basay": "timu",
+    "Basay.IPA": "timu",
+    "ZH_TW": "你們",
+    "ENG": "you (PL)"
+  },
+  {
+    "id": "354-21",
+    "Basay": "tina",
+    "Basay.IPA": "tina",
+    "ZH_TW": "母親",
+    "ENG": "mother (reference)"
+  },
+  {
+    "id": "354-22",
+    "Basay": "tines (M)",
+    "Basay.IPA": "tinəs (M)",
+    "ZH_TW": "脊椎神經",
+    "ENG": "spinal cord"
+  },
+  {
+    "id": "354-23",
+    "Basay": "tiqul",
+    "Basay.IPA": "tiqul",
+    "ZH_TW": "手杖",
+    "ENG": "stick (S)"
+  },
+  {
+    "id": "354-24",
+    "Basay": "tisin",
+    "Basay.IPA": "tisin",
+    "ZH_TW": "一半",
+    "ENG": "half"
+  },
+  {
+    "id": "354-25",
+    "Basay": "tisin (M)",
+    "Basay.IPA": "tisin (M)",
+    "ZH_TW": "對岸",
+    "ENG": "across the river"
+  },
+  {
+    "id": "354-26",
+    "Basay": "tivai (M)",
+    "Basay.IPA": "tivai (M)",
+    "ZH_TW": "腰布",
+    "ENG": "loincloth"
+  },
+  {
+    "id": "354-27",
+    "Basay": "tlail",
+    "Basay.IPA": "tlail",
+    "ZH_TW": "跳舞",
+    "ENG": "dance"
+  },
+  {
+    "id": "354-28",
+    "Basay": "tzlai, trai (S), trayazay",
+    "Basay.IPA": "tɮai, trai (S), trayazay",
+    "ZH_TW": "遠古，從前",
+    "ENG": "ancient"
+  },
+  {
+    "id": "354-29",
+    "Basay": "tmalik",
+    "Basay.IPA": "tmalik",
+    "ZH_TW": "做麻糬",
+    "ENG": "make rice cake"
+  },
+  {
+    "id": "354-30",
+    "Basay": "tmaqa, tmeq, tmeqa",
+    "Basay.IPA": "tmaqa, tməq, tməqa",
+    "ZH_TW": "烤",
+    "ENG": "roast"
+  },
+  {
+    "id": "354-31",
+    "Basay": "tmaqsam (M)",
+    "Basay.IPA": "tmaqsam (M)",
+    "ZH_TW": "種子",
+    "ENG": "seed"
+  },
+  {
+    "id": "355-1",
+    "Basay": "tmaveli",
+    "Basay.IPA": "tmavəli",
+    "ZH_TW": "扔掉",
+    "ENG": "throw"
+  },
+  {
+    "id": "355-2",
+    "Basay": "tmawal (M)",
+    "Basay.IPA": "tmawal (M)",
+    "ZH_TW": "暴風雨",
+    "ENG": "storm"
+  },
+  {
+    "id": "355-3",
+    "Basay": "tmezl, cikka (M)",
+    "Basay.IPA": "tməɮ, tsikka (M)",
+    "ZH_TW": "刺",
+    "ENG": "stab, stick"
+  },
+  {
+    "id": "355-4",
+    "Basay": "tmuzun",
+    "Basay.IPA": "tmuzun",
+    "ZH_TW": "煮糯米飯",
+    "ENG": "cook glutinous rice"
+  },
+  {
+    "id": "355-5",
+    "Basay": "tnajan (M), tnayan",
+    "Basay.IPA": "tnajan (M), tnayan",
+    "ZH_TW": "竹子",
+    "ENG": "bamboo"
+  },
+  {
+    "id": "355-6",
+    "Basay": "tolan (M)",
+    "Basay.IPA": "tolan (M)",
+    "ZH_TW": "骨頭",
+    "ENG": "bone"
+  },
+  {
+    "id": "355-7",
+    "Basay": "tolrus (M)",
+    "Basay.IPA": "toɭus (M)",
+    "ZH_TW": "喧鬧聲，吵鬧",
+    "ENG": "noise"
+  },
+  {
+    "id": "355-8",
+    "Basay": "tosaipola",
+    "Basay.IPA": "tosaipola",
+    "ZH_TW": "無助的",
+    "ENG": "helpless"
+  },
+  {
+    "id": "355-9",
+    "Basay": "tozo (M)",
+    "Basay.IPA": "tozo (M)",
+    "ZH_TW": "漏水",
+    "ENG": "leak (to)"
+  },
+  {
+    "id": "355-10",
+    "Basay": "tpurukka (M)",
+    "Basay.IPA": "tpurukka (M)",
+    "ZH_TW": "紙",
+    "ENG": "paper"
+  },
+  {
+    "id": "355-11",
+    "Basay": "traina (M)",
+    "Basay.IPA": "trena (M)",
+    "ZH_TW": "肉",
+    "ENG": "meat"
+  },
+  {
+    "id": "355-12",
+    "Basay": "traisai (M)",
+    "Basay.IPA": "trese (M)",
+    "ZH_TW": "竹籃",
+    "ENG": "bamboo basket"
+  },
+  {
+    "id": "355-13",
+    "Basay": "tuava (M)",
+    "Basay.IPA": "tuava (M)",
+    "ZH_TW": "咳嗽",
+    "ENG": "cough"
+  },
+  {
+    "id": "355-14",
+    "Basay": "tukin (< Taiwanaisai) (M)",
+    "Basay.IPA": "tukin (< Taiwanese) (M)",
+    "ZH_TW": "蚯蚓",
+    "ENG": "earth worm"
+  },
+  {
+    "id": "355-15",
+    "Basay": "tukuaz (M)",
+    "Basay.IPA": "tukuaz (M)",
+    "ZH_TW": "肩膀",
+    "ENG": "shoulder"
+  },
+  {
+    "id": "355-16",
+    "Basay": "tulan",
+    "Basay.IPA": "tulan",
+    "ZH_TW": "骨頭",
+    "ENG": "bone"
+  },
+  {
+    "id": "355-17",
+    "Basay": "tulrian",
+    "Basay.IPA": "tuɭian",
+    "ZH_TW": "鼻笛",
+    "ENG": "nose flute"
+  },
+  {
+    "id": "355-18",
+    "Basay": "tulrnian. tumulrani",
+    "Basay.IPA": "tuɭnian. tumuɭani",
+    "ZH_TW": "吹鼻笛",
+    "ENG": "play nose flute"
+  },
+  {
+    "id": "355-19",
+    "Basay": "tulrpi",
+    "Basay.IPA": "tuɭpi",
+    "ZH_TW": "接近",
+    "ENG": "get close"
+  },
+  {
+    "id": "355-20",
+    "Basay": "tumalam (M)",
+    "Basay.IPA": "tumalam (M)",
+    "ZH_TW": "嚐",
+    "ENG": "taste (to)"
+  },
+  {
+    "id": "355-21",
+    "Basay": "tuman (M)",
+    "Basay.IPA": "tuman (M)",
+    "ZH_TW": "社名",
+    "ENG": "name of a village"
+  },
+  {
+    "id": "355-22",
+    "Basay": "tumanan",
+    "Basay.IPA": "tumanan",
+    "ZH_TW": "留下",
+    "ENG": "leave behind"
+  },
+  {
+    "id": "355-23",
+    "Basay": "tumangic",
+    "Basay.IPA": "tumaŋits",
+    "ZH_TW": "哭",
+    "ENG": "cry"
+  },
+  {
+    "id": "355-24",
+    "Basay": "tumasa",
+    "Basay.IPA": "tumasa",
+    "ZH_TW": "同情",
+    "ENG": "sympathize"
+  },
+  {
+    "id": "355-25",
+    "Basay": "tumavu",
+    "Basay.IPA": "tumavu",
+    "ZH_TW": "砍樹，包",
+    "ENG": "cut trees, wrap"
+  },
+  {
+    "id": "355-26",
+    "Basay": "tumavuli",
+    "Basay.IPA": "tumavuli",
+    "ZH_TW": "用船運",
+    "ENG": "to ship cargo"
+  },
+  {
+    "id": "355-27",
+    "Basay": "tumikzon (M)",
+    "Basay.IPA": "tumikzon (M)",
+    "ZH_TW": "踢",
+    "ENG": "kick"
+  },
+  {
+    "id": "355-28",
+    "Basay": "tumica",
+    "Basay.IPA": "tumitsa",
+    "ZH_TW": "出血",
+    "ENG": "bleed"
+  },
+  {
+    "id": "355-29",
+    "Basay": "tumunaw",
+    "Basay.IPA": "tumunaw",
+    "ZH_TW": "大廳",
+    "ENG": "hall"
+  },
+  {
+    "id": "355-30",
+    "Basay": "tumunu (M)",
+    "Basay.IPA": "tumunu (M)",
+    "ZH_TW": "親吻",
+    "ENG": "kiss"
+  },
+  {
+    "id": "355-31",
+    "Basay": "tumutolro (M)",
+    "Basay.IPA": "tumutoɭo (M)",
+    "ZH_TW": "倒",
+    "ENG": "pour"
+  },
+  {
+    "id": "356-1",
+    "Basay": "tumutus",
+    "Basay.IPA": "tumutus",
+    "ZH_TW": "採，摘",
+    "ENG": "pluck"
+  },
+  {
+    "id": "356-2",
+    "Basay": "tumuvan (M)",
+    "Basay.IPA": "tumuvan (M)",
+    "ZH_TW": "祭拜",
+    "ENG": "worship"
+  },
+  {
+    "id": "356-3",
+    "Basay": "tumuzu",
+    "Basay.IPA": "tumuzu",
+    "ZH_TW": "問",
+    "ENG": "ask"
+  },
+  {
+    "id": "356-4",
+    "Basay": "tumuzlus, tumuzus",
+    "Basay.IPA": "tumuɮus, tumuzus",
+    "ZH_TW": "到達",
+    "ENG": "arrive, reach"
+  },
+  {
+    "id": "356-5",
+    "Basay": "tunuzun",
+    "Basay.IPA": "tunuzun",
+    "ZH_TW": "糯米飯",
+    "ENG": "glutinous rice"
+  },
+  {
+    "id": "356-6",
+    "Basay": "tunguran (M)",
+    "Basay.IPA": "tuŋuran (M)",
+    "ZH_TW": "棺",
+    "ENG": "coffin                  ."
+  },
+  {
+    "id": "356-7",
+    "Basay": "tupiq",
+    "Basay.IPA": "tupiq",
+    "ZH_TW": "掉",
+    "ENG": "fall, drop                 ."
+  },
+  {
+    "id": "356-8",
+    "Basay": "tupuqan",
+    "Basay.IPA": "tupuqan",
+    "ZH_TW": "砍",
+    "ENG": "chop"
+  },
+  {
+    "id": "356-9",
+    "Basay": "tuqinilan",
+    "Basay.IPA": "tuqinilan",
+    "ZH_TW": "扭轉",
+    "ENG": "turn around"
+  },
+  {
+    "id": "356-10",
+    "Basay": "tuquqa",
+    "Basay.IPA": "tuquqa",
+    "ZH_TW": "雞",
+    "ENG": "chicken"
+  },
+  {
+    "id": "356-11",
+    "Basay": "tutu",
+    "Basay.IPA": "tutu",
+    "ZH_TW": "倒",
+    "ENG": "pour"
+  },
+  {
+    "id": "356-12",
+    "Basay": "tutus (M)",
+    "Basay.IPA": "tutus (M)",
+    "ZH_TW": "禿頭的",
+    "ENG": "bald"
+  },
+  {
+    "id": "356-13",
+    "Basay": "tututuan",
+    "Basay.IPA": "tututuan",
+    "ZH_TW": "勉強",
+    "ENG": "force, compel"
+  },
+  {
+    "id": "356-14",
+    "Basay": "tuvanan u sumiai (M)",
+    "Basay.IPA": "tuvanan u sumiai (M)",
+    "ZH_TW": "陵墓",
+    "ENG": "mausoleum"
+  },
+  {
+    "id": "356-15",
+    "Basay": "tuvanania",
+    "Basay.IPA": "tuvanania",
+    "ZH_TW": "持續到隔日",
+    "ENG": "last until the next day"
+  },
+  {
+    "id": "356-16",
+    "Basay": "tuvania",
+    "Basay.IPA": "tuvania",
+    "ZH_TW": "次日",
+    "ENG": "next day"
+  },
+  {
+    "id": "356-17",
+    "Basay": "tuvanumtaval (M)",
+    "Basay.IPA": "tuvanumtaval (M)",
+    "ZH_TW": "明天早上",
+    "ENG": "next morning"
+  },
+  {
+    "id": "356-18",
+    "Basay": "tuvu (M)",
+    "Basay.IPA": "tuvu (M)",
+    "ZH_TW": "針",
+    "ENG": "needle"
+  },
+  {
+    "id": "356-19",
+    "Basay": "tuvu, tuvutuvu",
+    "Basay.IPA": "tuvu, tuvutuvu",
+    "ZH_TW": "縫",
+    "ENG": "sew"
+  },
+  {
+    "id": "356-20",
+    "Basay": "tuzuan, tuzuk",
+    "Basay.IPA": "tuzuan, tuzuk",
+    "ZH_TW": "吿訴，說",
+    "ENG": "say, tell"
+  },
+  {
+    "id": "356-21",
+    "Basay": "tvaku (M)",
+    "Basay.IPA": "tvaku (M)",
+    "ZH_TW": "菸草",
+    "ENG": "tobacco"
+  },
+  {
+    "id": "356-22",
+    "Basay": "tvan (M)",
+    "Basay.IPA": "tvan (M)",
+    "ZH_TW": "明日",
+    "ENG": "tomorrow"
+  },
+  {
+    "id": "356-23",
+    "Basay": "ca, utca, uca",
+    "Basay.IPA": "tsa, uttsa, utsa",
+    "ZH_TW": "一 (人，動物，月)",
+    "ENG": "one (person, animal, month)"
+  },
+  {
+    "id": "356-24",
+    "Basay": "ca u zlian (M)",
+    "Basay.IPA": "tsa u ɮian (M)",
+    "ZH_TW": "後天",
+    "ENG": "day after tomorrow"
+  },
+  {
+    "id": "356-25",
+    "Basay": "caai (M), cay",
+    "Basay.IPA": "tsaai (M), tsay",
+    "ZH_TW": "誰",
+    "ENG": "who"
+  },
+  {
+    "id": "356-26",
+    "Basay": "cakay",
+    "Basay.IPA": "tsakay",
+    "ZH_TW": "回去",
+    "ENG": "return"
+  },
+  {
+    "id": "356-27",
+    "Basay": "caki (M)",
+    "Basay.IPA": "tsaki (M)",
+    "ZH_TW": "生鏽",
+    "ENG": "rust (to)"
+  },
+  {
+    "id": "356-28",
+    "Basay": "cakulan (M)",
+    "Basay.IPA": "tsakulan (M)",
+    "ZH_TW": "肛門",
+    "ENG": "anus"
+  },
+  {
+    "id": "356-29",
+    "Basay": "canul",
+    "Basay.IPA": "tsanul",
+    "ZH_TW": "河口",
+    "ENG": "mouth of river"
+  },
+  {
+    "id": "356-30",
+    "Basay": "capa",
+    "Basay.IPA": "tsapa",
+    "ZH_TW": "抱",
+    "ENG": "hold in one's arms"
+  },
+  {
+    "id": "356-31",
+    "Basay": "capezl, capecapezl, capriatawan",
+    "Basay.IPA": "tsapəɮ, tsapətsapəɮ, tsapriatawan",
+    "ZH_TW": "靠近",
+    "ENG": "approach"
+  },
+  {
+    "id": "357-1",
+    "Basay": "caprisi",
+    "Basay.IPA": "tsaprisi",
+    "ZH_TW": "旁邊",
+    "ENG": "next"
+  },
+  {
+    "id": "357-2",
+    "Basay": "caqongqonga (M)",
+    "Basay.IPA": "tsaqoŋqoŋa (M)",
+    "ZH_TW": "說謊的人",
+    "ENG": "smelly, liar"
+  },
+  {
+    "id": "357-3",
+    "Basay": "caquv(M)",
+    "Basay.IPA": "tsaquv(M)",
+    "ZH_TW": "屋頂",
+    "ENG": "roof"
+  },
+  {
+    "id": "357-4",
+    "Basay": "cacan (M)",
+    "Basay.IPA": "tsatsan (M)",
+    "ZH_TW": "道路",
+    "ENG": "road"
+  },
+  {
+    "id": "357-5",
+    "Basay": "cacaq(e) (M)",
+    "Basay.IPA": "tsatsaq(ə) (M)",
+    "ZH_TW": "紅狗（應指黃紅紅狗）",
+    "ENG": "red dog"
+  },
+  {
+    "id": "357-6",
+    "Basay": "cacaw (S)",
+    "Basay.IPA": "tsatsaw (S)",
+    "ZH_TW": "害怕",
+    "ENG": "fear"
+  },
+  {
+    "id": "357-7",
+    "Basay": "cacawai",
+    "Basay.IPA": "tsatsawe",
+    "ZH_TW": "伸手勾",
+    "ENG": "reach out"
+  },
+  {
+    "id": "357-8",
+    "Basay": "cacin",
+    "Basay.IPA": "tsatsin",
+    "ZH_TW": "海，波浪",
+    "ENG": "sea, ocean, wave"
+  },
+  {
+    "id": "357-9",
+    "Basay": "cacuk",
+    "Basay.IPA": "tsatsuk",
+    "ZH_TW": "不久",
+    "ENG": "soon"
+  },
+  {
+    "id": "357-10",
+    "Basay": "cacujan (M)",
+    "Basay.IPA": "tsatsujan (M)",
+    "ZH_TW": "平衡",
+    "ENG": "balance"
+  },
+  {
+    "id": "357-11",
+    "Basay": "cauki (< Taiwanaisai) (M)",
+    "Basay.IPA": "tsauki (< Taiwanese) (M)",
+    "ZH_TW": "鐮刀",
+    "ENG": "sickle"
+  },
+  {
+    "id": "357-12",
+    "Basay": "cainal (M)",
+    "Basay.IPA": "tsenal (M)",
+    "ZH_TW": "太陽",
+    "ENG": "sun"
+  },
+  {
+    "id": "357-13",
+    "Basay": "cekcek, cumakcak",
+    "Basay.IPA": "tsəktsək, tsumaktsak",
+    "ZH_TW": "劈開",
+    "ENG": "chop"
+  },
+  {
+    "id": "357-14",
+    "Basay": "cian",
+    "Basay.IPA": "tsian",
+    "ZH_TW": "天",
+    "ENG": "day"
+  },
+  {
+    "id": "357-15",
+    "Basay": "cilicilian",
+    "Basay.IPA": "tsilitsilian",
+    "ZH_TW": "撕開",
+    "ENG": "tear (to)"
+  },
+  {
+    "id": "357-16",
+    "Basay": "cima",
+    "Basay.IPA": "tsima",
+    "ZH_TW": "手",
+    "ENG": "hand"
+  },
+  {
+    "id": "357-17",
+    "Basay": "cinpalaa (S)",
+    "Basay.IPA": "tsinpalaa (S)",
+    "ZH_TW": "非常",
+    "ENG": "very"
+  },
+  {
+    "id": "357-18",
+    "Basay": "cipang > marqacipang (M)",
+    "Basay.IPA": "tsipaŋ > marqatsipaŋ (M)",
+    "ZH_TW": "忘記",
+    "ENG": "forget"
+  },
+  {
+    "id": "357-19",
+    "Basay": "cicap (M)",
+    "Basay.IPA": "tsitsap (M)",
+    "ZH_TW": "雷電",
+    "ENG": "thunderbolt"
+  },
+  {
+    "id": "357-20",
+    "Basay": "cicen (M)",
+    "Basay.IPA": "tsitsən (M)",
+    "ZH_TW": "線",
+    "ENG": "thread"
+  },
+  {
+    "id": "357-21",
+    "Basay": "cicu (M)",
+    "Basay.IPA": "tsitsu (M)",
+    "ZH_TW": "乳房",
+    "ENG": "breast"
+  },
+  {
+    "id": "357-22",
+    "Basay": "cjaki (M)",
+    "Basay.IPA": "tsjaki (M)",
+    "ZH_TW": "污物",
+    "ENG": "dirt"
+  },
+  {
+    "id": "357-23",
+    "Basay": "cjamuaza (S)",
+    "Basay.IPA": "tsjamuaza (S)",
+    "ZH_TW": "很多",
+    "ENG": "many"
+  },
+  {
+    "id": "357-24",
+    "Basay": "cuaqai (M)",
+    "Basay.IPA": "tsuaqai (M)",
+    "ZH_TW": "穿",
+    "ENG": "wear"
+  },
+  {
+    "id": "357-25",
+    "Basay": "cuay, cumuay",
+    "Basay.IPA": "tsuay, tsumuay",
+    "ZH_TW": "這個，那個",
+    "ENG": "this, that"
+  },
+  {
+    "id": "357-26",
+    "Basay": "cubu (M)",
+    "Basay.IPA": "tsubu (M)",
+    "ZH_TW": "尿",
+    "ENG": "urine"
+  },
+  {
+    "id": "357-27",
+    "Basay": "cukcuk (M)",
+    "Basay.IPA": "tsuktsuk (M)",
+    "ZH_TW": "鑰匙，鎖",
+    "ENG": "key, lock"
+  },
+  {
+    "id": "357-28",
+    "Basay": "culakcakay",
+    "Basay.IPA": "tsulaktsakay",
+    "ZH_TW": "工作",
+    "ENG": "work"
+  },
+  {
+    "id": "357-29",
+    "Basay": "culal (M)",
+    "Basay.IPA": "tsulal (M)",
+    "ZH_TW": "承諾，信",
+    "ENG": "promise, letter"
+  },
+  {
+    "id": "357-30",
+    "Basay": "culrung",
+    "Basay.IPA": "tsuɭuŋ",
+    "ZH_TW": "吩咐",
+    "ENG": "order"
+  },
+  {
+    "id": "357-31",
+    "Basay": "cuzlung",
+    "Basay.IPA": "tsuɮuŋ",
+    "ZH_TW": "吩咐",
+    "ENG": "order"
+  },
+  {
+    "id": "358-1",
+    "Basay": "cumakai (M)",
+    "Basay.IPA": "tsumakai (M)",
+    "ZH_TW": "走動",
+    "ENG": "walk"
+  },
+  {
+    "id": "358-2",
+    "Basay": "cumakcak",
+    "Basay.IPA": "tsumaktsak",
+    "ZH_TW": "劈開",
+    "ENG": "chop"
+  },
+  {
+    "id": "358-3",
+    "Basay": "cumakcdkai na burtlan (M)",
+    "Basay.IPA": "tsumaktsdkai na burtlan (M)",
+    "ZH_TW": "彗星",
+    "ENG": "comet"
+  },
+  {
+    "id": "358-4",
+    "Basay": "cumakcakay",
+    "Basay.IPA": "tsumaktsakay",
+    "ZH_TW": "走動",
+    "ENG": "walk around"
+  },
+  {
+    "id": "358-5",
+    "Basay": "cumalal (M)",
+    "Basay.IPA": "tsumalal (M)",
+    "ZH_TW": "寫信",
+    "ENG": "write a letter"
+  },
+  {
+    "id": "358-6",
+    "Basay": "cumalrappa",
+    "Basay.IPA": "tsumaɭappa",
+    "ZH_TW": "清晨",
+    "ENG": "dawn"
+  },
+  {
+    "id": "358-7",
+    "Basay": "cumapaipait (M)",
+    "Basay.IPA": "tsumapepet (M)",
+    "ZH_TW": "捏，擰",
+    "ENG": "pinch (to)"
+  },
+  {
+    "id": "358-8",
+    "Basay": "cumapcap (M)",
+    "Basay.IPA": "tsumaptsap (M)",
+    "ZH_TW": "補裂縫",
+    "ENG": "fill up the crevice"
+  },
+  {
+    "id": "358-9",
+    "Basay": "cumacaq",
+    "Basay.IPA": "tsumatsaq",
+    "ZH_TW": "焦急",
+    "ENG": "anxious"
+  },
+  {
+    "id": "358-10",
+    "Basay": "cumacui (M)",
+    "Basay.IPA": "tsumatsui (M)",
+    "ZH_TW": "稱⋯的重量",
+    "ENG": "weigh"
+  },
+  {
+    "id": "358-11",
+    "Basay": "cumawakk(e) (M)",
+    "Basay.IPA": "tsumawakk(ə) (M)",
+    "ZH_TW": "殘幹",
+    "ENG": "stumping"
+  },
+  {
+    "id": "358-12",
+    "Basay": "cumay",
+    "Basay.IPA": "tsumay",
+    "ZH_TW": "擔心，懷疑",
+    "ENG": "worry, doubt"
+  },
+  {
+    "id": "358-13",
+    "Basay": "cumilam (M)",
+    "Basay.IPA": "tsumilam (M)",
+    "ZH_TW": "舔",
+    "ENG": "lick"
+  },
+  {
+    "id": "358-14",
+    "Basay": "cuminam (M)",
+    "Basay.IPA": "tsuminam (M)",
+    "ZH_TW": "醜的",
+    "ENG": "ugly"
+  },
+  {
+    "id": "358-15",
+    "Basay": "cumisin (S)",
+    "Basay.IPA": "tsumisin (S)",
+    "ZH_TW": "哭",
+    "ENG": "cry"
+  },
+  {
+    "id": "358-16",
+    "Basay": "cumiunata",
+    "Basay.IPA": "tsumiunata",
+    "ZH_TW": "沈思，想很多",
+    "ENG": "speculate"
+  },
+  {
+    "id": "358-17",
+    "Basay": "tucik (M), cumucikka (M)",
+    "Basay.IPA": "tutsik (M), tsumutsikka (M)",
+    "ZH_TW": "烤",
+    "ENG": "burn, broil"
+  },
+  {
+    "id": "358-18",
+    "Basay": "cungan",
+    "Basay.IPA": "tsuŋan",
+    "ZH_TW": "呼叫，河邊",
+    "ENG": "call, riverside"
+  },
+  {
+    "id": "358-19",
+    "Basay": "cuppai",
+    "Basay.IPA": "tsuppe",
+    "ZH_TW": "劈開",
+    "ENG": "split"
+  },
+  {
+    "id": "358-20",
+    "Basay": "cupu",
+    "Basay.IPA": "tsupu",
+    "ZH_TW": "鹿腿",
+    "ENG": "leu of deer"
+  },
+  {
+    "id": "358-21",
+    "Basay": "curukun (M)",
+    "Basay.IPA": "tsurukun (M)",
+    "ZH_TW": "褲子",
+    "ENG": "trousers"
+  },
+  {
+    "id": "358-22",
+    "Basay": "cucuvaqqa (M)",
+    "Basay.IPA": "tsutsuvaqqa (M)",
+    "ZH_TW": "厘",
+    "ENG": "rin"
+  },
+  {
+    "id": "358-23",
+    "Basay": "cuzuan",
+    "Basay.IPA": "tsuzuan",
+    "ZH_TW": "丟進",
+    "ENG": "throw to"
+  },
+  {
+    "id": "358-24",
+    "Basay": "cyuling",
+    "Basay.IPA": "tsyuliŋ",
+    "ZH_TW": "橡皮",
+    "ENG": "rubber"
+  },
+  {
+    "id": "358-25",
+    "Basay": "u",
+    "Basay.IPA": "u",
+    "ZH_TW": "斜格",
+    "ENG": "oblique"
+  },
+  {
+    "id": "358-26",
+    "Basay": "uai(M)",
+    "Basay.IPA": "uai(M)",
+    "ZH_TW": "藤",
+    "ENG": "rattan"
+  },
+  {
+    "id": "358-27",
+    "Basay": "ulran (S)",
+    "Basay.IPA": "uɭan (S)",
+    "ZH_TW": "雨",
+    "ENG": "rain"
+  },
+  {
+    "id": "358-28",
+    "Basay": "uman (S)",
+    "Basay.IPA": "uman (S)",
+    "ZH_TW": "再",
+    "ENG": "again"
+  },
+  {
+    "id": "358-29",
+    "Basay": "uni (S)",
+    "Basay.IPA": "uni (S)",
+    "ZH_TW": "甚麼",
+    "ENG": "what"
+  },
+  {
+    "id": "358-30",
+    "Basay": "unu",
+    "Basay.IPA": "unu",
+    "ZH_TW": "什麼",
+    "ENG": "what"
+  },
+  {
+    "id": "358-31",
+    "Basay": "ununia (M)",
+    "Basay.IPA": "ununia (M)",
+    "ZH_TW": "為何",
+    "ENG": "why"
+  },
+  {
+    "id": "359-1",
+    "Basay": "usupi (M)",
+    "Basay.IPA": "usupi (M)",
+    "ZH_TW": "滅火",
+    "ENG": "extinguish (to)"
+  },
+  {
+    "id": "359-2",
+    "Basay": "utteng",
+    "Basay.IPA": "uttəŋ",
+    "ZH_TW": "中午",
+    "ENG": "noon"
+  },
+  {
+    "id": "359-3",
+    "Basay": "utca, uca",
+    "Basay.IPA": "uttsa, utsa",
+    "ZH_TW": "一（人、動物）",
+    "ENG": "one (person, animal)"
+  },
+  {
+    "id": "359-4",
+    "Basay": "ucu",
+    "Basay.IPA": "utsu",
+    "ZH_TW": "頭",
+    "ENG": "head"
+  },
+  {
+    "id": "359-5",
+    "Basay": "uuca (M)",
+    "Basay.IPA": "uutsa (M)",
+    "ZH_TW": "甘蔗",
+    "ENG": "sugar-cane"
+  },
+  {
+    "id": "359-6",
+    "Basay": "uvaut",
+    "Basay.IPA": "uvaut",
+    "ZH_TW": "砍",
+    "ENG": "chop, cut"
+  },
+  {
+    "id": "359-7",
+    "Basay": "uvava (M)",
+    "Basay.IPA": "uvava (M)",
+    "ZH_TW": "揹",
+    "ENG": "carry on back"
+  },
+  {
+    "id": "359-8",
+    "Basay": "uvuka (M)",
+    "Basay.IPA": "uvuka (M)",
+    "ZH_TW": "解開",
+    "ENG": "untie"
+  },
+  {
+    "id": "359-9",
+    "Basay": "uzip (M)",
+    "Basay.IPA": "uzip (M)",
+    "ZH_TW": "薑",
+    "ENG": "ginger"
+  },
+  {
+    "id": "359-10",
+    "Basay": "uzuay",
+    "Basay.IPA": "uzuay",
+    "ZH_TW": "那邊",
+    "ENG": "there"
+  },
+  {
+    "id": "359-11",
+    "Basay": "uzuay (M)",
+    "Basay.IPA": "uzuay (M)",
+    "ZH_TW": "存在",
+    "ENG": "exist"
+  },
+  {
+    "id": "359-12",
+    "Basay": "vaang (M)",
+    "Basay.IPA": "vaaŋ (M)",
+    "ZH_TW": "水溝",
+    "ENG": "ditch"
+  },
+  {
+    "id": "359-13",
+    "Basay": "vaket (M)",
+    "Basay.IPA": "vakət (M)",
+    "ZH_TW": "強壯的",
+    "ENG": "strong"
+  },
+  {
+    "id": "359-14",
+    "Basay": "vakut (M)",
+    "Basay.IPA": "vakut (M)",
+    "ZH_TW": "足夠",
+    "ENG": "enough"
+  },
+  {
+    "id": "359-15",
+    "Basay": "vakvaki",
+    "Basay.IPA": "vakvaki",
+    "ZH_TW": "老人",
+    "ENG": "old man"
+  },
+  {
+    "id": "359-16",
+    "Basay": "valat",
+    "Basay.IPA": "valat",
+    "ZH_TW": "門",
+    "ENG": "door"
+  },
+  {
+    "id": "359-17",
+    "Basay": "valata (M)",
+    "Basay.IPA": "valata (M)",
+    "ZH_TW": "關門",
+    "ENG": "shut the door"
+  },
+  {
+    "id": "359-18",
+    "Basay": "valuvalung",
+    "Basay.IPA": "valuvaluŋ",
+    "ZH_TW": "很久",
+    "ENG": "long (time)"
+  },
+  {
+    "id": "359-19",
+    "Basay": "valri (S),vaci (S)",
+    "Basay.IPA": "vaɭi (S)，vatsi (S)",
+    "ZH_TW": "風",
+    "ENG": "wind"
+  },
+  {
+    "id": "359-20",
+    "Basay": "valriu (M)",
+    "Basay.IPA": "vaɭiu (M)",
+    "ZH_TW": "海藻",
+    "ENG": "seaweed"
+  },
+  {
+    "id": "359-21",
+    "Basay": "valrsi",
+    "Basay.IPA": "vaɭsi",
+    "ZH_TW": "掉進",
+    "ENG": "drop into"
+  },
+  {
+    "id": "359-22",
+    "Basay": "vanang",
+    "Basay.IPA": "vanaŋ",
+    "ZH_TW": "地，田地，水田",
+    "ENG": "field, land"
+  },
+  {
+    "id": "359-23",
+    "Basay": "vanait (M)",
+    "Basay.IPA": "vanet (M)",
+    "ZH_TW": "扯破，破（衣服）",
+    "ENG": "torn"
+  },
+  {
+    "id": "359-24",
+    "Basay": "vanel (S)",
+    "Basay.IPA": "vanəl (S)",
+    "ZH_TW": "羽毛",
+    "ENG": "feather"
+  },
+  {
+    "id": "359-25",
+    "Basay": "vano (M)",
+    "Basay.IPA": "vano (M)",
+    "ZH_TW": "體毛",
+    "ENG": "body hair"
+  },
+  {
+    "id": "359-26",
+    "Basay": "vanung (S)",
+    "Basay.IPA": "vanuŋ (S)",
+    "ZH_TW": "寶物",
+    "ENG": "treasure"
+  },
+  {
+    "id": "359-27",
+    "Basay": "vangka (M)",
+    "Basay.IPA": "vaŋka (M)",
+    "ZH_TW": "獨木舟",
+    "ENG": "canoe"
+  },
+  {
+    "id": "359-28",
+    "Basay": "vangsiss (S, M)",
+    "Basay.IPA": "vaŋsiss (S, M)",
+    "ZH_TW": "香",
+    "ENG": "smell good"
+  },
+  {
+    "id": "359-29",
+    "Basay": "vangun (M)",
+    "Basay.IPA": "vaŋun (M)",
+    "ZH_TW": "社名",
+    "ENG": "name of a village"
+  },
+  {
+    "id": "359-30",
+    "Basay": "varis (M)",
+    "Basay.IPA": "varis (M)",
+    "ZH_TW": "鐵",
+    "ENG": "iron"
+  },
+  {
+    "id": "359-31",
+    "Basay": "vasing (M)",
+    "Basay.IPA": "vasiŋ (M)",
+    "ZH_TW": "打噴嚏",
+    "ENG": "sneeze"
+  },
+  {
+    "id": "360-1",
+    "Basay": "vasiw",
+    "Basay.IPA": "vasiw",
+    "ZH_TW": "扔掉",
+    "ENG": "throw away"
+  },
+  {
+    "id": "360-2",
+    "Basay": "vatai (M)",
+    "Basay.IPA": "vate (M)",
+    "ZH_TW": "白色",
+    "ENG": "white"
+  },
+  {
+    "id": "360-3",
+    "Basay": "vacal (M)",
+    "Basay.IPA": "vatsal (M)",
+    "ZH_TW": "船",
+    "ENG": "ship"
+  },
+  {
+    "id": "360-4",
+    "Basay": "vaceng (M)",
+    "Basay.IPA": "vatsəŋ (M)",
+    "ZH_TW": "抽煙",
+    "ENG": "smoke"
+  },
+  {
+    "id": "360-5",
+    "Basay": "vaciu (M)",
+    "Basay.IPA": "vatsiu (M)",
+    "ZH_TW": "賣",
+    "ENG": "sell"
+  },
+  {
+    "id": "360-6",
+    "Basay": "vacun",
+    "Basay.IPA": "vatsun",
+    "ZH_TW": "支配",
+    "ENG": "dominate"
+  },
+  {
+    "id": "360-7",
+    "Basay": "vatu",
+    "Basay.IPA": "vatu",
+    "ZH_TW": "石頭",
+    "ENG": "stone"
+  },
+  {
+    "id": "360-8",
+    "Basay": "vatuk",
+    "Basay.IPA": "vatuk",
+    "ZH_TW": "砍",
+    "ENG": "cut"
+  },
+  {
+    "id": "360-9",
+    "Basay": "vaut",
+    "Basay.IPA": "vaut",
+    "ZH_TW": "魚",
+    "ENG": "fish"
+  },
+  {
+    "id": "360-10",
+    "Basay": "vautu mtalem (M)",
+    "Basay.IPA": "vautu mtaləm (M)",
+    "ZH_TW": "鹹魚",
+    "ENG": "salted fish"
+  },
+  {
+    "id": "360-11",
+    "Basay": "vauvi (M)",
+    "Basay.IPA": "vauvi (M)",
+    "ZH_TW": "早田，早地（甘薯地）",
+    "ENG": "dry farm land (potato)"
+  },
+  {
+    "id": "360-12",
+    "Basay": "vavaan",
+    "Basay.IPA": "vavaan",
+    "ZH_TW": "揹",
+    "ENG": "carry on back"
+  },
+  {
+    "id": "360-13",
+    "Basay": "vavang (M)",
+    "Basay.IPA": "vavaŋ (M)",
+    "ZH_TW": "社名",
+    "ENG": "name of a village"
+  },
+  {
+    "id": "360-14",
+    "Basay": "vawa",
+    "Basay.IPA": "vawa",
+    "ZH_TW": "船",
+    "ENG": "boat"
+  },
+  {
+    "id": "360-15",
+    "Basay": "vayvalan",
+    "Basay.IPA": "vayvalan",
+    "ZH_TW": "祖先",
+    "ENG": "ancestor"
+  },
+  {
+    "id": "360-16",
+    "Basay": "vaiqail (M)",
+    "Basay.IPA": "veqail (M)",
+    "ZH_TW": "鳥嘴",
+    "ENG": "break"
+  },
+  {
+    "id": "360-17",
+    "Basay": "vaisel (M)",
+    "Basay.IPA": "vesəl (M)",
+    "ZH_TW": "閂，門栓",
+    "ENG": "bolt, bear of the door"
+  },
+  {
+    "id": "360-18",
+    "Basay": "vek",
+    "Basay.IPA": "vək",
+    "ZH_TW": "下來",
+    "ENG": "come down"
+  },
+  {
+    "id": "360-19",
+    "Basay": "veqaan",
+    "Basay.IPA": "vəqaan",
+    "ZH_TW": "解開",
+    "ENG": "untie"
+  },
+  {
+    "id": "360-20",
+    "Basay": "viatai (S)",
+    "Basay.IPA": "viate (S)",
+    "ZH_TW": "切開",
+    "ENG": "cut open, split"
+  },
+  {
+    "id": "360-21",
+    "Basay": "viau (M)",
+    "Basay.IPA": "viau (M)",
+    "ZH_TW": "彎曲",
+    "ENG": "bend, curve"
+  },
+  {
+    "id": "360-22",
+    "Basay": "vilang (M)",
+    "Basay.IPA": "vilaŋ (M)",
+    "ZH_TW": "計算",
+    "ENG": "calculate"
+  },
+  {
+    "id": "360-23",
+    "Basay": "vinay",
+    "Basay.IPA": "vinay",
+    "ZH_TW": "女孩，女人，老婆",
+    "ENG": "girl, woman, wile"
+  },
+  {
+    "id": "360-24",
+    "Basay": "vislan",
+    "Basay.IPA": "vislan",
+    "ZH_TW": "上門栓",
+    "ENG": "latch"
+  },
+  {
+    "id": "360-25",
+    "Basay": "visun (M)",
+    "Basay.IPA": "visun (M)",
+    "ZH_TW": "搖籃",
+    "ENG": "cradle"
+  },
+  {
+    "id": "360-26",
+    "Basay": "vivis",
+    "Basay.IPA": "vivis",
+    "ZH_TW": "支撐",
+    "ENG": "prop up"
+  },
+  {
+    "id": "360-27",
+    "Basay": "vivittu",
+    "Basay.IPA": "vivittu",
+    "ZH_TW": "夾在石頭",
+    "ENG": "pinched by stones"
+  },
+  {
+    "id": "360-28",
+    "Basay": "viwviwta",
+    "Basay.IPA": "viwviwta",
+    "ZH_TW": "搖動",
+    "ENG": "swing, shake"
+  },
+  {
+    "id": "360-29",
+    "Basay": "vkasan",
+    "Basay.IPA": "vkasan",
+    "ZH_TW": "用士蓋起來",
+    "ENG": "cover with earth"
+  },
+  {
+    "id": "360-30",
+    "Basay": "vlailain (M)",
+    "Basay.IPA": "vlailain (M)",
+    "ZH_TW": "動搖，搖晃",
+    "ENG": "unstable, totter"
+  },
+  {
+    "id": "360-31",
+    "Basay": "vlaqu (M)",
+    "Basay.IPA": "vlaqu (M)",
+    "ZH_TW": "擁抱",
+    "ENG": "embrace, hold"
+  },
+  {
+    "id": "361-1",
+    "Basay": "vlavlayan",
+    "Basay.IPA": "vlavlayan",
+    "ZH_TW": "得到很多",
+    "ENG": "receive plenty"
+  },
+  {
+    "id": "361-2",
+    "Basay": "vlay",
+    "Basay.IPA": "vlay",
+    "ZH_TW": "給",
+    "ENG": "give"
+  },
+  {
+    "id": "361-3",
+    "Basay": "vlrajanimau < vlaj (M)",
+    "Basay.IPA": "vɭajanimau < vlaj (M)",
+    "ZH_TW": "歸還",
+    "ENG": "give, return"
+  },
+  {
+    "id": "361-4",
+    "Basay": "vlralrowan (M)",
+    "Basay.IPA": "vɭaɭowan (M)",
+    "ZH_TW": "螢火蟲",
+    "ENG": "firefly"
+  },
+  {
+    "id": "361-5",
+    "Basay": "vlralruan",
+    "Basay.IPA": "vɭaɭuan",
+    "ZH_TW": "糞金龜（蜣螂）",
+    "ENG": "dung beetle"
+  },
+  {
+    "id": "361-6",
+    "Basay": "vlrames cangas uqu (?) (M)",
+    "Basay.IPA": "vɭaməs tsaŋas uqu (?) (M)",
+    "ZH_TW": "乾淨的",
+    "ENG": "clean"
+  },
+  {
+    "id": "361-7",
+    "Basay": "vlungusan",
+    "Basay.IPA": "vluŋusan",
+    "ZH_TW": "適合，剛好",
+    "ENG": "suitable"
+  },
+  {
+    "id": "361-8",
+    "Basay": "vojaiq (M)",
+    "Basay.IPA": "vojeq (M)",
+    "ZH_TW": "開花",
+    "ENG": "bloom (to)"
+  },
+  {
+    "id": "361-9",
+    "Basay": "volroan (M)",
+    "Basay.IPA": "voɭoan (M)",
+    "ZH_TW": "耳朵",
+    "ENG": "ear"
+  },
+  {
+    "id": "361-10",
+    "Basay": "vongolro (M)",
+    "Basay.IPA": "voŋoɭo (M)",
+    "ZH_TW": "下面",
+    "ENG": "under"
+  },
+  {
+    "id": "361-11",
+    "Basay": "votol (M)",
+    "Basay.IPA": "votol (M)",
+    "ZH_TW": "睪丸",
+    "ENG": "testicle"
+  },
+  {
+    "id": "361-12",
+    "Basay": "vocai (M)",
+    "Basay.IPA": "votse (M)",
+    "ZH_TW": "熱水",
+    "ENG": "hot water"
+  },
+  {
+    "id": "361-13",
+    "Basay": "vozno (M)",
+    "Basay.IPA": "vozno (M)",
+    "ZH_TW": "拿回家",
+    "ENG": "bring home"
+  },
+  {
+    "id": "361-14",
+    "Basay": "vuing (M), vuingan",
+    "Basay.IPA": "vuiŋ (M), vuiŋan",
+    "ZH_TW": "折斷，弄壞",
+    "ENG": "break, destroy"
+  },
+  {
+    "id": "361-15",
+    "Basay": "vukan, vuqqang,vuyaqan",
+    "Basay.IPA": "vukan, vuqqaŋ,vuyaqan",
+    "ZH_TW": "打開，解開",
+    "ENG": "open, untie"
+  },
+  {
+    "id": "361-16",
+    "Basay": "vulai (M)",
+    "Basay.IPA": "vulai (M)",
+    "ZH_TW": "給",
+    "ENG": "give"
+  },
+  {
+    "id": "361-17",
+    "Basay": "vulac (M)",
+    "Basay.IPA": "vulats (M)",
+    "ZH_TW": "飯",
+    "ENG": "rice"
+  },
+  {
+    "id": "361-18",
+    "Basay": "vulru (M)",
+    "Basay.IPA": "vuɭu (M)",
+    "ZH_TW": "小蘿蔔",
+    "ENG": "radish"
+  },
+  {
+    "id": "361-19",
+    "Basay": "vulrvulr",
+    "Basay.IPA": "vuɭvuɭ",
+    "ZH_TW": "暖和",
+    "ENG": "warm"
+  },
+  {
+    "id": "361-20",
+    "Basay": "vuqalrus, vuqaqes",
+    "Basay.IPA": "vuqaɭus, vuqaqəs",
+    "ZH_TW": "懶惰蟲",
+    "ENG": "idler, lazy bones"
+  },
+  {
+    "id": "361-21",
+    "Basay": "vuqutta",
+    "Basay.IPA": "vuqutta",
+    "ZH_TW": "豬腳",
+    "ENG": "pig's feet"
+  },
+  {
+    "id": "361-22",
+    "Basay": "vurtlan (M)",
+    "Basay.IPA": "vurtlan (M)",
+    "ZH_TW": "星星",
+    "ENG": "stars"
+  },
+  {
+    "id": "361-23",
+    "Basay": "vurvur (M)",
+    "Basay.IPA": "vurvur (M)",
+    "ZH_TW": "烘焙",
+    "ENG": "roast"
+  },
+  {
+    "id": "361-24",
+    "Basay": "vusuk (M)",
+    "Basay.IPA": "vusuk (M)",
+    "ZH_TW": "酒醉",
+    "ENG": "drunk"
+  },
+  {
+    "id": "361-25",
+    "Basay": "vutun (M)",
+    "Basay.IPA": "vutun (M)",
+    "ZH_TW": "貓",
+    "ENG": "cat"
+  },
+  {
+    "id": "361-26",
+    "Basay": "vutvutta (M)",
+    "Basay.IPA": "vutvutta (M)",
+    "ZH_TW": "噴泉",
+    "ENG": "fountain"
+  },
+  {
+    "id": "361-27",
+    "Basay": "vucan (M)",
+    "Basay.IPA": "vutsan (M)",
+    "ZH_TW": "月亮",
+    "ENG": "moon"
+  },
+  {
+    "id": "361-28",
+    "Basay": "vucan u uca (M)",
+    "Basay.IPA": "vutsan u utsa (M)",
+    "ZH_TW": "下個月",
+    "ENG": "next month"
+  },
+  {
+    "id": "361-29",
+    "Basay": "vucanalrai (M)",
+    "Basay.IPA": "vutsanaɭai (M)",
+    "ZH_TW": "這個月",
+    "ENG": "this month"
+  },
+  {
+    "id": "361-30",
+    "Basay": "vucai, bucai",
+    "Basay.IPA": "vutse, butse",
+    "ZH_TW": "溫水",
+    "ENG": "warm water"
+  },
+  {
+    "id": "361-31",
+    "Basay": "vucuc (M)",
+    "Basay.IPA": "vutsuts (M)",
+    "ZH_TW": "台灣人",
+    "ENG": "Taiwanese"
+  },
+  {
+    "id": "362-1",
+    "Basay": "vucuca",
+    "Basay.IPA": "vutsutsa",
+    "ZH_TW": "漢人",
+    "ENG": "Chinese"
+  },
+  {
+    "id": "362-2",
+    "Basay": "vuut (M)",
+    "Basay.IPA": "vuut (M)",
+    "ZH_TW": "成就，成績",
+    "ENG": "accomplishment"
+  },
+  {
+    "id": "362-3",
+    "Basay": "waki (M)",
+    "Basay.IPA": "waki (M)",
+    "ZH_TW": "角",
+    "ENG": "horn"
+  },
+  {
+    "id": "362-4",
+    "Basay": "wanak, wanakai, wanaq (S)",
+    "Basay.IPA": "wanak, wanake, wanaq (S)",
+    "ZH_TW": "孩子",
+    "ENG": "child"
+  },
+  {
+    "id": "362-5",
+    "Basay": "wanay ",
+    "Basay.IPA": "wanay ⑸",
+    "ZH_TW": "好吧，吉利，只要",
+    "ENG": "alright, good, only"
+  },
+  {
+    "id": "362-6",
+    "Basay": "wania",
+    "Basay.IPA": "wani_a",
+    "ZH_TW": "完成",
+    "ENG": "finish"
+  },
+  {
+    "id": "362-7",
+    "Basay": "wanung (M)",
+    "Basay.IPA": "wanuŋ (M)",
+    "ZH_TW": "糖",
+    "ENG": "sugar"
+  },
+  {
+    "id": "362-8",
+    "Basay": "wacikam",
+    "Basay.IPA": "watsikam",
+    "ZH_TW": "不久",
+    "ENG": "before long"
+  },
+  {
+    "id": "362-9",
+    "Basay": "wacu (M)",
+    "Basay.IPA": "watsu (M)",
+    "ZH_TW": "狗",
+    "ENG": "dog"
+  },
+  {
+    "id": "362-10",
+    "Basay": "wacuay",
+    "Basay.IPA": "watsuay",
+    "ZH_TW": "好吃",
+    "ENG": "delicious"
+  },
+  {
+    "id": "362-11",
+    "Basay": "wacuaina (M), wacuay",
+    "Basay.IPA": "watsuaina (M), watsuay",
+    "ZH_TW": "完成，結束",
+    "ENG": "finish, end"
+  },
+  {
+    "id": "362-12",
+    "Basay": "ya",
+    "Basay.IPA": "ya",
+    "ZH_TW": "繫詞",
+    "ENG": "ligature"
+  },
+  {
+    "id": "362-13",
+    "Basay": "yakilu",
+    "Basay.IPA": "yakilu",
+    "ZH_TW": "小",
+    "ENG": "small"
+  },
+  {
+    "id": "362-14",
+    "Basay": "yaku",
+    "Basay.IPA": "yaku",
+    "ZH_TW": "我（主格）",
+    "ENG": "I (NOM)"
+  },
+  {
+    "id": "362-15",
+    "Basay": "yalravu",
+    "Basay.IPA": "yaɭavu",
+    "ZH_TW": "進去",
+    "ENG": "get in"
+  },
+  {
+    "id": "362-16",
+    "Basay": "yao",
+    "Basay.IPA": "yao",
+    "ZH_TW": "喂",
+    "ENG": "hello"
+  },
+  {
+    "id": "362-17",
+    "Basay": "yapana",
+    "Basay.IPA": "yapana",
+    "ZH_TW": "進家門",
+    "ENG": "enter a house"
+  },
+  {
+    "id": "362-18",
+    "Basay": "yataw",
+    "Basay.IPA": "yataw",
+    "ZH_TW": "確實，到底",
+    "ENG": "indeed, what on earth"
+  },
+  {
+    "id": "362-19",
+    "Basay": "yateman",
+    "Basay.IPA": "yatəman",
+    "ZH_TW": "下來",
+    "ENG": "come down"
+  },
+  {
+    "id": "362-20",
+    "Basay": "yatemnan",
+    "Basay.IPA": "yatəmnan",
+    "ZH_TW": "放置",
+    "ENG": "put"
+  },
+  {
+    "id": "362-21",
+    "Basay": "yau (S)",
+    "Basay.IPA": "yau (S)",
+    "ZH_TW": "在",
+    "ENG": "stay"
+  },
+  {
+    "id": "362-22",
+    "Basay": "yazas",
+    "Basay.IPA": "yazas",
+    "ZH_TW": "帶",
+    "ENG": "bring"
+  },
+  {
+    "id": "362-23",
+    "Basay": "zaizui (M)",
+    "Basay.IPA": "zaizui (M)",
+    "ZH_TW": "那裡",
+    "ENG": "there"
+  },
+  {
+    "id": "362-24",
+    "Basay": "zamal (M)",
+    "Basay.IPA": "zamal (M)",
+    "ZH_TW": "火",
+    "ENG": "fire"
+  },
+  {
+    "id": "362-25",
+    "Basay": "zana (S)",
+    "Basay.IPA": "zana (S)",
+    "ZH_TW": "水田",
+    "ENG": "rice paddy field"
+  },
+  {
+    "id": "362-26",
+    "Basay": "zanum",
+    "Basay.IPA": "zanum",
+    "ZH_TW": "水",
+    "ENG": "water"
+  },
+  {
+    "id": "362-27",
+    "Basay": "zau (loan from Kavalan)",
+    "Basay.IPA": "zau (loan from Kavalan)",
+    "ZH_TW": "這個",
+    "ENG": "this"
+  },
+  {
+    "id": "362-28",
+    "Basay": "zawis",
+    "Basay.IPA": "zawis",
+    "ZH_TW": "出名的",
+    "ENG": "famous"
+  },
+  {
+    "id": "362-29",
+    "Basay": "zazal",
+    "Basay.IPA": "zazal",
+    "ZH_TW": "一直看",
+    "ENG": "keep looking"
+  },
+  {
+    "id": "362-30",
+    "Basay": "zazanan",
+    "Basay.IPA": "zazanan",
+    "ZH_TW": "遇見",
+    "ENG": "meet"
+  },
+  {
+    "id": "362-31",
+    "Basay": "zazang (M)",
+    "Basay.IPA": "zazaŋ (M)",
+    "ZH_TW": "熱（天氣）",
+    "ENG": "hot (weather)"
+  },
+  {
+    "id": "363-1",
+    "Basay": "zazaw",
+    "Basay.IPA": "zazaw",
+    "ZH_TW": "如此",
+    "ENG": "so, in this way"
+  },
+  {
+    "id": "363-2",
+    "Basay": "zian",
+    "Basay.IPA": "zian",
+    "ZH_TW": "天",
+    "ENG": "day"
+  },
+  {
+    "id": "363-3",
+    "Basay": "zina",
+    "Basay.IPA": "zina",
+    "ZH_TW": "據說，也",
+    "ENG": "according to, also, it is said"
+  },
+  {
+    "id": "363-4",
+    "Basay": "zmaken",
+    "Basay.IPA": "zmakən",
+    "ZH_TW": "好吧，真的，對",
+    "ENG": "alright, really, right"
+  },
+  {
+    "id": "363-5",
+    "Basay": "zmakis",
+    "Basay.IPA": "zmakis",
+    "ZH_TW": "爬，上升",
+    "ENG": "ascend, climb"
+  },
+  {
+    "id": "363-6",
+    "Basay": "zmal, zumal, zumaz",
+    "Basay.IPA": "zmal, zumal, zumaz",
+    "ZH_TW": "看見",
+    "ENG": "see"
+  },
+  {
+    "id": "363-7",
+    "Basay": "zmawakka",
+    "Basay.IPA": "zmawakka",
+    "ZH_TW": "搗米",
+    "ENG": "pound rice"
+  },
+  {
+    "id": "363-8",
+    "Basay": "zozao (M)",
+    "Basay.IPA": "zozao (M)",
+    "ZH_TW": "大兒子",
+    "ENG": "oldest son"
+  },
+  {
+    "id": "363-9",
+    "Basay": "zu",
+    "Basay.IPA": "zu",
+    "ZH_TW": "到",
+    "ENG": "into"
+  },
+  {
+    "id": "363-10",
+    "Basay": "zukas, zukzukkas",
+    "Basay.IPA": "zukas, zukzukkas",
+    "ZH_TW": "累，疲倦",
+    "ENG": "tired"
+  },
+  {
+    "id": "363-11",
+    "Basay": "zumaia",
+    "Basay.IPA": "zumaia",
+    "ZH_TW": "別人",
+    "ENG": "someone (referential)"
+  },
+  {
+    "id": "363-12",
+    "Basay": "zumakinu (S)",
+    "Basay.IPA": "zumakinu (S)",
+    "ZH_TW": "真的",
+    "ENG": "really"
+  },
+  {
+    "id": "363-13",
+    "Basay": "zumap",
+    "Basay.IPA": "zumap",
+    "ZH_TW": "抵達",
+    "ENG": "arrive"
+  },
+  {
+    "id": "363-14",
+    "Basay": "zumauaita (M)",
+    "Basay.IPA": "zumaueta (M)",
+    "ZH_TW": "掛",
+    "ENG": "hang"
+  },
+  {
+    "id": "363-15",
+    "Basay": "zungzungan (M)",
+    "Basay.IPA": "zuŋzuŋan (M)",
+    "ZH_TW": "銅鑼，鼓",
+    "ENG": "drum, gong"
+  }
+]
