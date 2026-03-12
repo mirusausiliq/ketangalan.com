@@ -24,7 +24,7 @@ const Footer = () => {
     { icon: <FacebookLogo width="20px" />, href: "https://facebook.com/ketangalan" },
     { icon: <InstagramLogo width="20px" />, href: "https://instagram.com/ketangalan" },
     { icon: <ThreadsLogo width="20px" />, href: "https://threads.net/ketangalan" },
-    { icon: <LuMail width="20px" />, href: "mailto:mirusausiliq" }
+    { icon: <LuMail width="20px" />, href: "mailto:mirusausiliq@gmail.com" }
   ];
 
   return (

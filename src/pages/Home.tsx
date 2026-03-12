@@ -64,7 +64,7 @@ const Home = () => {
                   fontSize="4xl"
                   color={headingColor}
                 >
-                  巴賽凱達格蘭研究學會
+                  巴賽凱達格蘭研究學會籌備處
                 </Heading>
                 <Heading
                   as="h1"
@@ -95,16 +95,10 @@ const Home = () => {
             </Heading>
             <Stack gap={2} color="fg.muted">
               <Text>
-                巴賽（凱達格蘭）族為歷史上分布於臺灣北部的重要臺灣原住民之一，其語言巴賽（凱達格蘭）語曾廣泛使用於臺北盆地、桃園臺地、北海岸、東北角、以及蘭陽平原等地。
+                巴賽（凱達格蘭）族為歷史上分布於臺灣北部的重要臺灣原住民之一，其語言巴賽（凱達格蘭）語、雷朗語、哆囉美遠語、龜崙語曾廣泛使用於臺北盆地、桃園臺地、北海岸、東北角、以及蘭陽平原等地。
               </Text>
               <Text>
                 The Basay Ketangalan people were one of the Austronesian groups historically inhabiting northern Taiwan, particularly the Taipei Basin, Taoyuan Tableland, Northern and Northwest Coast, Kebalan Plain, and surrounding regions.
-              </Text>
-              <Text>
-                雖然巴賽語今日已不再作為日常語言使用，但透過語言學研究與歷史文獻，仍可重建其語音、語法與口傳文化。
-              </Text>
-              <Text>
-                巴賽（凱達格蘭）族為歷史上分布於臺灣北部的重要臺灣原住民之一，其語言巴賽（凱達格蘭）語曾廣泛使用於臺北盆地、桃園臺地、北海岸、東北角、以及蘭陽平原等地。
               </Text>
               <Text>
                 雖然巴賽（凱達格蘭）語今日已不再作為日常語言使用，但透過語言學研究與歷史文獻，仍可重建其語音、語法與口傳文化。

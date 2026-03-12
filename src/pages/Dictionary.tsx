@@ -1,24 +1,25 @@
 import {
-  Stack,
   Heading,
   Text,
   Container,
   Box,
   VStack,
   Input,
+  InputGroup,
   SimpleGrid,
   Badge,
   HStack,
+  IconButton,
+  Separator,
   Center,
-  InputGroup
+  Flex
 } from '@chakra-ui/react';
 import { useState, useMemo } from 'react';
-// Chakra v3 uses the "ColorModeButton" or specific hooks from your local ui folder
 import { useColorModeValue } from '@/components/ui/color-mode';
 import SEO from '@/components/SEO';
 import MainLayout from '@/layouts/MainLayout';
 import Ticker from '@/components/Ticker';
-import { LuSearch } from "react-icons/lu";
+import { LuSearch, LuPlay, LuInfo } from "react-icons/lu";
 
 // Import your generated JSON file
 import dictionaryData from "@/data/li2014dict.json";
@@ -34,31 +35,33 @@ interface Entry {
 const Dictionary = () => {
   const [query, setQuery] = useState("");
 
-  // Design Tokens
-  const brandTeal = "#269397";
-  const headingColor = useColorModeValue("black", "white");
-  const cardBg = useColorModeValue("white", "gray.800");
+  // Supabase Design Tokens
+  const brandGreen = "#3ecf8e"; // Signature Supabase Green
+  const borderColor = useColorModeValue("gray.200", "gray.800");
+  const secondaryBg = useColorModeValue("gray.50", "#1c1c1c");
+  const mainBg = useColorModeValue("white", "#121212");
+  const mutedText = useColorModeValue("gray.500", "gray.400");
 
-  const structuredData = {
-    "@context": "https://schema.org",
-    "@type": "Dataset",
-    "name": "Basay Ketangalan Dictionary",
-    "description": "A searchable database of the Basay language based on Li (2014) research.",
-    "url": "https://ketangalan.com/dictionary",
+  const playAudio = (id: string) => {
+    const audioPath = `/audio/${id}.webm`;
+    const audio = new Audio(audioPath);
+    audio.play().catch((err) => {
+      console.warn(`Audio for ${id} not found`, err);
+      alert("此詞彙尚未錄音 No recording yet.");
+    });
   };
 
-  // Improved Filter logic with null checks
   const filteredData = useMemo(() => {
     const s = query.toLowerCase().trim();
     const data = dictionaryData as Entry[];
-
-    if (!s) return data.slice(0, 40); // Increased initial view
+    if (!s) return data.slice(0, 40);
 
     return data.filter(item =>
       (item["Basay"]?.toLowerCase().includes(s)) ||
       (item["Basay.IPA"]?.toLowerCase().includes(s)) ||
       (item["ZH_TW"]?.includes(s)) ||
-      (item["ENG"]?.toLowerCase().includes(s))
+      (item["ENG"]?.toLowerCase().includes(s)) ||
+      (item["id"]?.includes(s))
     );
   }, [query]);
 
@@ -66,123 +69,152 @@ const Dictionary = () => {
     <>
       <SEO
         title="辭典 Dictionary | 巴賽凱達格蘭研究學會"
-        description="Searchable Basay Ketangalan dictionary database featuring IPA transcriptions and orthography."
+        description="Searchable Basay dictionary featuring orthography and IPA."
         ogType="website"
-        structuredData={structuredData}
-        keywords="Basay, Ketangalan, dictionary, indigenous language, Taiwan"
       />
 
       <MainLayout>
-        <Container w="full" px={0}>
-          <Stack gap={2}>
-            <Ticker
-              bgColor={brandTeal}
-              items={["辭典 Dictionary", "巴賽凱達格蘭研究學會 Society for Basay Ketangalan Studies"]}
-            />
+        <Ticker
+          bgColor={brandGreen}
+          items={["辭典 Dictionary", "巴賽凱達格蘭研究學會 Society for Basay Ketangalan Studies"]}
+        />
 
-            <VStack align="stretch">
-              <Box
-
-              >
+        <Container p={0} pt={4}>
+          <VStack align="stretch" gap={2}>
+            {/* Header Section */}
+            <Flex justify="space-between" align="flex-end" wrap="wrap" gap={2}>
+              <Box>
                 <Heading
-                  size="2xl"
-                  fontWeight="800"
-                  color={headingColor}
+                  size="3xl"
+                  letterSpacing="tight"
+                  fontWeight="bold"
                 >
                   巴賽凱達格蘭語辭典
                 </Heading>
-                <Heading
-                  size="xl"
-                  fontWeight="800"
-                  color={headingColor}
+                <Text
+                  color={brandGreen}
+                  fontSize="xl"
+                  fontFamily="mono"
+                  fontWeight="medium"
                 >
-                  Basay Ketangalan Dictionary
-                </Heading>
-              </Box>
-
-              {/* Search Bar - Fixed z-index and background */}
-              <Box
-                position="relative"
-                zIndex="docked"
-                bg="transparent"
-                transition="background 0.2s"
-              >
-                <InputGroup
-                  flex="1"
-                  width="full"
-                  startElement={<LuSearch color={brandTeal} />}
-                >
-                  <Input
-                    placeholder="搜尋 Search ..."
-                    borderRadius="2xl"
-                    size="lg"
-                    fontFamily={"monospace"}
-                    bg={cardBg}
-                    _focus={{ borderColor: brandTeal, ringColor: brandTeal }}
-                    value={query}
-                    onChange={(e) => setQuery(e.target.value)}
-                  />
-                </InputGroup>
-                <Text mt={2} fontSize="xs" color="gray.500" fontWeight="medium">
-                  找到 {filteredData.length} 筆結果
+                  Basay_Ketangalan_Dictionary.v1
                 </Text>
               </Box>
 
-              {/* Results Grid */}
-              <SimpleGrid columns={{ base: 1, md: 2, lg: 2 }} gap={6}>
-                {filteredData.slice(0, 100).map((entry, index) => (
-                  <Box
-                    key={entry["id"] || index}
-                    p={3}
-                    bg={cardBg}
-                    borderRadius="2xl"
-                    boxShadow="none"
-                    borderWidth={2}
-                    _hover={{ shadow: "md", borderColor: brandTeal }}
-                  >
-                    <Stack gap={2}>
-                      <HStack
-                        align="flex-start"
-                      >
-                        <Center gap={4}>
-                          <Badge
-                            variant="solid" colorPalette="pink"
-                          >
-                            {entry["id"]}
-                          </Badge>
-                          <Text
-                            fontSize="1xl"
-                            fontWeight={"bold"}
-                            color={brandTeal}
-                          >
-                            {entry["Basay"]}
-                          </Text>
-                          <Text
-                            fontSize="sm"
-                            fontFamily={"monospace"}
-                            color="gray.500"
-                          >
-                            /{entry["Basay.IPA"]}/
-                          </Text>
-                        </Center>
-                      </HStack>
-                      <HStack>
-                        <Text>{entry["ZH_TW"]}</Text>
-                        <Text>{entry["ENG"]}</Text>
-                      </HStack>
-                    </Stack>
-                  </Box>
-                ))}
-              </SimpleGrid>
+              <HStack
+                p={2}
+                bg={secondaryBg}
+                borderRadius="md"
+                gap={2}
+              >
+                <LuInfo color={brandGreen} />
+                <Text fontSize="xs" maxW="300px" lineHeight="short">
+                  目前資料仍有待確認，語料與音檔僅供參考。
+                  Data is preliminary; recordings for reference only.
+                </Text>
+              </HStack>
+            </Flex>
 
-              {filteredData.length === 0 && (
-                <Box textAlign="center" py={20} border="2px solid" borderColor="gray.200" borderRadius="2xl">
-                  <Text color="gray.400" fontSize="lg">找不到與「{query}」相符的結果。</Text>
-                  <Text color="gray.400" fontSize="lg">There is no "{query}" in the dictionary.</Text>
+            {/* Supabase-style Search Bar */}
+            <InputGroup
+              width="full"
+              startElement={<LuSearch color={mutedText} />}
+            >
+              <Input
+                placeholder="搜尋詞彙 Search entries..."
+                borderRadius={"md"}
+                variant="subtle"
+                fontSize="md"
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
+                _placeholder={{ color: "gray.500" }}
+              />
+            </InputGroup>
+
+            <HStack justify="space-between">
+              <Text fontSize="xs" fontFamily="mono" color={mutedText} textTransform="uppercase" letterSpacing="widest">
+                Showing {filteredData.length} entries
+              </Text>
+              <Separator flex="1" mx={0} opacity="0.1" />
+            </HStack>
+
+            {/* Results Grid */}
+            <SimpleGrid columns={{ base: 1, lg: 2 }} gap={4}>
+              {filteredData.slice(0, 100).map((entry) => (
+                <Box
+                  key={entry.id}
+                  p={4}
+                  bg={mainBg}
+                  borderRadius="md"
+                  borderWidth="1px"
+                  borderColor={borderColor}
+                  transition="all 0.2s ease-in-out"
+                  _hover={{ borderColor: brandGreen, shadow: "sm", transform: "translateY(-1px)" }}
+                  position="relative"
+                  overflow="hidden"
+                >
+                  <HStack justify="space-between" align="flex-start">
+                    <VStack align="flex-start" gap={2} width="full">
+
+                      <Center>
+                        <HStack gap={2}>
+                          <Badge
+                            variant="outline"
+                            fontFamily="mono"
+                            colorPalette="gray"
+                            borderRadius="sm"
+                            px={2}
+                          >
+                            {entry.id}
+                          </Badge>
+                          <Text fontSize="1xl" fontWeight="600" letterSpacing="tight">
+                            {entry.Basay}
+                          </Text>
+                        </HStack>
+                      </Center>
+
+                      <Box>
+                        <Text fontSize="sm" fontFamily="mono" color={brandGreen} mb={1}>
+                          /{entry["Basay.IPA"]}/
+                        </Text>
+                        <HStack gap={4}>
+                          <Text fontWeight="medium" fontSize="lg">{entry.ZH_TW}</Text>
+                          <Separator orientation="vertical" h="4" />
+                          <Text color={mutedText} fontStyle="italic">{entry.ENG}</Text>
+                        </HStack>
+                      </Box>
+                    </VStack>
+
+                    <IconButton
+                      aria-label="Play"
+                      variant="ghost"
+                      color={brandGreen}
+                      _hover={{ bg: "rgba(62, 207, 142, 0.1)" }}
+                      borderRadius="md"
+                      borderWidth="1px"
+                      borderColor={borderColor}
+                      onClick={() => playAudio(entry.id)}
+                    >
+                      <LuPlay fill={brandGreen} />
+                    </IconButton>
+                  </HStack>
                 </Box>
-              )}
-            </VStack>
-          </Stack>
+              ))}
+            </SimpleGrid>
+
+            {filteredData.length === 0 && (
+              <Box
+                textAlign="center"
+                py={20}
+                border="1px dashed"
+                borderColor={borderColor}
+                borderRadius="xl"
+                bg={secondaryBg}
+              >
+                <Text fontFamily="mono" color={mutedText}>[!] No entries matched your query</Text>
+              </Box>
+            )}
+          </VStack>
         </Container>
       </MainLayout>
     </>

@@ -7,6 +7,7 @@ import About from '@/pages/About';
 import News from '@/pages/News';
 import Sources from '@/pages/Sources';
 import Dictionary from '@/pages/Dictionary';
+import Recorder from '@/pages/Recorder';
 import NotFound from '@/pages/NotFound';
 
 const AppRoutes = () => {
@@ -17,6 +18,7 @@ const AppRoutes = () => {
       <Route path="/news" element={<News />} />
       <Route path="/sources" element={<Sources />} />
       <Route path="/dictionary" element={<Dictionary />} />
+      <Route path="/recorder" element={<Recorder />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
   )
