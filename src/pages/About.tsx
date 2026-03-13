@@ -12,15 +12,6 @@ import MainLayout from "@/layouts/MainLayout";
 import Ticker from "@/components/Ticker";
 
 const About = () => {
-  const structuredData = {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    name: "Society of Basay Ketangalan Studies",
-    alternateName: "巴賽凱達格蘭研究學會",
-    description:
-      "A scholarly and cultural organization dedicated to the research, preservation, and revitalization of Basay Ketangalan language, history, and cultural heritage.",
-    url: "https://ketangalan.com",
-  };
 
   const headingColor = useColorModeValue("black", "white")
   const textColor = useColorModeValue("black", "gray.400")
@@ -28,10 +19,10 @@ const About = () => {
   return (
     <>
       <SEO
-        title="關於 About | 巴賽凱達格蘭研究學會 Society for Basay Ketangalan Studies"
-        description="Learn about our mission to preserve and advance Basay Ketangalan language, history, and culture through research, digital archives, and community collaboration."
-        ogType="website"
-        structuredData={structuredData}
+        title="關於 About"
+        description="了解巴賽凱達格蘭研究學會的成立宗旨、研究團隊以及我們在語言復振工作上的進展。"
+        canonical="/about"
+        keywords="學會宗旨, 組織架構, 語言復振計畫, 凱達格蘭研究歷史"
       />
 
       <MainLayout>

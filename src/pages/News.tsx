@@ -10,23 +10,13 @@ import Ticker from '@/components/Ticker';
 import SEO from '@/components/SEO';
 
 const News = () => {
-  const structuredData = {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    name: "Society of Basay Ketangalan Studies",
-    alternateName: "巴賽凱達格蘭研究學會",
-    description:
-      "A scholarly and cultural organization dedicated to the research, preservation, and revitalization of Basay Ketangalan language, history, and cultural heritage.",
-    url: "https://ketangalan.com",
-  };
-
   return (
     <>
       <SEO
-        title="最新消息 News | 巴賽凱達格蘭研究學會 Society for Basay Ketangalan Studies"
-        description="Learn about our mission to preserve and advance Basay Ketangalan language, history, and culture through research, digital archives, and community collaboration."
-        ogType="website"
-        structuredData={structuredData}
+        title="最新消息 News"
+        description="掌握巴賽凱達格蘭研究學會的最新活動、學術講座、田野調查進度與公告事項。"
+        canonical="/news"
+        ogType="website" // 若是特定新聞單篇，可改為 "article"
       />
       <MainLayout>
         <Container w="full" px={0}>

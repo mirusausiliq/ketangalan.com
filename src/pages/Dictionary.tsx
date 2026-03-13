@@ -11,8 +11,8 @@ import {
   HStack,
   IconButton,
   Separator,
-  Center,
-  Flex
+  Flex,
+  Link
 } from '@chakra-ui/react';
 import { useState, useMemo } from 'react';
 import { useColorModeValue } from '@/components/ui/color-mode';
@@ -68,9 +68,20 @@ const Dictionary = () => {
   return (
     <>
       <SEO
-        title="辭典 Dictionary | 巴賽凱達格蘭研究學會"
-        description="Searchable Basay dictionary featuring orthography and IPA."
-        ogType="website"
+        title="辭典 Dictionary"
+        description="全世界最完整的巴賽凱達格蘭語（Basay Ketangalan）線上辭典，提供詞彙發音與翻譯。"
+        canonical="/dictionary"
+        keywords="巴賽語字典, Basay Dictionary, 原住民語言查詢, 語言學習"
+        structuredData={{
+          "@context": "https://schema.org",
+          "@type": "DataCatalog", // 宣告這是一個資料目錄
+          "name": "巴賽凱達格蘭語線上辭典",
+          "description": "收錄巴賽凱達格蘭語彙與構詞分析的數位化工具。",
+          "publisher": {
+            "@type": "Organization",
+            "name": "巴賽凱達格蘭研究學會"
+          }
+        }}
       />
 
       <MainLayout>
@@ -141,44 +152,52 @@ const Dictionary = () => {
             {/* Results Grid */}
             <SimpleGrid columns={{ base: 1, lg: 2 }} gap={4}>
               {filteredData.slice(0, 100).map((entry) => (
-                <Box
+                <Link
+                  href={`/dictionary/${entry.id}`}
                   key={entry.id}
+                  display="block" // 確保佔滿寬度
                   p={4}
                   bg={mainBg}
                   borderRadius="md"
                   borderWidth="1px"
                   borderColor={borderColor}
                   transition="all 0.2s ease-in-out"
-                  _hover={{ borderColor: brandGreen, shadow: "sm", transform: "translateY(-1px)" }}
+                  _hover={{
+                    borderColor: brandGreen,
+                    shadow: "sm",
+                    transform: "translateY(-1px)",
+                    textDecoration: "none" // 移除連結預設底線
+                  }}
                   position="relative"
                   overflow="hidden"
+                  textDecoration="none"
                 >
                   <HStack justify="space-between" align="flex-start">
                     <VStack align="flex-start" gap={2} width="full">
-
-                      <Center>
-                        <HStack gap={2}>
-                          <Badge
-                            variant="outline"
-                            fontFamily="mono"
-                            colorPalette="gray"
-                            borderRadius="sm"
-                            px={2}
-                          >
-                            {entry.id}
-                          </Badge>
-                          <Text fontSize="1xl" fontWeight="600" letterSpacing="tight">
-                            {entry.Basay}
-                          </Text>
-                        </HStack>
-                      </Center>
+                      {/* 原本的 Badge 與 標題 */}
+                      <HStack gap={2}>
+                        <Badge
+                          variant="outline"
+                          fontFamily="mono"
+                          colorPalette="gray"
+                          borderRadius="sm"
+                          px={2}
+                        >
+                          {entry.id}
+                        </Badge>
+                        <Text fontSize="1xl" fontWeight="600" letterSpacing="tight" color={useColorModeValue("black", "white")}>
+                          {entry.Basay}
+                        </Text>
+                      </HStack>
 
                       <Box>
                         <Text fontSize="sm" fontFamily="mono" color={brandGreen} mb={1}>
                           /{entry["Basay.IPA"]}/
                         </Text>
                         <HStack gap={4}>
-                          <Text fontWeight="medium" fontSize="lg">{entry.ZH_TW}</Text>
+                          <Text fontWeight="medium" fontSize="lg" color={useColorModeValue("black", "white")}>
+                            {entry.ZH_TW}
+                          </Text>
                           <Separator orientation="vertical" h="4" />
                           <Text color={mutedText} fontStyle="italic">{entry.ENG}</Text>
                         </HStack>
@@ -193,14 +212,19 @@ const Dictionary = () => {
                       borderRadius="md"
                       borderWidth="1px"
                       borderColor={borderColor}
-                      onClick={() => playAudio(entry.id)}
+                      onClick={(e) => {
+                        e.preventDefault(); // 重要：防止點擊按鈕時跳轉頁面
+                        e.stopPropagation(); // 重要：防止事件冒泡
+                        playAudio(entry.id);
+                      }}
                     >
                       <LuPlay fill={brandGreen} />
                     </IconButton>
                   </HStack>
-                </Box>
+                </Link>
+                
               ))}
-            </SimpleGrid>
+              </SimpleGrid>
 
             {filteredData.length === 0 && (
               <Box

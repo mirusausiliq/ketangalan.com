@@ -10,7 +10,7 @@ const NotFound = () => {
   return (
     <>
       <SEO
-        title="404 Page Not Found | 巴賽凱達格蘭研究學會 Society for Basay Ketangalan Studies"
+        title="404 Page Not Found"
         description="The page you are looking for could not be found."
       />
 

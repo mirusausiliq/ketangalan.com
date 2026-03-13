@@ -87,21 +87,13 @@ const Sources = () => {
     },
   ]
 
-  const structuredData = {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Resources",
-    "description": "Educational, academic, and community resources for Ketangalan language learning and research",
-    "url": "https://ketangalan.com/resources",
-  };
-
   return (
     <>
       <SEO
-        title="資源 Sources | 巴賽凱達格蘭研究學會 Society for Basay Ketangalan Studies"
-        description="Access our comprehensive collection of learning materials, academic resources, community guides, and digital tools for Ketangalan language and culture."
-        ogType="website"
-        structuredData={structuredData}
+        title="資源 Source"
+        description="收錄巴賽凱達格蘭族（Basay Ketangalan）相關的語言、文化、歷史等文獻、學術論文、田野錄音與數位典藏資料。"
+        canonical="/sources"
+        keywords="巴賽語文獻, 數位典藏, 田野調查, 語言學研究, 伊能嘉矩, 淺井惠倫"
       />
       <MainLayout>
         <Container w="full" px={0}>

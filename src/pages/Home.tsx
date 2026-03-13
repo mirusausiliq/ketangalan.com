@@ -29,22 +29,13 @@ const Home = () => {
     },
   ]
   const headingColor = useColorModeValue("black", "white");
-  const structuredData = {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Ketangalan",
-    "description": "Research, essays, and resources on Ketangalan language and culture",
-    "url": "https://ketangalan.com",
-  };
 
   return (
     <>
       <SEO
-        title="首頁 Home | 巴賽凱達格蘭研究學會 Society for Basay Ketangalan Studies"
-        description="Research, essays, and resources dedicated to preserving Ketangalan language and culture through academic scholarship and community collaboration."
-        ogType="website"
-        structuredData={structuredData}
-        keywords="Ketangalan, indigenous language, linguistics, research, cultural preservation"
+        title="首頁 Home"
+        description="致力於北臺灣平埔族群——巴賽凱達格蘭族語言與文化之保存、語言復振與學術研究。"
+        canonical="/"
       />
       <MainLayout>
         <Container top={0} px={0}>
